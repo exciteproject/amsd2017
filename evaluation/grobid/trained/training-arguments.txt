@@ -1,0 +1,12 @@
+0: 1
+1: true
+2: 10
+3: /EXCITE/scratch/eval/amsd2017/git/amsd2017/evaluation/lists/random-ids.csv
+4: /EXCITE/scratch/eval/amsd2017/git/ssoar-gold-standard/reference-extraction/grobid/train/de
+5: /EXCITE/scratch/eval/amsd2017/grobid/trained-folds
+6: /EXCITE/scratch/eval/amsd2017/pdf-crop
+7: /EXCITE/scratch/eval/amsd2017/git/ssoar-gold-standard/reference-extraction/grobid/ref-lines/de
+8: 0
+9: /EXCITE/scratch/eval/amsd2017/lib/grobid-0.4.1/grobid-home
+
+1 true 10 /EXCITE/scratch/eval/amsd2017/git/amsd2017/evaluation/lists/random-ids.csv /EXCITE/scratch/eval/amsd2017/git/ssoar-gold-standard/reference-extraction/grobid/train/de /EXCITE/scratch/eval/amsd2017/grobid/trained-folds /EXCITE/scratch/eval/amsd2017/pdf-crop /EXCITE/scratch/eval/amsd2017/git/ssoar-gold-standard/reference-extraction/grobid/ref-lines/de /EXCITE/scratch/eval/amsd2017/lib/grobid-0.4.1/grobid-home

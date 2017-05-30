@@ -1,0 +1,32 @@
+{
+  "truePositives": [
+    "B-REF\tBest, P./Laier, M./Jampert, K./Sens, A./Leuckefeld, K. (2011): Dialoge mit Kindern führen. Die Sprache",
+    "I-REF\tder Kinder im dritten Lebensjahr beobachten, entdecken und anregen. Herausgegeben von der Stif-",
+    "I-REF\ttung Baden-Württemberg. – Weimar/Berlin.",
+    "B-REF\tBuschmann, A./Jooss, B. (2011): Alltagsintegrierte Sprachförderung in der Kinderkrippe. Effektivität ei-",
+    "I-REF\tnes sprachbasierten Interaktionstrainings für pädagogisches Fachpersonal. Verhaltenstherapie \u0026",
+    "I-REF\tpsychosoziale Praxis, 43, 2, S. 303-312.",
+    "B-REF\tBuschmann, A./Simon, S./Jooss, B./Sachse, S. (2010): Ein sprachbasiertes Interaktionstraining für Erziehe-",
+    "I-REF\trInnen ( \" Heidelberger Trainingsprogramm \" ) zur alltagsintegrierten Sprachförderung in Krippe und",
+    "I-REF\tKindergarten – Konzept und Evaluation. In: Fröhlich-Gildhoff, K./Nentwig-Gesemann, I./ Strehmel, P.",
+    "I-REF\t(Hrsg.): Forschung in der Frühpädagogik III. Schwerpunkt: Sprachentwicklung \u0026 Sprachförderung.",
+    "I-REF\tMaterialien zur Frühpädagogik, Band 5. – Freiburg, S. 107-133.",
+    "B-REF\tJampert, K./Thanner, V./Schattel, D./Sens, A./Zehnbauer, A./Best, P. /Laier, M. (Hrsg.) (2011): Die Sprache",
+    "I-REF\tder Jüngsten entdecken und begleiten. Sprachliche Bildung und Förderung für Kinder unter Drei. –",
+    "I-REF\tWeimar/Berlin.",
+    "B-REF\tJampert, K./Zehnbauer, A./Best, P./Sens, A./Leuckefeld, K./Laier, M.(Hrsg.) (2009): Kinder-Sprache",
+    "I-REF\tstärken! Sprachliche Bildung und Förderung in der Kita. Das Praxismaterial. – Weimar/Berlin.",
+    "B-REF\tKuger, S./Sechtig,J./Anders, Y. (2012): Kompensatorische (Sprach-)Förderung. Was lässt sich aus US-",
+    "I-REF\tamerikanischen Projekten lernen? Frühe Bildung, 1, 4, S. 181-193.",
+    "B-REF\tSachse, S./Budde, N./Rinker, T./Groth, K. (2012): Evaluation einer Sprachfördermaßnahme für Vorschul-",
+    "I-REF\tkinder. Frühe Bildung, 1, 4, S. 194-201.",
+    "B-REF\tSchöler, H./Roos, J. (2011): Ergebnisse einer Evaluation von Sprachfördermaßnahmen in Mannheimer",
+    "I-REF\tund Heidelberger Kitas. In: Fröhlich-Gildhoff, K./Nentwig-Gesemann, I./Strehmel, P. (Hrsg.): For-",
+    "I-REF\tschung in der Frühpädagogik III. Schwerpunkt: Sprachentwicklung \u0026 Sprachförderung. Materialien",
+    "I-REF\tzur Frühpädagogik, Band 5. – Freiburg, S. 35-74.",
+    "B-REF\tWolf, K. M./Felbrich, A./Stanat, P./Wendt, W. (2011): Evaluation der kompensatorischen Sprachförde-",
+    "I-REF\trung in Brandenburger Kindertagesstätten. Empirische Pädagogik, 25, 4, S. 423-438."
+  ],
+  "falseNegatives": [],
+  "falsePositives": []
+}

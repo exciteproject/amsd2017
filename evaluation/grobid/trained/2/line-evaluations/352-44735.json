@@ -1,0 +1,26 @@
+{
+  "truePositives": [
+    "B-REF\tAtes , , Seyran, 2008: Der Multikulti-Irrtum. Wie wir in Deutschland besser zusammen leben kön-",
+    "I-REF\tnen. Berlin, insbes. 55-63 und 187-190.",
+    "B-REF\tBenhabib, Seyla (Hg.), 1993: Der Streit um Differenz. Feminismus und Postmoderne in der Ge-",
+    "I-REF\tgenwart. Frankfurt/M.",
+    "B-REF\tBraun, Christina von/Mathes, Bettina, 2007: Verschleierte Wirklichkeit. Die Frau, der Islam und",
+    "I-REF\tder Westen. Bonn, insbes. 16-26 und 429-31.",
+    "B-REF\tButler, Judith, 2010a: Abschrift der Rede auf dem Christopher Street Day Berlin, 19.06.2010. In-",
+    "I-REF\tternet: theoriealspraxis.blogsport.de/2010/06/20/abschrift-der-preis-annahme-verweigerungs-",
+    "I-REF\trede-von-judith-butler-beim-csd-in-berlin/ (18.08.2013).",
+    "B-REF\tButler, Judith, 2010b: Raster des Krieges. Warum wir nicht jedes Leid beklagen. Frankfurt/M.,",
+    "I-REF\tinsbes. 32-34 und 99-107.",
+    "B-REF\tButler, Judith, 2010c: \" In diesem Kampf gibt es keinen Platz für Rassismus \" . Katharina Hamann:",
+    "I-REF\tJudith Butler im Gespräch über Rassismus, Homophobie und Antisemitismus. In: Jungle World,",
+    "I-REF\tNr. 30, 29.07.2010.",
+    "B-REF\tMoghissi, Haideh, 1999: Fem inism and Islamic Fundamentalism. London, insbes. 49-63."
+  ],
+  "falseNegatives": [],
+  "falsePositives": [
+    "B-REF\tFP_02_13_105_124.indd 123",
+    "B-REF\tFP_02_13_105_124.indd 123",
+    "I-REF\t08.10.2013 18:22:54",
+    "I-REF\t08.10.2013 18:22:54"
+  ]
+}
