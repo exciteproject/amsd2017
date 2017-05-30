@@ -1,0 +1,30 @@
+{
+  "truePositives": [
+    "B-REF\tM. Escolar et al., Ultimas Imágenes del Naufragio: las elecciones del 2001 en la Argentina,",
+    "I-REF\tin: Desarrollo Económico Vol. 42 (2002), No. 165, S. 25-44.",
+    "B-REF\tGuillermo Molinelli et al., Congreso, Presidencia y Justicia en Argentina, Buenos Aires 1999.",
+    "B-REF\tJuan Carlos Torre, Los huérfanos de la política de partidos. Sobre alcances y la naturaleza de la crisis",
+    "I-REF\tde representación partidaria, in: Desarrollo Económico Vol. 43 (2003), No. 168, S. 647-665."
+  ],
+  "falseNegatives": [],
+  "falsePositives": [
+    "B-REF\tInternetausgaben von",
+    "I-REF\tLa Nación – www.lanacion.com.ar",
+    "I-REF\tClarín – www.clarin.com.ar",
+    "I-REF\tPágina 12 – www.pagina12.com.ar",
+    "I-REF\tFrühere Brennpunkte zu Argentinien:",
+    "I-REF\tNr. 20-99 Was kommt nach Menem? Die argentinischen Präsidentschaftswahlen vom 24.10.1999.",
+    "I-REF\t(Detlef Nolte)",
+    "I-REF\tNr. 03-01 Argentinien nach dem ersten Jahr der Präsidentschaft von Fernando de la Rúa: zwischen der",
+    "I-REF\tMelancholie des Tango und dem Prinzip Hoffnung.",
+    "I-REF\t(Alejandra Kern/Detlef Nolte)",
+    "I-REF\tNr. 06-01 Trendwende in Argentinien? Ist Domingo Cavallo erneut der Retter?",
+    "I-REF\t(Detlef Nolte)",
+    "I-REF\tNr. 20-01 Wahlen in Argentinien. Niederlage, Rezession und Politikverdrossenheit: Kann Präsident de",
+    "I-REF\tla Rúa weiter regieren?",
+    "I-REF\t(Agustín Ferraro/Mariana Llanos)",
+    "I-REF\tNr. 03-02 Reason to cry, Argentina! Das Land steht vor einem ökonomischen Scherbenhaufen.",
+    "I-REF\tSchadensbesichtigung, Ursachenforschung und erste Analyse der Rettungsversuche.",
+    "I-REF\t(Barbara Fritz/Mariana Llanos)"
+  ]
+}

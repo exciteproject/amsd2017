@@ -1,0 +1,13 @@
+{
+  "truePositives": [
+    "Bolte, Annegret; Neumer, Judith; Porschen, Stephanie (2008): Die alltägliche Last der Kooperation - Abstimmung als Arbeit und das Ende der Meeting-Euphorie, editi- on sigma, Berlin.",
+    "Böhle, Fritz (2008): Die Integration \"von unten\" - Ein \"blinder Fleck\" beim Wandel der Organisation von Unternehmen. In: Böhle, Fritz; Bolte, Annegret; Bürgermeister, Markus (Hrsg.): Die Integration von unten - Der Schlüssel zum Erfolg organisatori- schen Wandels, Carl Auer, Heidelberg, S. 7-20.",
+    "Kühl, Stefan (2002): Sisyphos im Management. Die vergebliche Suche nach der op- timalen Organisationsstruktur, Wiley-VCH Verlag, Weinheim."
+  ],
+  "falseNegatives": [
+    "Porschen, Stephanie (2008): Enttäuschte Meeting-Euphorie. In: WSI-Mitteilungen, Heft 5, 61. Jg., S. 261-266."
+  ],
+  "falsePositives": [
+    "Porschen, Stephanie (2008): Enttäuschte Meeting-Euphorie. In: WSI-Mitteilungen, Heft 5, 61. Jg., S. 261-266. Internet: www.seitenwechsel.com www.forum-berufsbildung.de/SeitenWechsel_R.813.0.html www.openforesight.de/corporateforesight/"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "truePositives": [
+    "B-REF\tIvo H. Daalder/James M. Goldgeier, Putting",
+    "I-REF\tEurope First, in: Survival, 43 (Frühjahr",
+    "I-REF\t2001) 1, S. 7191",
+    "I-REF\tIdentity: A Critical Appraisal, in:",
+    "I-REF\tInternational Politics, 38 (Juni 2001) 2,",
+    "I-REF\tS. 229251",
+    "I-REF\tEngelmann-Martin/Hans Joachim",
+    "I-REF\tKnopf/Klaus Roscher, »Constructing",
+    "I-REF\tEurope? The Evolution of French British",
+    "I-REF\tand German Nation States Identities«, in:",
+    "I-REF\tJournal of European Public Policy,",
+    "I-REF\tSpecial Issue, 1999, S. 614633",
+    "I-REF\tun gouvernement fédéral?, in: Politique",
+    "I-REF\tEtrangère, 66 (2001) 2, S. 277288",
+    "I-REF\tNice?, in: Politique Etrangère, 66 (2001) 2,",
+    "I-REF\tS. 289299"
+  ],
+  "falseNegatives": [
+    "B-REF\tPeter van Ham, Europes Postmodern",
+    "B-REF\tMartin Marcussen/Thomas Risse/Daniela",
+    "B-REF\tPhilippe Moreau Defarges, Après Nice: vers",
+    "B-REF\tHans Stark, FranceAllemagne: quel après-"
+  ],
+  "falsePositives": [
+    "I-REF\tPeter van Ham, Europes Postmodern",
+    "I-REF\tMartin Marcussen/Thomas Risse/Daniela",
+    "I-REF\tPhilippe Moreau Defarges, Après Nice: vers",
+    "I-REF\tHans Stark, FranceAllemagne: quel après-",
+    "I-REF\t© Stiftung Wissenschaft und",
+    "I-REF\tPolitik, 2001",
+    "I-REF\tAlle Rechte vorbehalten",
+    "I-REF\tSWP",
+    "I-REF\tStiftung Wissenschaft und",
+    "I-REF\tPolitik",
+    "I-REF\tDeutsches Institut für",
+    "I-REF\tInternationale Politik und",
+    "I-REF\tSicherheit",
+    "I-REF\tLudwigkirchplatz 3−4",
+    "I-REF\t10719 Berlin",
+    "I-REF\tTelefon +49 30 880 07-0",
+    "I-REF\tFax +49 30 880 07-100",
+    "I-REF\twww.swp-berlin.org",
+    "I-REF\tswp@swp-berlin.org",
+    "I-REF\tGestaltungskonzept",
+    "I-REF\tGorbach Büro für Gestaltung",
+    "I-REF\tund Realisierung",
+    "I-REF\tBuchendorf",
+    "I-REF\tSWP-Zeitschriftenschau",
+    "I-REF\tAugust 2001"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "truePositives": [
+    "B-REF\tSanfuentes, Andrés (2006): Perspectivas econó­",
+    "I-REF\tmicas favorables: la visión del Banco Central.",
+    "I-REF\t(Stand 14.2.2006).",
+    "B-REF\tPNUD (2002): Informe chileno de desarrollo hu­",
+    "I-REF\tmano. Nosotros los chilenos: un desafío cul­",
+    "I-REF\ttural. Programa de las Naciones Unidas para el",
+    "I-REF\tDesarrollo, Santiago de Chile.",
+    "B-REF\t­­­ (2004): Informe chileno de desarrollo humano.",
+    "I-REF\tPoder: ¿para qué y para quién? Programa de las",
+    "I-REF\tNaciones Unidas para el Desarrollo, Santiago de",
+    "I-REF\tChile.",
+    "B-REF\tVargas Llosa, Mario (2006): Bostezos chilenos. El",
+    "I-REF\tPaís, 1.2.2006."
+  ],
+  "falseNegatives": [
+    "I-REF\tInforme No. 522 in: www.asuntospublicos.org"
+  ],
+  "falsePositives": [
+    "B-REF\tInforme No. 522 in: www.asuntospublicos.org",
+    "I-REF\tInternet-Quellen",
+    "I-REF\tConsejo Nacional de Televisión (CNTV):",
+    "I-REF\twww.cntv.cl",
+    "I-REF\tForo Asuntos Públicos:",
+    "I-REF\twww.asuntospublicos.org",
+    "I-REF\tInstituto Nacional de Estadísticas (INE):",
+    "I-REF\twww.ine.cl",
+    "I-REF\tOfizielle Seite der Wahlergebnisse:",
+    "I-REF\twww.elecciones.gov.cl",
+    "I-REF\t- -",
+    "I-REF\t"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "truePositives": [
+    "B-REF\tAdorno, Theodor W. (1986; 1971): Die musikalischen Monographien, Frankfurt a.M.",
+    "B-REF\tBourdieu, Pierre (1982): Die feinen Unterschiede, Frankfurt a.M.",
+    "B-REF\tMahler, Gustav (1924): Briefe 1879–1911, Berlin/Wien/Leipzig.",
+    "B-REF\tMahler, Gustav (o. J.): Symphonie IX. Revidierte Fassung, Wien/London",
+    "B-REF\tSchenck, Rüdiger (1980): »Zur Neunten Symphonie Gustav Mahlers«, in Stahmer, Klaus Hinrich",
+    "I-REF\t(Hg.): Form und Idee in Gustav Mahlers Instrumentalmusik, Wilhelmshaven, S. 165–221",
+    "I-REF\tscher Symphonik – Eine Untersuchung des ersten Satzes der Neunten Symphonie«, in",
+    "I-REF\tStahmer, Klaus Hinrich (Hg.): Form und Idee in Gustav Mahlers Instrumentalmusik, Wilhelmshaven",
+    "I-REF\tS. 223–276."
+  ],
+  "falseNegatives": [
+    "B-REF\tAdorno, Theodor W. (1969): Negative Dialektik, Frankfurt a.M.",
+    "B-REF\tBauer-Lechner, Natalie (1923): Erinnerungen an Gustav Mahler, Leipzig/Wien/Zürich.",
+    "B-REF\tBourdieu, Pierre (1993): Soziologische Fragen, Frankfurt a.M.",
+    "B-REF\tEggebrecht, Hans Heinrich (2003/1999): Die Musik Gustav Mahlers, Wilhemshaven.",
+    "B-REF\tRehbein, Boike (1997): Was heißt es, einen anderen Menschen zu verstehen?, Stuttgart",
+    "B-REF\tRevers, Peter (1985): Gustav Mahler – Untersuchung zu den späten Sinfonien, Hamburg.",
+    "B-REF\tSpinnler, Burkard (1980): »Zur Angemessenheit traditioneller Formbegriffe in der Analyse Mahler-"
+  ],
+  "falsePositives": [
+    "I-REF\tAdorno, Theodor W. (1969): Negative Dialektik, Frankfurt a.M.",
+    "I-REF\tBauer-Lechner, Natalie (1923): Erinnerungen an Gustav Mahler, Leipzig/Wien/Zürich.",
+    "I-REF\tBourdieu, Pierre (1993): Soziologische Fragen, Frankfurt a.M.",
+    "I-REF\tEggebrecht, Hans Heinrich (2003/1999): Die Musik Gustav Mahlers, Wilhemshaven.",
+    "I-REF\tRehbein, Boike (1997): Was heißt es, einen anderen Menschen zu verstehen?, Stuttgart",
+    "I-REF\tRevers, Peter (1985): Gustav Mahler – Untersuchung zu den späten Sinfonien, Hamburg.",
+    "I-REF\tSpinnler, Burkard (1980): »Zur Angemessenheit traditioneller Formbegriffe in der Analyse Mahler-",
+    "I-REF\tRE HBE IN : N ATUR U N D M ET AP H YS IK",
+    "I-REF\tAbbildung: Die erste Seite der Partitur von Mahlers Neunter Symphonie (Mahler o. J.: 3)"
+  ]
+}

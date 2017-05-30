@@ -1,0 +1,19 @@
+{
+  "truePositives": [
+    "B-REF\tHampel, P./Petermann, F./Desman, C. (2009): Exekutive Funktionen bei Jungen mit Aufmerksamkeits-",
+    "I-REF\tdefizit-/Hyperaktivitätsstörung im Kindesalter. Kindheit und Entwicklung, 18, 3, S. 144-152.",
+    "B-REF\tSchmiedeler, S. (2013): Wissen und Fehlannahmen von deutschen Lehrkräften über die Aufmerksam-",
+    "I-REF\tkeitsdefizit-/Hyperaktivitätsstörung (ADHS). Psychologie in Erziehung und Unterricht, 60, S. 143-",
+    "I-REF\t153.",
+    "B-REF\tWalker, B. (2014). Die esoterische Verführung. Fragwürdige Therapien bei Verhaltensproblemen. Hessi-",
+    "I-REF\tsche Lehrerzeitung, 11, S. 22-23."
+  ],
+  "falseNegatives": [],
+  "falsePositives": [
+    "B-REF\tVgl. z.B. Hampel/Petermann/Desman (2009).",
+    "B-REF\tDie Tatsache, dass Lehrkräfte auf der Suche nach Fördermaßnahmen bei Lernschwierigkeiten und",
+    "I-REF\tVerhaltensauffälligkeiten nicht selten auf völlig ungeeignete pseudowissenschaftliche Therapiever-",
+    "I-REF\tfahren zurückgreifen, legt vielmehr den Schluss nahe, dass auch diesbezüglich Aus- und Fortbil-",
+    "I-REF\tdungsbedarf besteht (vgl. z.B. Walker 2014)."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "truePositives": [
+    "B-REF\tBundesministerium für Familie, Senioren, Frauen und Jugend (2006): Unternehmen",
+    "I-REF\tKinderbetreuung. Praxisleitfaden für die betriebliche Kinderbetreuung. Berlin.",
+    "B-REF\tStatistik Austria (2010): Kindertagesheimstatistik 2009/10. Wien: Verlag Österreich"
+  ],
+  "falseNegatives": [],
+  "falsePositives": [
+    "I-REF\tÖIF Working Paper | Nr. 75 | Betriebliche Kinderbetreuung | März 2011"
+  ]
+}

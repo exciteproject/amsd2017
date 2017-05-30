@@ -1,0 +1,11 @@
+{
+  "truePositives": [
+    "M. Escolar et al., Ultimas Imágenes del Naufragio: las elecciones del 2001 en la Argentina, in: Desarrollo Económico Vol. 42 (2002), No. 165, S. 25-44.",
+    "Guillermo Molinelli et al., Congreso, Presidencia y Justicia en Argentina, Buenos Aires 1999.",
+    "Juan Carlos Torre, Los huérfanos de la política de partidos. Sobre alcances y la naturaleza de la crisis de representación partidaria, in: Desarrollo Económico Vol. 43 (2003), No. 168, S. 647-665."
+  ],
+  "falseNegatives": [],
+  "falsePositives": [
+    "Internetausgaben von La Nación – www.lanacion.com.ar Clarín – www.clarin.com.ar Página 12 – www.pagina12.com.ar Frühere Brennpunkte zu Argentinien: Nr. 20-99 Was kommt nach Menem? Die argentinischen Präsidentschaftswahlen vom 24.10.1999. (Detlef Nolte) Nr. 03-01 Argentinien nach dem ersten Jahr der Präsidentschaft von Fernando de la Rúa: zwischen der Melancholie des Tango und dem Prinzip Hoffnung. (Alejandra Kern/Detlef Nolte) Nr. 06-01 Trendwende in Argentinien? Ist Domingo Cavallo erneut der Retter? (Detlef Nolte) Nr. 20-01 Wahlen in Argentinien. Niederlage, Rezession und Politikverdrossenheit: Kann Präsident de la Rúa weiter regieren? (Agustín Ferraro/Mariana Llanos) Nr. 03-02 Reason to cry, Argentina! Das Land steht vor einem ökonomischen Scherbenhaufen. Schadensbesichtigung, Ursachenforschung und erste Analyse der Rettungsversuche. (Barbara Fritz/Mariana Llanos)"
+  ]
+}
