@@ -1,0 +1,31 @@
+{
+  "truePositives": [
+    "B-REF\tSanfuentes, Andrés (2006): Perspectivas econó­",
+    "I-REF\tInforme No. 522 in: www.asuntospublicos.org",
+    "I-REF\t(Stand 14.2.2006).",
+    "B-REF\tPNUD (2002): Informe chileno de desarrollo hu­",
+    "B-REF\t­­­ (2004): Informe chileno de desarrollo humano.",
+    "B-REF\tVargas Llosa, Mario (2006): Bostezos chilenos. El",
+    "I-REF\tPaís, 1.2.2006."
+  ],
+  "falseNegatives": [
+    "I-REF\tmicas favorables: la visión del Banco Central.",
+    "I-REF\tmano. Nosotros los chilenos: un desafío cul­",
+    "I-REF\ttural. Programa de las Naciones Unidas para el",
+    "I-REF\tDesarrollo, Santiago de Chile.",
+    "I-REF\tPoder: ¿para qué y para quién? Programa de las",
+    "I-REF\tNaciones Unidas para el Desarrollo, Santiago de",
+    "I-REF\tChile."
+  ],
+  "falsePositives": [
+    "B-REF\tImbusch, Peter / Messner, Dirk / Nolte, Detlef (Hrsg.) (2004): Chile heute, Frankfurt a.M., Vervuert.",
+    "B-REF\tDimitri Domanski (2005): Technologiepolitik in Lateinamerika. Das chilenische Beispiel, in: Brennpunkt",
+    "I-REF\tLateinamerika Nr. 07­05.",
+    "B-REF\tRadseck, Michael / Stüver, Georg (2005): Chile: Eine vierte Präsidentschaft der Concertación?, in: Brenn­",
+    "I-REF\tpunkt Lateinamerika Nr. 02­05.",
+    "B-REF\t­­­ (2004): Von der casa militar zum politischen Führungsinstrument. Eine Funktionsanalyse der Ver­",
+    "I-REF\tteidigungsministerien in Argentinien und Chile, in: Lateinamerika Analysen 8, Juni, S. 107­135.",
+    "B-REF\t­­­ (2003): Militär­ und Rüstungstendenzen im Cono Sur - Ein neuer Rüstungswetlauf?, in: Brennpunkt",
+    "I-REF\tLateinamerika Nr. 20­03."
+  ]
+}

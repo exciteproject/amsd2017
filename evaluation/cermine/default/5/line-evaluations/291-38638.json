@@ -1,0 +1,40 @@
+{
+  "truePositives": [
+    "B-REF\tAbraji (2014), Abraji registra 119 violações contra jor-",
+    "I-REF\tnalistas durante protestos, 17. Februar 2014, online:",
+    "I-REF\t\u003cwww.abraji.org.br/?id\u003d90\u0026id_noticia\u003d2752\u003e (25.",
+    "I-REF\tApril 2014).",
+    "B-REF\tEconomist Intelligence Unit (2014), Country Report",
+    "I-REF\tBrazil, April 2014, EIU.",
+    "B-REF\tHuman Rights Brief (2014), Situation of Human",
+    "I-REF\tRights and Social Protests in Brazil, März 2014,",
+    "I-REF\tonline: \u003chtp://hrbrief.org/2014/03/situation-of-",
+    "I-REF\thuman-rights-and-social-protest-in-brazil\u003e (25.",
+    "I-REF\tApril 2014).",
+    "B-REF\tInteligência e Pesquisa de Mercado Abril (2013),",
+    "I-REF\tmudaram o Brasil, 2327, 26. Juni 2013.",
+    "B-REF\tLay, Jann, und Simone Schote (2013), Lateinameri-",
+    "I-REF\tFocus Lateinamerika, 8, online: \u003cwww.giga-ham",
+    "I-REF\tmerika_1308.pdf\u003e (25. April 2014).",
+    "B-REF\tNeri, Marcelo (2010), The Decade of Falling Income",
+    "I-REF\temp/45284971.pdf\u003e (25. April 2014).",
+    "B-REF\tThe Economist (2013), Has Brazil Blown It?, 28. Sep-",
+    "I-REF\ttember 2013, online: \u003cwww.economist.com/news/",
+    "I-REF\tleaders/21586833-stagnant-economy-bloated-stat",
+    "I-REF\tchange-course-has\u003e (4. Mai 2014).",
+    "B-REF\tVeja (2014), As ameaças à Copa, 2364, 12. März 2014.",
+    "B-REF\tWorld Bank (2014), World Development Indicators:",
+    "I-REF\tbank.org/indicator/NY.GDP.MKTP.KD.ZG\u003e (4.",
+    "I-REF\tMai 2014)."
+  ],
+  "falseNegatives": [
+    "I-REF\tO que pensam as ruas, in: Veja, Os sete dias que",
+    "I-REF\tkas neue Mitelschicht: nachhaltiger Aufstieg?, GIGA",
+    "I-REF\tburg.de/de/system/files/publications/gf_lateina",
+    "I-REF\tInequality and Formal Employment Generation in",
+    "I-REF\tBrazil, Paris: OECD, online: \u003cwww.oecd.org/els/",
+    "I-REF\te-and-mass-protests-mean-dilma-roussef-must-",
+    "I-REF\tEconomic Growth: Brazil, online: \u003chpt://data.world"
+  ],
+  "falsePositives": []
+}

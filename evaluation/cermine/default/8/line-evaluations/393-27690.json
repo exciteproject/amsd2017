@@ -1,0 +1,40 @@
+{
+  "truePositives": [
+    "I-REF\tof Rebirth, BBC News Online, 27. August, online:",
+    "I-REF\t\u003cwww.bbc.co.uk/news/world-africa-11103008\u003e",
+    "I-REF\t(01.03.2010).",
+    "B-REF\tBraotn, Michael (1992), Zambia Starts Over, in:",
+    "I-REF\tJournal of Democracy, 3, 2, 81-94.",
+    "B-REF\tHarneit-Sievers, Axel (2010), Analyse: Kenias",
+    "I-REF\tkraft-2010-9928.html\u003e (01.03.2011).",
+    "B-REF\tIdrissa, Kimba (2008), Les régimes militaires entre",
+    "I-REF\t1974 et 1999 au Niger, in: Kimba Idrissa (Hrsg.),",
+    "I-REF\t163-206.",
+    "B-REF\tMadougou, Reckya (2008), Mon combat pour la pa-",
+    "I-REF\tnational Journal of Constitutional Law, 5, 3, 469-506.",
+    "B-REF\tStone Sweet, Alec (2008), Constitutions and Judicial",
+    "I-REF\tPolitics, Oxford: Oxford University Press, 217-239.",
+    "B-REF\tTopanou, Victor (2010), Révision de la constitution:",
+    "I-REF\t8-15."
+  ],
+  "falseNegatives": [
+    "B-REF\tBBC (2010), Kenya’s New Constitution Sparks Hopes",
+    "I-REF\tneue Verfassung trit in Kraft , Heinrich-Böll-Stif-",
+    "I-REF\ttung, Nairobi, online: \u003cwww.boell.de/weltweit/",
+    "I-REF\tafrika/afrika-kenia-neue-verfassung-tritt-in-",
+    "I-REF\tArmee et politique au Niger, Dakar: CODESRIA,",
+    "I-REF\trole. Les désfi d‘une mobilisation citoyenne pour la",
+    "I-REF\tpromotion de la gouvernance démocratique, Paris:",
+    "I-REF\tL‘Harmaatn.",
+    "B-REF\tPrempeh, H. Kwasi (2007), Africa’s “Constitutiona-",
+    "I-REF\tlism Revival”: False Start or New Dawn?, in: Inter-",
+    "I-REF\tPower, in: Danielle Caramani (Hrsg.), Comparative",
+    "I-REF\tles grandes réformes proposées, in: Konrad-Ade-",
+    "I-REF\tnauer-Stiftung (Hrsg.), Projet de révision de la con-",
+    "I-REF\tstitution béninoise: portée et limites, Cotonou: KAS,"
+  ],
+  "falsePositives": [
+    "B-REF\tBBC (2010), Kenya\u0027s New Constitution Sparks Hopes",
+    "B-REF\tPrempeh, H. Kwasi (2007), Africa\u0027s “Constitutiona-"
+  ]
+}

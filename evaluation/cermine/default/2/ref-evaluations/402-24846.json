@@ -1,0 +1,49 @@
+{
+  "truePositives": [
+    "Bundeskriminalamt (Hrsg.), 1999: Polizeiliche Kriminalstatistik Bundesrepublik Deutschland. Berichts- jahr 1998. Wiesbaden: BKA.",
+    "Bundesamt für Statistik, 2002: Jugendkriminalität: Überwiegend Vermögens- und Betäubungsmittel- straftaten. Pressemitteilung für das Jahr 2001. Neuchâtel: BFS.",
+    "Elias, N., 1976: Über den Prozess der Zivilisation. 2 Bände. Frankfurt/M.: Suhrkamp.",
+    "Hurrelmann, K., 1990: Einführung in die Sozialisationstheorie. Über den Zusammenhang von Sozial- struktur und Persönlichkeit. 3. Aufl. Weinheim, Basel: Beltz.",
+    "Trotha, T. von, 1997: Zur Soziologie der Gewalt. Kölner Zeitschrift für Soziologie und Sozialpsycholo- gie. Sonderheft 37: 9-56."
+  ],
+  "falseNegatives": [
+    "Bergelt, S./Börner, F./Stenke, D., 1998: Jungengewalt – Mädchengewalt – ein Exkurs. S. 85-114 in: Forschungsgruppe Schulevaluation (Hrsg.), Gewalt als soziales Problem in Schulen. Untersu- chungsergebnisse und Präventionsstrategien. Opladen: Leske + Budrich.",
+    "Eisner, M./Manzoni, P./Ribeaud, D., 2000: Gewalterfahrungen von Jugendlichen. Opfererfahrungen und selbstberichtete Gewalt bei Schülerinnen und Schülern im Kanton Zürich. Aarau: Sauerländer.",
+    "Felten, M. von, 1998: Geschlechtsspezifische Perzeption von Gewalt im Jugendalter. S. 93-119 in: M. Eisner/P. Manzoni (Hrsg.), Gewalt in der Schweiz. Studien zu Entwicklung, Wahrnehmung und staatlicher Reaktion. Chur, Zürich: Rüegger.",
+    "Felten, M. von, 2000: „... aber das ist noch lange nicht Gewalt“. Empirische Untersuchung zur Wahr- nehmung von Gewalt bei Jugendlichen. Opladen: Leske + Budrich.",
+    "Fuchs, M./Lamnek, S./Luedtke, J., 1996: Schule und Gewalt. Realität und Wahrnehmung eines sozialen Problems. Opladen: Leske + Budrich.",
+    "Heitmeyer, W./Collmann, B./Conrads, J./Matuschek, I./Kraul, D./Kühnel, W./Möller, R./Ulbrich, M., 1996: Gewalt. Schattenseiten der Individualisierung bei Jugendlichen aus unterschiedlichen Milie- us. 2. Aufl. Weinheim, München: Juventa.",
+    "Mansel, J., 1995: Quantitative Entwicklung von Gewalthandlung Jugendlicher und ihre offizielle Re- gistrierung. Ansätze schulischer Prävention zwischen Anspruch und Wirklichkeit. Zeitschrift für Sozialisationsforschung und Erziehungssoziologie 2: 101-121.",
+    "Möller, K., 2001: Coole Hauer und brave Engelein. Gewaltakzeptanz und Gewaltdistanzierung im Ver- lauf des frühen Jugendalters. Opladen: Leske + Budrich.",
+    "Neidhardt, F. 1986: Gewalt – Soziale Bedeutungen und sozialwissenschaftliche Bestimmungen des Begriffs. S. 109-147 in: Bundeskriminalamt (Hrsg.), Was ist Gewalt? Auseinandersetzungen mit einem Begriff. Wiesbaden: BKA.",
+    "Oswald, H., 1992: Beziehungen zu Gleichaltrigen. S. 319-332 in: Jugendwerk der Deutschen Shell (Hrsg.), Jugend ’92. Lebenslagen, Orientierungen und Entwicklungsperspektiven im vereinigten Deutschland. Band 2: im Spiegel der Wissenschaften. Opladen: Leske + Budrich."
+  ],
+  "falsePositives": [
+    "1) Codierung für Zugehörigkeit zu einer Freundesgruppe: 1 \u003d nicht Mitglied, 2 \u003d lockere Clique, 3 \u003d formierte Gruppe (zunehmender „Organisationsgrad“).",
+    "2) Da bei der Schwereeinschätzung keine Normalverteilung vorliegt, wurde eine logistische Regression",
+    "3) Df\u003d1. Signifikanz: * p ≤ 0,05; ** p ≤ 0,01; n.s.\u003d nicht signifikant. N zwischen 148 und 196.",
+    "1 Der Zürcher Soziologe Eisner widmet sich beispielsweise ausschließlich der männlichen Jugend- 8.7.99).",
+    "2 Für Deutschland gelten ähnliche Befunde (Bundeskriminalamt 1999: 226).",
+    "3 Dabei ist zu bemerken, dass Gewaltdelikte insgesamt einen relativ kleinen Anteil an der Gesamt- kriminalität Jugendlicher ausmachen. Im Jahr 2000 wurden in der Schweiz 11 Prozent der regist- Anteil ist gering höher als bei den Erwachsenen (9 %) (Bundesamt für Statistik 2002: 1).",
+    "4 Da in der Jugendgewaltforschung wie erwähnt das Paradigma einer männlich geprägten Gewalt vor-",
+    "5 Die juristische Definition von Gewalt beispielsweise ist höchst zweideutig; sie ist abhängig von den",
+    "6 Siehe dazu ausführlich von Felten (2000: 41 ff.).",
+    "7 Heitmeyer et al. konnten in ihrer 1992/93 durchgeführten Untersuchung zu Jugendgewalt bei den",
+    "8 Für die folgende Analyse wurden zwei Gruppen lokalisiert: lockere Cliquen und formierte Gruppen.",
+    "9 Zur Definition des Begriffs Freundesgruppe siehe vorangehende Fußnote.",
+    "10 Signifikanz (ohne Beurteilung Fall E): .19+.",
+    "11 Signifikanz Fälle A, B, D: 0,12 +; Fälle A, B: .06+.",
+    "12 Aufgrund zu kleiner Fallzahlen bei der formierten Freundesgruppe kann bei der Variable Punitivität",
+    "13 Eine optimale Vergleichbarkeit konnte dadurch erreicht werden, dass im Fragebogen 11 identische",
+    "14 Total Mittelwerte Täter- bzw. Opfererfahrungen: 4,27 bzw. 4,25.",
+    "15 Für die statistische Auswertung wurden fünf Indizes gebildet (Schwereeinschätzung, Gewaltbereit- in den Tabellen dargestellten Variablen verwendet (Siehe dazu Tabellen 1, 3, 5-7) und zu einem In- Bergelt, S./Börner, F./Stenke, D., 1998: Jungengewalt - Mädchengewalt - ein Exkurs. S. 85-114 in:",
+    "Eisner, M./Manzoni, P./Ribeaud, D., 2000: Gewalterfahrungen von Jugendlichen. Opfererfahrungen",
+    "Felten, M. von, 1998: Geschlechtsspezifische Perzeption von Gewalt im Jugendalter. S. 93-119 in: M.",
+    "Felten, M. von, 2000: „... aber das ist noch lange nicht Gewalt“. Empirische Untersuchung zur Wahr-",
+    "Fuchs, M./Lamnek, S./Luedtke, J., 1996: Schule und Gewalt. Realität und Wahrnehmung eines sozialen 1996: Gewalt. Schattenseiten der Individualisierung bei Jugendlichen aus unterschiedlichen Milie- us. 2. Aufl. Weinheim, München: Juventa.",
+    "Mansel, J., 1995: Quantitative Entwicklung von Gewalthandlung Jugendlicher und ihre offizielle Re- Sozialisationsforschung und Erziehungssoziologie 2: 101-121.",
+    "Möller, K., 2001: Coole Hauer und brave Engelein. Gewaltakzeptanz und Gewaltdistanzierung im Ver-",
+    "Neidhardt, F. 1986: Gewalt - Soziale Bedeutungen und sozialwissenschaftliche Bestimmungen des Begriffs. S. 109-147 in: Bundeskriminalamt (Hrsg.), Was ist Gewalt? Auseinandersetzungen mit",
+    "Oswald, H., 1992: Beziehungen zu Gleichaltrigen. S. 319-332 in: Jugendwerk der Deutschen Shell (Hrsg.), Jugend \u002792. Lebenslagen, Orientierungen und Entwicklungsperspektiven im vereinigten Deutschland. Band 2: im Spiegel der Wissenschaften. Opladen: Leske + Budrich."
+  ]
+}

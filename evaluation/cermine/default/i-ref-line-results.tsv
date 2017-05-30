@@ -1,0 +1,11 @@
+Name	Value
+filterRegex	^I-REF\t.*
+micro precision	0.775868801249512
+micro recall	0.23302451037879676
+micro f1 score	0.3584054834054834
+macro precision	0.7292477658783113
+macro recall	0.34046106183340186
+macro f1 score	0.43248192644731726
+truePositives	1987
+falseNegatives	6540
+falsePositives	574

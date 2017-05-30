@@ -1,0 +1,16 @@
+{
+  "truePositives": [
+    "B-REF\tM. Escolar et al., Ultimas Imágenes del Naufragio: las elecciones del 2001 en la Argentina,",
+    "I-REF\tin: Desarrollo Económico Vol. 42 (2002), No. 165, S. 25-44.",
+    "B-REF\tGuillermo Molinelli et al., Congreso, Presidencia y Justicia en Argentina, Buenos Aires 1999.",
+    "I-REF\tde representación partidaria, in: Desarrollo Económico Vol. 43 (2003), No. 168, S. 647-665."
+  ],
+  "falseNegatives": [
+    "B-REF\tJuan Carlos Torre, Los huérfanos de la política de partidos. Sobre alcances y la naturaleza de la crisis"
+  ],
+  "falsePositives": [
+    "B-REF\tQuellen: Daten für 2003 vom Ministerio del Interior (http://www.mininterior.gov.ar) und für 2001 aus M. Esco-",
+    "I-REF\tlar et al., Últimas Imágenes del Naufragio: las elecciones del 2001 en la Argentina, in: Desarrollo Eco-",
+    "I-REF\tnómico, Vol. 42 (2002), Nr. 165, S. 25-44."
+  ]
+}
