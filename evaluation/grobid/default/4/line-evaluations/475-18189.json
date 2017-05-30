@@ -1,0 +1,23 @@
+{
+  "truePositives": [
+    "B-REF\tAzoulay, Isabelle (2000), Schmerz. Die Entzauberung eines Mythos, Berlin.",
+    "B-REF\tBrader, Doris/Lewerenz, Julia (2006), »Frauen in Führungspositionen«, IAB Kurzbericht. Aktuelle",
+    "I-REF\tAnalyse aus dem Institut für Arbeitsmarkt-und Berufsforschung der Bundesagentur für Arbeit, Nr. 2,",
+    "I-REF\t24.2.2006, Nürnberg, S. 1–4.",
+    "B-REF\tDegele, Nina (2006), »Sportives Schmerznormalisieren. Zur Begegnung von Körper-und Sport-",
+    "I-REF\tsoziologie«, in: Gugutzer, Robert (Hg.), body turn. Perspektiven der Soziologie des Körpers und des",
+    "I-REF\tSports, Bielefeld, S. 141–161.",
+    "B-REF\tDegele, Nina (2007), »Schmerz erinnern und Geschlecht vergessen«, Freiburger Frauen Studien 20,",
+    "I-REF\tS. 121–142.",
+    "B-REF\tLe Breton, David (2003), Schmerz: eine Kulturgeschichte, Zürich/Berlin.",
+    "B-REF\tOwen, Linda R. (2006), Distorting the Past: Gender and the Division of Labor in the European Upper",
+    "I-REF\tPaleolithic, Tübingen.",
+    "B-REF\tPease, Allen/Babara Allen (2005), Warum Männer nicht zuhören und Frauen schlecht einparken,",
+    "I-REF\tMünchen.",
+    "B-REF\tWetterer, Angelika (2003), »Rhetorische Modernisierung: Das Verschwinden der Ungleichheit aus",
+    "I-REF\tdem zeitgenössischen Differenzwissen«, in: Knapp, Gudrun-Axeli/Wetterer, Angelika (Hg.),",
+    "I-REF\tAchsen der Differenz. Gesellschaftstheorie und feministische Kritik II, Münster, S. 286–319."
+  ],
+  "falseNegatives": [],
+  "falsePositives": []
+}

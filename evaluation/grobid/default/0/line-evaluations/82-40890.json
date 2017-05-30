@@ -1,0 +1,22 @@
+{
+  "truePositives": [],
+  "falseNegatives": [
+    "B-REF\tHaug, Frigga 2011: Die vier-in-einem-Perspektive als Leitfaden für Politik, in: Das Ar-",
+    "I-REF\tgument 291: 241-250",
+    "B-REF\tHaug, W. F. 2007: Zur Dialektik des Antikapitalismus, in: Das Argument 269: 11-34",
+    "B-REF\tHirsch, Joachim 2011: Kapitalismus aufbrechen – aber wie, in: Das Argument 291: 231-",
+    "I-REF\t236",
+    "B-REF\tHofmann, Jürgen 1996: Politisches Handeln und gesellschatliche Struktur. Grund-",
+    "I-REF\tzüge deutscher Gesellschatsgeschichte. Münster",
+    "B-REF\tKunstreich, Timm 2005: Sozialgenossenschaten – ein Versuch, eine kooperative Ver-",
+    "I-REF\tgesellschatung im kapitalistischen Sozialstaat zu denken, in: WIDERSPRÜCHE,",
+    "I-REF\tHet 97: 105-122",
+    "B-REF\tMarshall, homas. H. 1972: Bürgerrechte und Soziale Klassen: zur Soziologie des",
+    "I-REF\tWohlfahrtstaates. Frankfurt/M; New York",
+    "B-REF\tResch, Christine, Steinert, Heinz 2009: Kapitalismus: Porträt einer Produktionsweise,",
+    "I-REF\tMünster",
+    "B-REF\tRöttger, Bernd 2011: Der Schoß der alten Gesellschat. Zur Organisation anti-kapitalis-",
+    "I-REF\ttischer Übergänge, in: Das Argument 291: 193-201"
+  ],
+  "falsePositives": []
+}

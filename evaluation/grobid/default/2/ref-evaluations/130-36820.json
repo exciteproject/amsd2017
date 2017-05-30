@@ -1,0 +1,39 @@
+{
+  "truePositives": [],
+  "falseNegatives": [
+    "Bundesministerium für Familie, Senioren, Frauen und Jugend (2006): Unternehmen Kinderbetreuung. Praxisleitfaden für die betriebliche Kinderbetreuung. Berlin.",
+    "Statistik Austria (2010): Kindertagesheimstatistik 2009/10. Wien: Verlag Österreich"
+  ],
+  "falsePositives": [
+    "Abbildung 1: Entscheidungsdimensionen bei der betrieblichen Kinderbetreuung ................... 9",
+    "Abbildung 2: Träger der Betreuungsangebote ....................................................................... 13",
+    "Abbildung 3: Größe der Betreuungseinrichtungen ................................................................. 16",
+    "Abbildung 4: Gruppenformen im Gesamtangebot der betrieblichen Kinderbetreuung ........... 17",
+    "Abbildung 5: In Einrichtungen angebotene Gruppenformen .................................................. 18",
+    "Abbildung 6: Betreuungsplätze im Gesamtangebot nach Gruppenform ................................ 19",
+    "Abbildung 7: In Einrichtung grundsätzlich aufgenommene Altersstufen ................................ 21",
+    "Abbildung 8: Grundsätzlich für Altersstufen angebotene Betreuungsplätze .......................... 21",
+    "Abbildung 9: Öffnungs-und Schließzeiten der betrieblichen Betreuungsangebote ............... 22",
+    "Abbildung 10: Geöffnete Stunden .......................................................................................... 23",
+    "Abbildung 11: Geöffnete Stunden in betrieblichen und nicht-betrieblichen Betreuungsangeboten ..................................................................................... 24",
+    "Abbildung 12: Zahl an geöffneten Tagen ............................................................................... 24",
+    "Abbildung 13: Ferienschließzeiten ......................................................................................... 25",
+    "Abbildung 14: Beurteilung rechtlicher Rahmenbedingungen ................................................. 30",
+    "Abbildung 15: Nutzung von Beratungsangeboten bei Einführung der Betreuung .................. 32",
+    "Abbildung 16: Genutzte Beratungsstellen .............................................................................. 32",
+    "Abbildung 17: Wichtigkeit genutzter Beratungsangebote ....................................................... 33",
+    "Abbildung 18: Nutzung finanzieller Förderungen bei Einführung der Betreuung ................... 34",
+    "Abbildung 19: Genutzte finanzielle Förderstellen ................................................................... 34",
+    "Abbildung 20: Wichtigkeit genutzter finanzieller Förderungen bei Einführung Betreuung ...... 35",
+    "Abbildung 21: Wunsch nach finanziellen Förderungen bei Einführung der Betreuung .......... 36",
+    "Abbildung 22: Aktuelle Nutzung steuerlicher Begünstigungen ............................................... 36",
+    "Abbildung 23: Kosten für die Unternehmen ........................................................................... 37",
+    "Abbildung 24: Form der Rückmeldung der MitarbeiterInnen .................................................. 38",
+    "Abbildung 25: Zufriedenheit der MitarbeiterInnen mit dem Betreuungsangebot .................... 39",
+    "Beratung: Rückmeldung: Beratung: Rückmeldung: Beratung: Rückmeldung: Beratung: Rückmeldung: Beratung: Rückmeldung: Beratung: Rückmeldung: Beratung: Rückmeldung: Beratung: Rückmeldung: Beratung: Rückmeldung: Beratung: Rückmeldung: Beratung: Rückmeldung: Beratung: Rückmeldung: Beratung: Rückmeldung: Beratung: Rückmeldung: Beratung: Rückmeldung: Beratung: Rückmeldung:",
+    "01 Betreuung ja/nein 02 Art der Betreuung 03 Altersgrenzen 04 Motive für Betreuung 05 rechtliche Vorgaben 06 Beratung ja/nein 07 Beratung gewünscht 08 Beratungsstelle 09 Wichtigkeit Beratung 10 finanzielle Hilfe ja/nein 11 Quelle finanz. Hilfe 12 Wichtigkeit finanz. Hilfe 13 finanz. Hilfe gewünscht 14 Zufriedenheit mit Träger 15 Rückmeldung ja/nein 16 Art der Rückmeldung 17 konkrete Wünsche 18 Zahl MitarbeiterInnen 19 Zahl Betreuungsplätze 20 Kosten für Unternehmen 21 steuerl. Begünstigung 22 Bundesland 23 Branche Erläuterung zu Tabellenkopf: Beratung: Antwort bei Frage 06 finanz. Hilfe: Antwort bei Frage 10",
+    "Rückmeldung: Antwort bei Frage 15 ext. Träger: Antwort bei Frage 02",
+    "Erläuterung zu Farben: … Frage wurde gestellt … Frage wurde nicht gestellt A.2",
+    "Durchlaufplan des Fragebogens"
+  ]
+}

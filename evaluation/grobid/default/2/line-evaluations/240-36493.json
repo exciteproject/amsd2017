@@ -1,0 +1,26 @@
+{
+  "truePositives": [
+    "B-REF\tIvo H. Daalder/James M. Goldgeier, Putting",
+    "I-REF\tEurope First, in: Survival, 43 (Frühjahr",
+    "I-REF\t2001) 1, S. 71–91",
+    "B-REF\tPeter van Ham, Europe\u0027s Postmodern",
+    "I-REF\tIdentity: A Critical Appraisal, in:",
+    "I-REF\tInternational Politics, 38 (Juni 2001) 2,",
+    "I-REF\tS. 229–251",
+    "B-REF\tMartin Marcussen/Thomas Risse/Daniela",
+    "I-REF\tEngelmann-Martin/Hans Joachim",
+    "I-REF\tKnopf/Klaus Roscher, »Constructing",
+    "I-REF\tEurope? The Evolution of French British",
+    "I-REF\tand German Nation States Identities«, in:",
+    "I-REF\tJournal of European Public Policy,",
+    "I-REF\tSpecial Issue, 1999, S. 614–633",
+    "B-REF\tPhilippe Moreau Defarges, Après Nice: vers",
+    "I-REF\tun gouvernement fédéral?, in: Politique",
+    "I-REF\tEtrangère, 66 (2001) 2, S. 277–288",
+    "B-REF\tHans Stark, France–Allemagne: quel après-",
+    "I-REF\tNice?, in: Politique Etrangère, 66 (2001) 2,",
+    "I-REF\tS. 289–299"
+  ],
+  "falseNegatives": [],
+  "falsePositives": []
+}
