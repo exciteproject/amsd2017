@@ -1,0 +1,11 @@
+Name	Value
+filterRegex	null
+micro precision	0.6598543099959531
+micro recall	0.7047255438697594
+micro f1 score	0.6815521805768427
+macro precision	0.5987907809269437
+macro recall	0.7288474452177538
+macro f1 score	0.6379678084116485
+truePositives	9783
+falseNegatives	4099
+falsePositives	5043

@@ -1,0 +1,30 @@
+{
+  "truePositives": [
+    "I-REF\tder Kooperation - Abstimmung als Arbeit und das Ende der Meeting-Euphorie, editi-",
+    "I-REF\ton sigma, Berlin.",
+    "I-REF\tOrganisation von Unternehmen. In: Böhle, Fritz; Bolte, Annegret; Bürgermeister,",
+    "I-REF\tMarkus (Hrsg.): Die Integration von unten - Der Schlüssel zum Erfolg organisatori-",
+    "I-REF\tschen Wandels, Carl Auer, Heidelberg, S. 7-20.",
+    "B-REF\tKühl, Stefan (2002): Sisyphos im Management. Die vergebliche Suche nach der op-",
+    "I-REF\ttimalen Organisationsstruktur, Wiley-VCH Verlag, Weinheim.",
+    "B-REF\tPorschen, Stephanie (2008): Enttäuschte Meeting-Euphorie. In: WSI-Mitteilungen,",
+    "I-REF\tHeft 5, 61. Jg., S. 261-266."
+  ],
+  "falseNegatives": [
+    "B-REF\tBolte, Annegret; Neumer, Judith; Porschen, Stephanie (2008): Die alltägliche Last",
+    "B-REF\tBöhle, Fritz (2008): Die Integration \"von unten\" - Ein \"blinder Fleck\" beim Wandel der"
+  ],
+  "falsePositives": [
+    "B-REF\tNachdem der Wettbewerbsdruck unter voranschreitender Globalisierung, die Interna-",
+    "I-REF\ttionalisierung von Produktionsstätten, die Komplexitätssteigerung von Technik und",
+    "I-REF\tArbeitssystemen, die Verbesserung der Markt- und Kundenorientierung etc. weiterhin",
+    "I-REF\tals Motor für Veränderungen wirken werden, wird bedachter Wandel nötig bleiben",
+    "I-REF\tund damit auch die Suche nach verträglichen Wegen des Wandels und geeigneter",
+    "I-REF\tInstrumente. Führung ist hierfür freilich nur ein Anknüpfungspunkt – wenn auch ein",
+    "I-REF\twesentlicher …",
+    "I-REF\t7. Literatur / Verweise",
+    "I-REF\tBolte, Annegret; Neumer, Judith; Porschen, Stephanie (2008): Die alltägliche Last",
+    "B-REF\tBöhle, Fritz (2008): Die Integration \u0026quot;von unten\u0026quot; - Ein \u0026quot;blinder Fleck\u0026quot; beim Wandel der",
+    "I-REF\tInternet:"
+  ]
+}

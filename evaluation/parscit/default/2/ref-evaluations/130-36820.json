@@ -1,0 +1,13 @@
+{
+  "truePositives": [],
+  "falseNegatives": [
+    "Bundesministerium für Familie, Senioren, Frauen und Jugend (2006): Unternehmen Kinderbetreuung. Praxisleitfaden für die betriebliche Kinderbetreuung. Berlin.",
+    "Statistik Austria (2010): Kindertagesheimstatistik 2009/10. Wien: Verlag Österreich"
+  ],
+  "falsePositives": [
+    " Kinderbetreuungsangebot? Falls die MitarbeiterInnen konkrete Wünsche äußern geben Sie bitte an, welche Wünsche das sind. [nur wenn Antwort ‚ja‘ bei Frage 01]",
+    "Wie viele MitarbeiterInnen hat Ihr Unternehmen an dem Standort, an dem eine Betreuung angeboten wird? Bitte geben Sie nur Ziffern ein [nur wenn Antwort ‚ja‘ bei Frage 01]",
+    "Wie viele Betreuungsplätze für die Kinder Ihrer MitarbeiterInnen bieten Sie insgesamt an? Bitte nur eine Antwort ankreuzen ÖIF Working Paper  |Nr. 75  |Betriebliche Kinderbetreuung  |März 2011 [nur wenn Antwort ‚ja‘ bei Frage 01]",
+    "Das Anbieten von Kinderbetreuungsmöglichkeiten kann Kosten für das Unternehmen verursachen. Ist der Betrieb Ihrer Betreuungsangebote unter Berücksichtigung von Förderungen und Elternbeiträgen kostendeckend oder muss ein Teil der Betriebskosten der Betreuungsangebote von Ihrem Unternehmen selbst getragen werden? Bitte nur eine Antwort ankreuzen"
+  ]
+}

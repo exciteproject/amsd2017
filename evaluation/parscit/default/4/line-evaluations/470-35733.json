@@ -1,0 +1,47 @@
+{
+  "truePositives": [
+    "I-REF\tEinordnung und praktische Erfahrungen, in: Bausch, Th./ Kleinfeld, A./ Steinmann,",
+    "I-REF\tH. (Hrsg.): Unternehmensethik in der Wirtschaftspraxis, DNWE-Schriftenreihe Bd. 7,",
+    "I-REF\tMünchen u. Mering: Hampp/Grüninger, 155-189.",
+    "B-REF\tWieland, J. (2004): Wozu Wertemanagement? – Ein Leitfaden für die Praxis, in: Wieland J.,",
+    "I-REF\tHandbuch Wertemanagement, Hamburg: Murmann, 13-52."
+  ],
+  "falseNegatives": [
+    "B-REF\tWieland J./ Grüninger S. (2000): Ethik ManagementSysteme und ihre Auditierung - Theoretische"
+  ],
+  "falsePositives": [
+    "B-REF\tZfW, Zentrum für Wirtschaftsethik, Weingarten, www.zfw.de.",
+    "I-REF\tSeminarunterlagen, Weiterbildung zum Berater/Auditor WertemanagementsystemZfW.",
+    "I-REF\tzfwu 7/1 (2006), 135-142",
+    "I-REF\tAbbildung 2: Werte der Marine Gruppe im Werteviereck nach Wieland (2004: 24)",
+    "I-REF\t9. Messung der Wirksamkeit",
+    "I-REF\tDie Forderung hinsichtlich „Messung der Wirksamkeit eines Wertemanagementsys-",
+    "I-REF\ttems“ konnte bislang nur in Ansätzen erfüllt werden. Die ZF Marine Gruppe hat sich",
+    "I-REF\tin den letzten Jahren von einem Bereich mit negativen operativen Ergebnissen hin zu",
+    "I-REF\teinem der erfolgreichsten Bereiche des ZF Unternehmens entwickelt. Bei Firmen der",
+    "I-REF\tZF Marine Gruppe liegen im Vergleich einige auf die Mitarbeiter bezogene Kennzah-",
+    "I-REF\tzfwu 7/1 (2006), 135-142",
+    "I-REF\tOffene Aufgaben im Projekt",
+    "I-REF\tDas WMS kann in den Firmen der ZF Marine Gruppe als eingeführt angesehen wer-",
+    "I-REF\tden. Im Projekt sind noch folgende Aufgaben in Bearbeitung:",
+    "I-REF\tMessung der erfolgten Einführung des WMS im Rahmen der anstehenden Be-",
+    "I-REF\ttriebsklimaanalysen.",
+    "I-REF\tIntensivierung des Marketings für das WMS.",
+    "I-REF\tPublizierung von Beispielen für gelebte Unternehmenskultur und Erarbeitung",
+    "I-REF\teiner Incentive Strategie.",
+    "I-REF\tExterne Kommunikation der auf Werten basierenden Unternehmenskultur durch",
+    "I-REF\tEinbindung in die Web-Site des Unternehmens.",
+    "I-REF\tEinführung des WMS in den chinesischen Unternehmen.",
+    "I-REF\t11.",
+    "I-REF\tSchlussbetrachtung",
+    "I-REF\tSeit Einführung des WMS haben sich die Firmen der ZF Marine Gruppe deutlich",
+    "I-REF\tpositiv entwickelt. Ein WMS ist jedoch kein absoluter Garant für die Vermeidung von",
+    "I-REF\tMisserfolgen, Betrug und Korruption. Es entfaltet seine volle Wirksamkeit nur im",
+    "I-REF\tKontext mit anderen Managementsystemen. Seine Fokussierung auf den Menschen",
+    "I-REF\tund den Aufbau einer Unternehmenskultur, die auf Werten basiert und damit gegen-",
+    "I-REF\tseitiges Vertrauen schafft, wird ein WMS für erfolgreiche Unternehmen unverzichtbar",
+    "I-REF\tmachen.",
+    "B-REF\tLiteraturverzeichnis",
+    "I-REF\tWieland J./ Grüninger S. (2000): Ethik ManagementSysteme und ihre Auditierung - Theoretische"
+  ]
+}
