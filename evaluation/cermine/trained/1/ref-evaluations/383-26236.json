@@ -1,0 +1,22 @@
+{
+  "truePositives": [],
+  "falseNegatives": [
+    "Statistisches Bundesamt (1978a): Volkszählung vom 27. Mai 1970. Methodische und praktische Vorbereitung sowie Durchführung der Volkszählung 1970. Fachserie 1 Heft 25. Stuttgart/Mainz: Kohlhammer.",
+    "Statistisches Bundesamt (1978b): Volkszählung vom 27. Mai 1970. Untersuchungen zur Methode und Genauigkeit der Volkszählung 1970. Fachserie 1 Heft 26. Stuttgart/Mainz: Kohlhammer.",
+    "Statistisches Bundesamt (1972): Ausgewählte Strukturdaten für Bund und Länder. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 1.",
+    "Statistisches Bundesamt (1972): Zusammengefasste Daten über Bevölkerung und Erwerbstätigkeit für Bund und Länder. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 3.",
+    "Statistisches Bundesamt (1974): Bevölkerung und Bevölkerungsentwicklung nach Alter und Familienstand. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 5.",
+    "Statistisches Bundesamt (1974): Bevölkerung und Haushalte. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 8.",
+    "Statistisches Bundesamt (1974): Bevölkerung und Familien. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 9.",
+    "Statistisches Bundesamt (1974): Bevölkerung in Anstalten. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 11.",
+    "Statistisches Bundesamt (1974): Bevölkerung nach dem Ausbildungsstand, demographischen Merkmalen und Beteiligung am Erwerbsleben. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 13.",
+    "Statistisches Bundesamt (1974): Ausländer. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 23.",
+    "Bach, Walter (1979): Ziehung einer Stichprobe aus den Mikrodaten der Berufszählung 1970. Mannheim: VASMA-Arbeitspapier 9.",
+    "Bach, Walter/ Handl, Johann/Müller, Walter (1980): Volks- und Berufszählung 1970. Codebuch und Grundauszählung. Mannheim.",
+    "Schimpl-Neimanns, Bernhard/Frenzel, Hansjörg (1995): 1-Prozent Stichprobe der Volks- und Berufszählung 1970 – Datei mit Haushalts- und Familiennummern und revidierter Teilstichprobe für West-Berlin. Dokumentation der Datenaufbereitung. Mannheim: ZUMA-Technischer Bericht T95/06.",
+    "Frenzel, Hansjörg; Nau, Anke; Schimpl-Neimanns, Bernhard (1995): 1-Prozent Stichprobe der Volks- und Berufszählung 1970. Datei mit Haushalts- und Familiennummern und revidierte Teilstichprobe für West-Berlin. Codebuch und Grundauszählung."
+  ],
+  "falsePositives": [
+    " \u0027Gemeindegroessenklasse des Wohnortes (W2)\u0027 \u002710%-Kennzeichen alle\u0027 \u002710%-Kennzeichen\u0027 \u0027Bevoelk. in Priv.HH/Fam.Wohnsitz (W7,W8)\u0027 \u0027Beteiligung am Erwerbsleben (W1)\u0027 \u0027Landw. Bevoelkerung? (W2)\u0027 \u0027Diff. Ernaehrer/Ernaehrte (W1)\u0027 \u0027Alter (W1)\u0027 \u0027Anzahl der led.Pers. u 18J. (W1)\u0027 \u0027Haushaltstyp (W7)\u0027 \u0027Haushaltsgroesse: Wohnber.Bevoelk. (W1)\u0027 \u0027Haushaltsgroesse: Wohnbevoelkerung (W2)\u0027 \u0027Haushaltsgroesse: Bev. in PrivatHH+Anstalten (W7)\u0027 \u0027Anz. lediger Kinder 18J. und mehr\u0027 \u0027Anz. lediger Kinder unter 18J.\u0027 \u0027Anz. lediger Kinder unter 15J.\u0027 \u0027Anz. lediger Kinder unter 10J.\u0027 \u0027Anz. lediger Kinder unter 6J.\u0027 \u0027Anz. lediger Kinder unter 3J.\u0027 \u0027Familientyp (W7) 1 Byte\u0027 \u0027Familientyp (W7) 2 Byte\u0027 \u0027Fam.groesse (W7)\u0027 \u0027Anz Eink.bez.in Fam. nur Dt. (W8)\u0027 \u0027Anz. led. Kinder in Fam. 21J.u.m.\u0027 \u0027Anz. led. Kinder in Fam. 18-21J.\u0027 \u0027Anz. led. Kinder in Fam. 15-18J.\u0027 \u0027Anz. led. Kinder in Fam. 14-15J.\u0027 \u0027Anz. led. Kinder in Fam. 10-14J.\u0027 \u0027Anz. led. Kinder in Fam. 6-10J.\u0027 \u0027Anz. led. Kinder in Fam. 4-6J.\u0027 \u0027Anz. led. Kinder in Fam. 3-4J.\u0027 \u0027Anz. led. Kinder in Fam. 2-3J.\u0027 \u0027Anz. led. Kinder in Fam. 1-2J.\u0027 \u0027Anz. led. Kinder in Fam. unter 1J.\u0027"
+  ]
+}

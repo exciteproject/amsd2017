@@ -1,0 +1,36 @@
+{
+  "truePositives": [
+    "B-REF\tCompagna, Diego / Derpmann, Stefan (2009): Verfahren partizipativer Technikentwicklung. Wor-",
+    "I-REF\tking Papers kultur- und techniksoziologische Studien (no 04/2009). Hg.: Diego Compagna / Karen",
+    "I-REF\tAbruf: 27.12.2009).",
+    "B-REF\tWorking Brief 3: Diego Compagna / Stefan Derpmann / Kathrin Mauz / Karen Shire (2009): Förde-",
+    "I-REF\ttechnik (WiMi-Care), Working Brief 3: Die Personengebundenheit von Wissen. In: http://www.wimi-",
+    "I-REF\tcare.de/outputs.html#Briefs (letzter Abruf: 02.12.2009).",
+    "B-REF\tWorking Brief 13: Diego Compagna / Stefan Derpmann / Kathrin Mauz / Karen Shire (2009): För-",
+    "I-REF\ttechnik (WiMi-Care), Working Brief 13: Erste Methodenreflexion: Die Anwendung der Grounded",
+    "I-REF\t(letzter Abruf: 02.12.2009)."
+  ],
+  "falseNegatives": [
+    "B-REF\tBlau, P.M. (1977): Formal Organizations. A Comparative Approach. London: Routledge.",
+    "B-REF\tBraun-Thürmann, Holger (2005): Innovation. (1. Aufl.) Bielefeld: Transcript.",
+    "I-REF\tShire, Universität Duisburg-Essen. In: http://www.uni-due.de/soziologie/compagna_wpkts (letzter",
+    "B-REF\tGiesecke, Susanne (2003): Von der Technik- zur Nutzerorientierung - neue Ansätze in der Innova-",
+    "I-REF\ttionsforschung. In: Dies. (Hg.): Technikakzeptanz durch Nutzerintegration? Beiträge zur Innovati-",
+    "I-REF\tons- und Technikanalyse. Teltow: VDI/VDE-Technologiezentrum Informationstechnik GmbH. (S. 9-",
+    "I-REF\t17)",
+    "B-REF\tJoerges, Bernward (1988): Gerätetechnik und Alltagshandeln. In: Ders: Technik im Alltag. Frank-",
+    "I-REF\tfurt/Main: Suhrkamp. (S. 20-50)",
+    "B-REF\tResch, K.-L. (2009): Von Bedarfen und Bedürfnissen. In: Forschende Komplementärmedizin. Vol.",
+    "I-REF\t16, No. 2, 2009. Basel (u.a.): Karger. (S. 72-74)",
+    "B-REF\tWiMi-Care: Förderung des Wissenstransfers für eine aktive Mitgestaltung des Pflegesektors durch",
+    "I-REF\tMikrosystemtechnik (WiMi-Care). Website: http://www.wimi-care.de.",
+    "I-REF\trung des Wissenstransfers für eine aktive Mitgestaltung des Pflegesektors durch Mikrosystem-",
+    "I-REF\tderung des Wissenstransfers für eine aktive Mitgestaltung des Pflegesektors durch Mikrosystem-",
+    "I-REF\tTheory zur Durchführung von Bedarfsanalysen. In: http://www.wimi-care.de/outputs.html#Briefs",
+    "B-REF\tWorking Brief 15: Diego Compagna / Stefan Derpmann / Kathrin Mauz / Karen Shire (2009): För-",
+    "I-REF\tderung des Wissenstransfers für eine aktive Mitgestaltung des Pflegesektors durch Mikrosystem-",
+    "I-REF\ttechnik (WiMi-Care), Working Brief 15: Die Einstellung von Pflegekräften gegenüber technischen",
+    "I-REF\tNeuerungen. In: http://www.wimi-care.de/outputs.html#Briefs (letzter Abruf: 02.12.2009)."
+  ],
+  "falsePositives": []
+}

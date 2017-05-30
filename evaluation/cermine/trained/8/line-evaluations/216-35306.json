@@ -1,0 +1,47 @@
+{
+  "truePositives": [
+    "B-REF\tGinsburg, Norman, 1992: Divisions of Wel-",
+    "I-REF\tSocial Contract? 79-96, London.",
+    "I-REF\tWolfgang, Schmid, Alfons, 2010: Der",
+    "B-REF\tRoller, Edeltraud, 1992: Einstellungen der",
+    "B-REF\tScheuer, Angelika, 2012: Breite Zustim-",
+    "I-REF\tdienst Soziale Indikatoren 47, 12-15.",
+    "B-REF\tSvallfors, Stefan, 2003: Welfare Regimes",
+    "I-REF\tcators Research, No. 64, 495-520.",
+    "B-REF\tSvallfors, Stefan (Hrsg.), 2012: Contested"
+  ],
+  "falseNegatives": [
+    "B-REF\tAllmendinger, Jutta, Leibfried, Stefan, 2003:",
+    "I-REF\tEducation and the welfare state: the four",
+    "I-REF\tworlds of competence production. In",
+    "I-REF\tJournal of European Social Policy, 13.",
+    "I-REF\tJg., S. 63-81.",
+    "B-REF\tEsping-Andersen, Gösta, 1990: The Three",
+    "I-REF\tWorlds of Welfare Capitalism, Princeton,",
+    "I-REF\tN.J.",
+    "I-REF\tfare. A Critical Introduction to Compara-",
+    "I-REF\ttive Social Policy, London.",
+    "B-REF\tFerrera, Maurizio, 1998: The Four ‘Social",
+    "I-REF\tEuropes’: Between Universalism and Se-",
+    "I-REF\tlectivity. In M. Rhodes, Y. Mény, (Hrsg.),",
+    "I-REF\tThe Future of European Welfare. A New",
+    "B-REF\tNüchter, Oliver, Bieräugel, Roland, Glatzer,",
+    "I-REF\tSozialstaat im Urteil der Bevölkerung,",
+    "I-REF\tOpladen.",
+    "I-REF\tBürger zum Wohlfahrtsstaat der Bundes-",
+    "I-REF\trepublik Deutschland, Opladen.",
+    "I-REF\tmung für das europäische Modell eines",
+    "I-REF\tstarken Sozialstaats. In Informations-",
+    "I-REF\tand Welfare Opinions: A Comparison of",
+    "I-REF\tEight Western Countries. In Social Indi-",
+    "I-REF\tWelfare States. Welfare Attitudes in Eu-",
+    "I-REF\trope and Beyond, Stanford, CA.",
+    "B-REF\tVan Oorschot, Wim, Meuleman, Bart, 2012:",
+    "I-REF\tWelfare Performance and Welfare Sup-",
+    "I-REF\tport. In S. Svallfors (Hrsg.), Contested",
+    "I-REF\tWelfare States, 25-57. Stanford, CA."
+  ],
+  "falsePositives": [
+    "B-REF\tFerrera, Maurizio, 1998: The Four \u0027Social"
+  ]
+}

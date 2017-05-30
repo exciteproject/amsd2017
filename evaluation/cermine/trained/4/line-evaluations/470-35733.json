@@ -1,0 +1,13 @@
+{
+  "truePositives": [
+    "B-REF\tWieland J./ Grüninger S. (2000): Ethik ManagementSysteme und ihre Auditierung - Theoretische",
+    "I-REF\tH. (Hrsg.): Unternehmensethik in der Wirtschaftspraxis, DNWE-Schriftenreihe Bd. 7,",
+    "I-REF\tMünchen u. Mering: Hampp/Grüninger, 155-189.",
+    "B-REF\tWieland, J. (2004): Wozu Wertemanagement? - Ein Leitfaden für die Praxis, in: Wieland J.,",
+    "I-REF\tHandbuch Wertemanagement, Hamburg: Murmann, 13-52."
+  ],
+  "falseNegatives": [
+    "I-REF\tEinordnung und praktische Erfahrungen, in: Bausch, Th./ Kleinfeld, A./ Steinmann,"
+  ],
+  "falsePositives": []
+}

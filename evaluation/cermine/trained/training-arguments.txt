@@ -1,0 +1,11 @@
+0: 3
+1: true
+2: 10
+3: /EXCITE/scratch/eval/amsd2017/git/amsd2017/evaluation/lists/random-ids.csv
+4: /EXCITE/scratch/eval/amsd2017/cermine/annotated
+5: /EXCITE/scratch/eval/amsd2017/cermine/trained-folds
+6: /EXCITE/scratch/eval/amsd2017/pdf-crop
+7: /EXCITE/scratch/eval/amsd2017/git/ssoar-gold-standard/reference-extraction/refext/ref-lines/de
+8: 0
+
+3 true 10 /EXCITE/scratch/eval/amsd2017/git/amsd2017/evaluation/lists/random-ids.csv /EXCITE/scratch/eval/amsd2017/cermine/annotated /EXCITE/scratch/eval/amsd2017/cermine/trained-folds /EXCITE/scratch/eval/amsd2017/pdf-crop /EXCITE/scratch/eval/amsd2017/git/ssoar-gold-standard/reference-extraction/refext/ref-lines/de 0
