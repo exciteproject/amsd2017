@@ -1,0 +1,37 @@
+{
+  "truePositives": [
+    "B-REF\tChronic Poverty Research Centre (CPRC) (2008), The Chronic Poverty",
+    "I-REF\tReport 2008-09, Escaping Poverty Traps, Manchester, CPRC.",
+    "B-REF\tChurchill, Craig (2006), What is insurance for the poor? in: Craig",
+    "I-REF\tChurchill (ed.), Protecting the Poor – A Microinsurance Compendium,",
+    "I-REF\tGeneva, International Labour Ocfie, 12-24.",
+    "B-REF\tCohen, Monique and Jennefer Sebstad (2006), The demand for microin­",
+    "I-REF\tsurance,in:CraigChurchill(ed.),ProtectingthePoor– AMicroinsurance",
+    "I-REF\tCompendium, Geneva, International Labour Ocfie, 25-44.",
+    "B-REF\tDercon, Stefan (2002), Income Risk, Coping Strategies, and Safety Nets,",
+    "I-REF\tWorld Bank Research Observer 17, 2, 141-166.",
+    "B-REF\tGiesbert, Lena (2008), „Magic Micronfiance” – bald auch eine Erfolgsge-",
+    "I-REF\tschichte für Afrika? GIGA Focus Afrika, 9, Hamburg: GIGA.",
+    "B-REF\tInternational Labour Organisation (ILO) (2001), Social security: A new",
+    "I-REF\tconsensus, Genf, ILO.",
+    "B-REF\tMurdoch, Jonathan (2006), Micro-insurance: the next revolution? in:",
+    "I-REF\tBanerjee, Abhiijt Vinayak, Roland Bénabou, and Dilip Mookherjee",
+    "I-REF\t(ed.) Understanding Poverty Oxford University Press, 337-356.",
+    "B-REF\tMalaika, Marc and Kuriakose, Anne T. (2008), Microinsurance:",
+    "I-REF\tExtending Pro-Poor Risk Management through the Social Fund",
+    "I-REF\tPlatform, Social Funds Innovation Notes, 2.",
+    "B-REF\tRoth, Jim, Michael J. McCord and Dominic Liber (2007), The Landscape",
+    "I-REF\tof Microinsurance in the World’s 100 Poorest Countries, Appleton, The",
+    "I-REF\tMicroinsurance Centre.",
+    "B-REF\tWipf, John, Liber, Dominic and Craig Churchill (2006), in: Craig",
+    "I-REF\tChurchill (ed.), Protecting the Poor – A Microinsurance Compendium,",
+    "I-REF\tGeneva: International Labour Ocfie, 146-173."
+  ],
+  "falseNegatives": [],
+  "falsePositives": [
+    "B-REF\tBendig, Mirko, Giesbert, Lena und Susan Steiner (2009), Savings, Credit and Insurance: Household Demand for Formal",
+    "I-REF\tFinancial Services in Rural Ghana, GIGA Working Paper, 94, online: \u003cwww.giga-hamburg.de/workingpapers\u003e.",
+    "B-REF\tGiesbert, Lena (2008), „Magic Microfinance” – bald auch eine Erfolgsgeschichte für Afrika? GIGA Focus Afrika, 9, on­",
+    "I-REF\tline: \u003cwww.giga-hamburg.de/giga-focus/africa\u003e."
+  ]
+}
