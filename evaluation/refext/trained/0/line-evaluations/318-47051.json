@@ -45,6 +45,7 @@
     "B-REF\tKoschorke, Albrecht (2012): Wahrheit und Erfindung: Grundzüge einer Allgemeinen",
     "I-REF\tErzähltheorie. Frankfurt am Main",
     "B-REF\tKrais, Beate (2000): Das soziale Feld Wissenschaft und die Geschlechterverhältnisse.",
+    "I-REF\tTheoretische Sondierungen, in: dies. (Hg.): Wissenschaftskultur und Geschlechterordnung.",
     "I-REF\tÜber die verborgenen Mechanismen männlicher Dominanz in der akademischen Welt.",
     "I-REF\tFrankfurt/New York, S. 31-54",
     "B-REF\tLind, Inken (2004): Aufstieg oder Ausstieg? Karrierewege von Wissenschaftlerinnen. Ein",
@@ -73,13 +74,12 @@
     "I-REF\tWinners among Losers. Opladen"
   ],
   "falseNegatives": [
-    "I-REF\tFrauen in der Wissenschaft, in: Cornelißen, Waltraud/ Rusconi, Alessandra/ Becker, Ruth",
-    "I-REF\tTheoretische Sondierungen, in: dies. (Hg.): Wissenschaftskultur und Geschlechterordnung."
+    "I-REF\tFrauen in der Wissenschaft, in: Cornelißen, Waltraud/ Rusconi, Alessandra/ Becker, Ruth"
   ],
   "falsePositives": [
     "I-REF\t15",
     "B-REF\tFrauen in der Wissenschaft, in: Cornelißen, Waltraud/ Rusconi, Alessandra/ Becker, Ruth",
-    "B-REF\tTheoretische Sondierungen, in: dies. (Hg.): Wissenschaftskultur und Geschlechterordnung.",
-    "I-REF\t16"
+    "I-REF\t16",
+    "I-REF\tManuskript eingereicht: 31.10.2014 Manuskript angenommen: 18.03.2015"
   ]
 }

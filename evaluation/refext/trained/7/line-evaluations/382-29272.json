@@ -138,7 +138,6 @@
     "I-REF\tMärz.",
     "B-REF\tg.e.b.b. 2004a: 100% Service, Köln.",
     "B-REF\tg.e.b.b. 2004b: 100% Service, Englische Version, Köln.",
-    "B-REF\tg.e.b.b. 2006: Leistung ist messbar, Köln.",
     "B-REF\tg.e.b.b. 2007: Teamarbeiter, Köln.",
     "B-REF\tg.e.b.b. 2008: Das passt perfekt: Die Bundeswehr und die g.e.b.b. – gemeinsam erfolgreich,",
     "I-REF\tKöln.",
@@ -163,6 +162,7 @@
     "B-REF\tHuman Rights First 2008: Private Security Contractors at War, New York/Washington DC.",
     "B-REF\tInternational Code of Conduct (ICoC) 2010: Internationaler Verhaltenskodex für Private",
     "I-REF\tSicherheitsdienstleister, 9. November, in: www.icoc-psp.org/uploads/ INTERNA-",
+    "I-REF\t(14.7.2011).",
     "B-REF\tICoC 2012: Draft Charter of the Oversight Mechanism for the International Code of",
     "I-REF\tConduct for Private Security Service Providers, 16. Januar, in: www.icoc-",
     "I-REF\tpsp.org/uploads/Draft_Charter.pdf (14.7.2011).",
@@ -278,14 +278,16 @@
     "I-REF\tArtikel 12 des Gesetzes vom 21. Dezember 2007 (BGBl. I S. 3198) geändert worden ist,",
     "I-REF\t12. August.",
     "B-REF\tWelt Online 2001: Kühne \u0026 Nagel setzt auf Transport und Logistik für die Bundeswehr, 6.",
-    "I-REF\tApril.",
-    "B-REF\tWirtschaftswoche 2003: Bundeswehroffiziere unter Korruptionsverdacht, 12. Mai."
+    "I-REF\tApril."
   ],
   "falseNegatives": [
+    "B-REF\tg.e.b.b. 2006: Leistung ist messbar, Köln.",
     "I-REF\tTIONAL_CODE_OF_CONDUCT_Final_with_Company_Names_-_GERMAN.pdf",
-    "I-REF\t(14.7.2011)."
+    "B-REF\tWirtschaftswoche 2003: Bundeswehroffiziere unter Korruptionsverdacht, 12. Mai."
   ],
   "falsePositives": [
+    "I-REF\thttp://ec.europa.eu/external_relations/cfsp/sanctions/docs/measures_en.pdf (14.7.2011).",
+    "I-REF\tg.e.b.b. 2006: Leistung ist messbar, Köln.",
     "B-REF\tMai, in:"
   ]
 }

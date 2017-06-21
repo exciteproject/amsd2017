@@ -1,13 +1,14 @@
 {
-  "truePositives": [],
-  "falseNegatives": [
+  "truePositives": [
     "B-REF\tBolte, Annegret; Neumer, Judith; Porschen, Stephanie (2008): Die alltägliche Last",
     "I-REF\tder Kooperation - Abstimmung als Arbeit und das Ende der Meeting-Euphorie, editi-",
     "I-REF\ton sigma, Berlin.",
     "B-REF\tBöhle, Fritz (2008): Die Integration \"von unten\" - Ein \"blinder Fleck\" beim Wandel der",
     "I-REF\tOrganisation von Unternehmen. In: Böhle, Fritz; Bolte, Annegret; Bürgermeister,",
     "I-REF\tMarkus (Hrsg.): Die Integration von unten - Der Schlüssel zum Erfolg organisatori-",
-    "I-REF\tschen Wandels, Carl Auer, Heidelberg, S. 7-20.",
+    "I-REF\tschen Wandels, Carl Auer, Heidelberg, S. 7-20."
+  ],
+  "falseNegatives": [
     "B-REF\tKühl, Stefan (2002): Sisyphos im Management. Die vergebliche Suche nach der op-",
     "I-REF\ttimalen Organisationsstruktur, Wiley-VCH Verlag, Weinheim.",
     "B-REF\tPorschen, Stephanie (2008): Enttäuschte Meeting-Euphorie. In: WSI-Mitteilungen,",

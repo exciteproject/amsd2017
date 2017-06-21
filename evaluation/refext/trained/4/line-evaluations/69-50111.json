@@ -74,5 +74,16 @@
   "falseNegatives": [
     "I-REF\t10.1002/psp.700."
   ],
-  "falsePositives": []
+  "falsePositives": [
+    "I-REF\tallg. Zufr.",
+    "I-REF\tHH-Eink.",
+    "I-REF\tHH-Größe",
+    "I-REF\tHH-Größe²",
+    "I-REF\tD_Eigentum††",
+    "I-REF\tWohndauer",
+    "I-REF\tlokale Kontakte",
+    "I-REF\tKinderz. \u003c 6 J.",
+    "I-REF\tKinderz. 6 - 16 J.",
+    "I-REF\t1 1"
+  ]
 }

@@ -13,6 +13,8 @@
     "I-REF\tress in Human Geography 29, 4, S.",
     "I-REF\t413-436.",
     "B-REF\tVAn de KAA, D.J. (2002): The idea of a",
+    "I-REF\tsecond demographic transition in in-",
+    "I-REF\tdustrial countries. [Paper presented at",
     "B-REF\tVAn de KAA, D.J. (2004): Is the Second",
     "I-REF\tDemographic Transition a useful re-",
     "I-REF\tsearch concept? Questions and an-",
@@ -72,7 +74,6 @@
     "I-REF\tlandscape: an introduction to human",
     "I-REF\tgeography. Upper Saddle River.",
     "B-REF\tstAsZewsKA, S. u. L. MierZeJewsKA",
-    "I-REF\t(2006): Spatial changes in large Polish",
     "I-REF\tcities in the postwar period (the case",
     "I-REF\tof Wrocław). In: lois gonZáles, R.C.",
     "I-REF\t(Hrsg.): Urban changes in different",
@@ -112,15 +113,17 @@
     "I-REF\tGotha/Stuttgart."
   ],
   "falseNegatives": [
-    "I-REF\tsecond demographic transition in in-",
-    "I-REF\tdustrial countries. [Paper presented at",
     "I-REF\tthe 6th welfare policy seminar of the",
     "I-REF\tNational Institute of population and",
     "I-REF\tsocial security, Tokyo, Japan, 29 Jan-",
     "I-REF\tuary 2002].",
+    "I-REF\t(2006): Spatial changes in large Polish",
     "I-REF\tS. KABisch (2009): Population decli-"
   ],
   "falsePositives": [
-    "B-REF\tS. KABisch (2009): Population decli-"
+    "B-REF\t(2006): Spatial changes in large Polish",
+    "B-REF\tS. KABisch (2009): Population decli-",
+    "B-REF\tRNDr. Antonín VAishAr, CSc.",
+    "I-REF\tMgr. Petr KlusáčeK, Ph.D."
   ]
 }

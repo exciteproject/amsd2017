@@ -11,6 +11,9 @@
     "Liebel, M.(2005): Verborgene Aspekte der Arbeit von Kindern. In: Ders. (Hrsg.): Kinder im Abseits. – Weinheim/München, S. 127-151.",
     "Petzold, M. (2000): Die Multimedia-Familie – Mediennutzung, Computerspiele, Telearbeit. Persönlichkeitsprobleme und Kindermitwirkung in Medien. – Opladen.",
     "Showtime für Kids (2003). In: Kinder in NRW. Online verfügbar unter: www.kinder-in- nrw.de/download/kinderinnrw_3_03.pdf; Stand: 10.11.08.",
+    "Schmidt-Lellek, C. J. (2004): Charisma, Macht und Narzissmus – Zur Diagnostik einer ambi- valenten Führungseigenschaft. In: Zeitschrift Organisationsberatung, Supervision, Coa- ching, 11, 1, S. 27-40.",
+    "Homepage der Berufsvereinigung der Medienpädagogische Fachkräfte (BV MPF) e.V., www.bv-mpf.de, abgerufen am 24.01.2008.",
+    "www.dksb-nrw.de, Stellungnahme des DKSB u. des DKSB NRW, Wuppertal/Hannover v. 07.10.2004",
     "Gesetz betreffend das Urheberrecht an Werken der bildenden Künste und der Photographie (KunstUrhG) v. 16. Februar 2001.",
     "Jugendschutzgesetz (JuSchG) v. 23. Juli 2002; Stand: 20. Juli 2007.",
     "Kinder- und Jugendfördergesetz NRW (3. AG-KJHG – KJFöG) v. 12. Oktober 2004.",
@@ -18,13 +21,11 @@
     "Verordnung über den Kinderarbeitsschutz (Kinderarbeitsschutzverordnung – KindArbSchV) v. 23. Juni 1998."
   ],
   "falseNegatives": [
-    "Schmidt-Lellek, C. J. (2004): Charisma, Macht und Narzissmus – Zur Diagnostik einer ambi- valenten Führungseigenschaft. In: Zeitschrift Organisationsberatung, Supervision, Coa- ching, 11, 1, S. 27-40.",
-    "Homepage der Berufsvereinigung der Medienpädagogische Fachkräfte (BV MPF) e.V., www.bv-mpf.de, abgerufen am 24.01.2008.",
-    "www.dksb-nrw.de, Stellungnahme des DKSB u. des DKSB NRW, Wuppertal/Hannover v. 07.10.2004",
     "Positionspapier des DKSB LV NRW zu arbeitenden Kindern und Jugendlichen, Oktober 2001",
     "Gesetz zum Schutz der arbeitenden Jugend (Jugendarbeitsschutzgesetz – JarbSchG, Ju- gendarbeitsschutzgesetz v. 12. April 1976); Stand: 31.10.2006."
   ],
   "falsePositives": [
-    "Schmidt-Lellek, C. J. (2004): Charisma, Macht und Narzissmus – Zur Diagnostik einer ambi- valenten Führungseigenschaft. In: Zeitschrift Organisationsberatung, Supervision, Coa- ching, 11, 1, S. 27-40. gendarbeitsschutzgesetz v. 12. April 1976); Stand: 31.10.2006."
+    "Internet",
+    "Positionspapier des DKSB LV NRW zu arbeitenden Kindern und Jugendlichen, Oktober 2001 Gesetze und Verordnungen Gesetz zum Schutz der arbeitenden Jugend (Jugendarbeitsschutzgesetz – JarbSchG, Ju- gendarbeitsschutzgesetz v. 12. April 1976); Stand: 31.10.2006."
   ]
 }

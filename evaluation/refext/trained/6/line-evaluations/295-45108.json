@@ -1,5 +1,11 @@
 {
   "truePositives": [
+    "I-REF\tschaft? Über das Verhältnis von Theater und",
+    "I-REF\tMigration. In: Hess, S. / Binder J. / Moser,",
+    "I-REF\tJ. (Hrsg.): No integration?! Kulturwissen-",
+    "I-REF\tschalftiche Beiträge zur Integrationsdebatte",
+    "I-REF\tin Europa. Bielefeld: Transkript Verlag, S.",
+    "I-REF\t27-36.",
     "B-REF\tKrell, G. (2012): Diversity-orientierte Perso-",
     "I-REF\tnalentwicklung (PE). Systematik, Fallstricke",
     "I-REF\tund Chancen. Unveröfentlicher Vortrag,",
@@ -10,6 +16,10 @@
     "I-REF\tRacial and Class Based Inequality in Film",
     "I-REF\tand Drama School. URL: http://www.mi-",
     "I-REF\tgration-boell.de/web/integration/47_3554.",
+    "I-REF\thttp://www.nachtkritik.de/index.",
+    "I-REF\tzu-handeln\u0026option\u003dcom_",
+    "I-REF\tcontent\u0026Itemid\u003d60 [Zugrif am",
+    "I-REF\t04.09.2013].",
     "B-REF\tÖzbilgin, M. F. (2008): Global Diversity",
     "I-REF\tManagement. In: Smith, P. B. / Peterson, M.",
     "I-REF\tof Cross-Cultural Management Research. Los",
@@ -23,25 +33,18 @@
   ],
   "falseNegatives": [
     "B-REF\tBicker, B. (2009): Theater als Parallelgesell -",
-    "I-REF\tschaft? Über das Verhältnis von Theater und",
-    "I-REF\tMigration. In: Hess, S. / Binder J. / Moser,",
-    "I-REF\tJ. (Hrsg.): No integration?! Kulturwissen-",
-    "I-REF\tschalftiche Beiträge zur Integrationsdebatte",
-    "I-REF\tin Europa. Bielefeld: Transkript Verlag, S.",
-    "I-REF\t27-36.",
     "I-REF\tasp [Zugrif am 04.09.2013 ].",
     "B-REF\tMilagro, L. S. (2012): Die Bequem-",
     "I-REF\tlichkeit der Definitionshoheit. URL:",
-    "I-REF\thttp://www.nachtkritik.de/index.",
     "I-REF\tphp?view\u003darticle\u0026id\u003d6740%3Adie-",
     "I-REF\tblackfacing-debatte-iii-man-muss-",
     "I-REF\tkein-neonazi-sein-um-rassisisch-",
-    "I-REF\tzu-handeln\u0026option\u003dcom_",
-    "I-REF\tcontent\u0026Itemid\u003d60 [Zugrif am",
-    "I-REF\t04.09.2013].",
     "I-REF\tF. / Thomas, D. C. (Hrsg.): eTh Handbook"
   ],
   "falsePositives": [
-    "B-REF\tF. / Thomas, D. C. (Hrsg.): eTh Handbook"
+    "B-REF\tF. / Thomas, D. C. (Hrsg.): eTh Handbook",
+    "B-REF\tMandel, Birgit (2013):",
+    "I-REF\tInterkulturelles Audience De-",
+    "I-REF\tvelopement: Zukunsftstrat -"
   ]
 }

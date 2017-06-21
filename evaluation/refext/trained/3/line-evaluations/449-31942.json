@@ -369,6 +369,7 @@
     "I-REF\tder Jungen Akademie, Berlin.",
     "B-REF\tRusconi, Alessandra/Solga, Heike (2002): Auswertung der Befragung deutscher",
     "I-REF\tHochschulen zur „Verflechtung von beruflichen Karrieren in Akademikerpart-",
+    "I-REF\tgen Akademie, Berlin.",
     "B-REF\tRusconi, Alessandra/Solga, Heike (2004): Alters- und Erwerbskonstellationen in",
     "I-REF\tAkademikerpartnerschaften: Ein Vergleich zwischen 1971 und 1997. Arbeitsbe-",
     "I-REF\tricht der Arbeitsgruppe „Wissenschaftspolitik“ der Jungen Akademie, Berlin.",
@@ -480,12 +481,12 @@
   "falseNegatives": [
     "I-REF\tKath/Ward, Kevin (Hrsg.): Gender divisions and working time in the new econ-",
     "I-REF\tnerschaften“. Arbeitsbericht der Arbeitsgruppe „Wissenschaftspolitik“ der Jun-",
-    "I-REF\tgen Akademie, Berlin.",
     "B-REF\tStatistisches Bundesamt (2009a). Prüfungen an Hochschulen. Fachserie 11, Reihe 4.2."
   ],
   "falsePositives": [
     "I-REF\tLiteratur",
     "B-REF\tKath/Ward, Kevin (Hrsg.): Gender divisions and working time in the new econ-",
+    "I-REF\tLiteratur",
     "I-REF\tStatistisches Bundesamt (2009a). Prüfungen an Hochschulen. Fachserie 11, Reihe 4.2."
   ]
 }

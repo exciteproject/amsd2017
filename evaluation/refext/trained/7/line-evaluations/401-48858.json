@@ -24,7 +24,6 @@
     "I-REF\tdern die räumliche Nähe zwischen den GeneraƟ onen?",
     "I-REF\tWechselbeziehungen zwischen Wohnenƞ ernung, Kon-",
     "I-REF\ttakthäuĮ gkeit und Beziehungsenge im LängsschniƩ .",
-    "I-REF\tIn: A. EƩ e, K. Ruckdeschel \u0026 R. Unger (Hrsg.) Poten-",
     "I-REF\tziale intergeneraƟ onaler Beziehungen: Chancen und",
     "I-REF\tHerausforderungen für die Gestaltung des demograĮ -",
     "I-REF\tschen Wandels (S. 175-197). Würzburg: Ergon.",
@@ -54,7 +53,6 @@
     "I-REF\tgart: Kohlhammer.",
     "B-REF\tHuxhold, O., Miche, M., \u0026 Schüz, B. (2014). BeneĮ ts of",
     "I-REF\thaving friends in older ages: Diī erenƟ al eī ects of in-",
-    "I-REF\tformal social acƟ viƟ es on well-being in middle-aged",
     "I-REF\t366-375. doi: 10.1093/geronb/gbt029.",
     "B-REF\tIkkink, K. K., \u0026 Tilburg, T. van (1998). Do older adults’",
     "I-REF\tnetwork members conƟ nue to provide instrumen-",
@@ -90,23 +88,16 @@
     "I-REF\tdoi: 10.1177/000312240507000303."
   ],
   "falseNegatives": [
+    "I-REF\tIn: A. EƩ e, K. Ruckdeschel \u0026 R. Unger (Hrsg.) Poten-",
+    "I-REF\tformal social acƟ viƟ es on well-being in middle-aged",
     "I-REF\tand older adults. The Journals of Gerontology - Series",
     "I-REF\tB: Psychological Sciences and Social Sciences, 69(3),"
   ],
   "falsePositives": [
-    "I-REF\tre2",
     "I-REF\te",
     "I-REF\tlitt",
     "I-REF\tM1 2,1 2,0 2,0 2,4 2,0 1,9 1,9 2,3 2,0 2,0 1,8 2,1 1,9 1,7 1,7 2,0 1,9 1,7 1,6 1,9 1,9 1,8 1,5 1,7 1,8 1,8 1,5 1,5",
     "I-REF\t21,5 28,8 31,0 38,7 19,4 22,6 26,5 33,0 16,7 22,5 22,4 29,4 18,7 17,5 19,8 22,9 14,9 16,9 14,2 16,7",
-    "B-REF\tB: Psychological Sciences and Social Sciences, 69(3),",
-    "B-REF\tOpen Access Dieses Kapitel wird unter der Creative Commons Namensnennung 2.5 International Lizenz (http://creativecommons.org/licenses/by/2.5/deed.de)",
-    "I-REF\tveröffentlicht, welche die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem Medium und Format erlaubt, sofern Sie den/die",
-    "I-REF\tursprünglichen Autor(en) und die Quelle ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, ob Änderungen vorgenom-",
-    "I-REF\tmen wurden.",
-    "B-REF\tDie in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen ebenfalls der genannten Creative Commons Lizenz, sofern sich aus der Abbil-",
-    "I-REF\tdungslegende nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative Commons Lizenz steht und die betreffende Handlung",
-    "I-REF\tnicht nach gesetzlichen Vorschriften erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Einwilligung des jeweiligen Rechteinhabers",
-    "I-REF\teinzuholen."
+    "B-REF\tB: Psychological Sciences and Social Sciences, 69(3),"
   ]
 }

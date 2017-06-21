@@ -91,5 +91,8 @@
     "I-REF\tim Fußballsport. Zeitschrift für Qualitative Forschung, 1, 97-117."
   ],
   "falseNegatives": [],
-  "falsePositives": []
+  "falsePositives": [
+    "B-REF\tUniversität Leipzig, Institut für Kulturwissenschaften",
+    "I-REF\tBeethovenstraße 15, 04107 Leipzig"
+  ]
 }

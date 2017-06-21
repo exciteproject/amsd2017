@@ -1,11 +1,11 @@
 Name	Value
 filterRegex	null
-micro precision	0.8968049944913699
-micro recall	0.9120448179271708
-micro f1 score	0.9043607073419128
-macro precision	0.8619243032205275
-macro recall	0.8918789105890548
-macro f1 score	0.869946627104664
-truePositives	4884
-falseNegatives	471
-falsePositives	562
+micro precision	0.8991689750692521
+micro recall	0.9092436974789916
+micro f1 score	0.9041782729805015
+macro precision	0.8786941252553171
+macro recall	0.9064306998515856
+macro f1 score	0.8845988206718667
+truePositives	4869
+falseNegatives	486
+falsePositives	546

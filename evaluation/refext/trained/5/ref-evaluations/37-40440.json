@@ -17,8 +17,8 @@
     "Law, D. M./Shapka, J. D./Domene, J. F./Gagné, M. H. (2012): Are cyberbullies really bullies? An investigation of reactive and proactive online aggression. Computers in Human Behavior, 28, 2, pp. 664-672.",
     "Lindeman, M./Harakka, T./Keltikangas-Järvinen, L. (1997): Age and gender differences in adolescents’ reactions to conflict situations: Aggression, prosociality, and withdrawal. Journal of Youth and Adolescence, 26, 3, pp. 339-351.",
     "Little, T. D./Jones, S. M./Henrich, C. C./Hawley, P. H. (2003): Disentangling the “whys” from the “whats” of aggressive behaviour. International Journal of Behavioral Development, 27, 2, pp. 122-133.",
+    "Menesini, E./Nocentini, A./Palladino, B. E./Frisen, A./Berne, S./Ortega, R./Calmaestra, J./Scheithauer, H./Schultze-Krumbholz, A./Luik, P./Naruskov, K./Blaya, C./Berthaud, J./Smith, P. K. (2012): Cyber- bullying definition among adolescents: A comparison across six European countries. Cyberpsycho- logy, Behavior, and Social Networking, 15, 9, pp. 455-463.",
     "Mishna, F./Khoury-Kassabri, M./Gadalla, T./Daciuk, J. (2012): Risk factors for involvement in cyber bullying: Victims, bullies and bully-victims. Children \u0026 Youth Services Review, 34, 1, pp. 63-70.",
-    "Nocentini, A./Calmaestra, J./Schultze-Krumbholz, A./Scheithauer, H./Ortega, R./Menesini, E. (2010): Cyberbullying: Labels, behaviours and definition in three European countries. Australian Journal of Guidance and Counselling, 20, 2, pp. 129-142.",
     "Ortega, R./Elipe, P./Mora-Merchán, J. A./Calmaestra, J./Vega, E. (2009): The emotional impact on victims of traditional bullying and cyberbullying: A study of Spanish adolescents. Zeitschrift für Psychologie / Journal of Psychology, 217, 4, pp. 197-204.",
     "Oerter, R. (1995): Kultur, Ökologie und Entwicklung. In: Oerter, R./Montada, L. (Hrsg.): Entwicklungs- psychologie (3., vollst. überarb. Aufl.). – Weinheim, S. 84-127.",
     "Olweus, D. (2012): Cyberbullying: An overrated phenomenon? European Journal of Developmental Psy- chology, 9, 5, pp. 520-538.",
@@ -40,7 +40,6 @@
     "Sontag, L. M./Clemans, K. H./Graber, J. A./Lyndon, S. T. (2011): Traditional and cyber aggressors and victims: A comparison of psychosocial characteristics. Journal of Youth and Adolescence, 40, pp. 392-404.",
     "Sourander, A./Brunstein Klomek, A./Ikonen, M./Lindroos, J./Luntamo, T./Koskelainen, M./Ristkari, T./ Helenius, H. (2010): Psychosocial risk factors associated with cyberbullying among adolescents – A population-based study. Archives of General Psychiatry, 67, 7, pp. 720-728.",
     "Spears, B./Slee, P./Owens, L./Johnson, B. (2009): Behind the scenes and screens – Insights into the human dimension of covert and cyberbullying. Zeitschrift für Psychologie / Journal of Psychology, 217, 4, pp. 189-196.",
-    "Sticca, F./Perren, S. (2013): Is cyberbullying worse than traditional bullying? Examining the differential roles of medium, publicity, and anonymity for the perceived severity of bullying. Journal of Youth and Adolescence, 42, 5, pp. 739-750.",
     "Sweeten, G./Piquero, A. R./Steinberg, L. (2013): Age and the explanation of crime, revisited. Journal of Youth and Adolescence, 42, 6, pp. 921-938.",
     "Techniker Krankenkasse (2011): TK Meinungspuls Gesundheit 2011 ‒ Erhebung „Cyberbullying“. Online verfügbar unter: http://www.tk.de/tk/kinder-jugendliche-undfamilie/gewalt-gegen-kinder/ cybermobbing/343730 (Stand: 06.04.2012)",
     "Tokunaga, R. S. (2010): Following you home from school: A critical review and synthesis of research on cyberbullying victimization. Computers in Human Behavior, 26, 3, pp. 277-287.",
@@ -56,15 +55,15 @@
     "Festinger, L. (1962): A theory of cognitive dissonance. – Stanford.",
     "Field, A. (2009): Discovering statistics using SPSS. – London, UK.",
     "Lahey, B. B./Schwab-Stone, M./Goodman, S. H./Waldman, I. D./Canino, G./Rathouz, P. J./Miller, T. L./Dennis, K. D./Bird, H./Jensen, P. S. (2000): Age and gender differences in oppositional behavior and conduct problems: A cross-sectional household study of middle childhood and adolescence. Journal of Abnormal Psychology, 109, 3, pp. 488-503.",
-    "Menesini, E./Nocentini, A./Palladino, B. E./Frisen, A./Berne, S./Ortega, R./Calmaestra, J./Scheithauer, H./Schultze-Krumbholz, A./Luik, P./Naruskov, K./Blaya, C./Berthaud, J./Smith, P. K. (2012): Cyber- bullying definition among adolescents: A comparison across six European countries. Cyberpsycho- logy, Behavior, and Social Networking, 15, 9, pp. 455-463."
+    "Nocentini, A./Calmaestra, J./Schultze-Krumbholz, A./Scheithauer, H./Ortega, R./Menesini, E. (2010): Cyberbullying: Labels, behaviours and definition in three European countries. Australian Journal of Guidance and Counselling, 20, 2, pp. 129-142.",
+    "Sticca, F./Perren, S. (2013): Is cyberbullying worse than traditional bullying? Examining the differential roles of medium, publicity, and anonymity for the perceived severity of bullying. Journal of Youth and Adolescence, 42, 5, pp. 739-750."
   ],
   "falsePositives": [
     "Brechwald, W. A./Prinstein, M. J. (2011): Beyond Homophily: A decade of advances in understanding peer influence processes. Journal of Research on Adolescence, 21, 1, pp. 166-179. Diskurs Kindheits- und Jugendforschung Heft 1-2014, S. 61-79 77",
     "Festinger, L. (1962): A theory of cognitive dissonance. – Stanford. Field, A. (2009): Discovering statistics using SPSS. – London, UK.",
     "Lahey, B. B./Schwab-Stone, M./Goodman, S. H./Waldman, I. D./Canino, G./Rathouz, P. J./Miller, T.",
     "L./Dennis, K. D./Bird, H./Jensen, P. S. (2000): Age and gender differences in oppositional behavior and conduct problems: A cross-sectional household study of middle childhood and adolescence. Journal of Abnormal Psychology, 109, 3, pp. 488-503.",
-    "Menesini, E./Nocentini, A./Palladino, B. E./Frisen, A./Berne, S./Ortega, R./Calmaestra, J./Scheithauer,",
-    "H./Schultze-Krumbholz, A./Luik, P./Naruskov, K./Blaya, C./Berthaud, J./Smith, P. K. (2012): Cyber- bullying definition among adolescents: A comparison across six European countries. Cyberpsycho- logy, Behavior, and Social Networking, 15, 9, pp. 455-463.",
-    "Diskurs Kindheits- und Jugendforschung Heft 1-2014, S. 61-79 79"
+    "Nocentini, A./Calmaestra, J./Schultze-Krumbholz, A./Scheithauer, H./Ortega, R./Menesini, E. (2010): Cyberbullying: Labels, behaviours and definition in three European countries. Australian Journal of Guidance and Counselling, 20, 2, pp. 129-142. 78 A. Schultze-Krumbholz u.a.: Prävention von Cybermobbing durch das Programm Medienhelden",
+    "Sticca, F./Perren, S. (2013): Is cyberbullying worse than traditional bullying? Examining the differential roles of medium, publicity, and anonymity for the perceived severity of bullying. Journal of Youth and Adolescence, 42, 5, pp. 739-750. Diskurs Kindheits- und Jugendforschung Heft 1-2014, S. 61-79 79"
   ]
 }

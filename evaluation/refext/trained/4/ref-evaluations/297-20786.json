@@ -10,9 +10,9 @@
     "Friedrichs, J., 1990: Methoden empirischer Sozialforschung, 14. A.. Opladen: Westdeut- scher Verlag.",
     "Fuchs, M./Lamnek, S./Luedtke, J., 2001: Tatort Schule: Gewalt an Schulen 1994-1999. Opladen: Leske + Budrich.",
     "Hallfors, D./Khatapoush, S./Kadushin, C./Watson, K./Saxe, L., 2000: A comparison of paper vs. computer-assisted self interview for school alcohol, tobacco, and other drug surveys. Evaluation and Program Planning 23: 149-155.",
-    "Heitmeyer, W./Collmann, B./Conrads, J./Matuschek, I./Kraul, D./Kühnel, W./Möller, R./Ulbrich-Hermann, M., 1996: Gewalt: Schattenseiten der Individualisierung bei Ju- gendlichen aus unterschiedlichen Milieus. Weinheim/München: Juventa.",
     "Hindelang, M./Hirschi, T./Weis, J., 1981: Measuring Delinquency. Beverly Hills: Sage.",
     "Hirschi, T., 1969: Causes of Delinquency. Berkeley: University of California Press.",
+    "Holtappels, H. G./Heitmeyer, W./Melzer, W./Tillmann,K.-J. (Hg.), 1997: Forschung über Gewalt an Schulen: Erscheinungsformen und Ursachen, Konzepte und Prävention. Wein- heim/München: Juventa.",
     "Huizinga, D./Elliott, D,. 1986: Reassessing the reliability and validity of self-report delin- quency measures. Journal of Quantitative Criminology 2: 293-327.",
     "Junger, M., 1989: Discrepancies Between Police and Self-Report Data for Dutch Racial Minorities. British Journal of Criminology, 29(3): 273-284.",
     "Kerkvliet, J., 1994: Cheating by Economics Students: A Comparison of Survey Results. Journal of Economic Education, 25(2): 121-133.",
@@ -39,14 +39,14 @@
   ],
   "falseNegatives": [
     "Dillman, D. A., 1983: Mail and other Self-Administered Questionnaires. S. 359-376 in: Rossi, P. H./Wright, J. D./Anderson, A. B., Handbook of Survey Research. New York: Academic Press.",
-    "Holtappels, H. G./Heitmeyer, W./Melzer, W./Tillmann,K.-J. (Hg.), 1997: Forschung über Gewalt an Schulen: Erscheinungsformen und Ursachen, Konzepte und Prävention. Wein- heim/München: Juventa.",
+    "Heitmeyer, W./Collmann, B./Conrads, J./Matuschek, I./Kraul, D./Kühnel, W./Möller, R./Ulbrich-Hermann, M., 1996: Gewalt: Schattenseiten der Individualisierung bei Ju- gendlichen aus unterschiedlichen Milieus. Weinheim/München: Juventa.",
     "Zinnecker, J./Behnken, I./Maschke, S./Stecher, L. 2002: Null zoff \u0026 voll busy. Die erste Jugendgeneration des neuen Jahrhunderts. Ein Selbstbild. Opladen: Lese + Budrich."
   ],
   "falsePositives": [
-    " Oberwittler/Naplava: Auswirkungen des Erhebungsverfahrens bei Jugendbefragungen...",
     "Dillman, D. A., 1983: Mail and other Self-Administered Questionnaires. S. 359-376 in:",
     "Rossi, P. H./Wright, J. D./Anderson, A. B., Handbook of Survey Research. New York: Academic Press.",
-    "Holtappels, H. G./Heitmeyer, W./Melzer, W./Tillmann,K.-J. (Hg.), 1997: Forschung über Gewalt an Schulen: Erscheinungsformen und Ursachen, Konzepte und Prävention. Wein- heim/München: Juventa. Oberwittler/Naplava: Auswirkungen des Erhebungsverfahrens bei Jugendbefragungen...",
+    "Heitmeyer, W./Collmann, B./Conrads, J./Matuschek, I./Kraul, D./Kühnel, W./Möller,",
+    "R./Ulbrich-Hermann, M., 1996: Gewalt: Schattenseiten der Individualisierung bei Ju- gendlichen aus unterschiedlichen Milieus. Weinheim/München: Juventa.",
     "Zinnecker, J./Behnken, I./Maschke, S./Stecher, L. 2002: Null zoff \u0026 voll busy. Die erste Jugendgeneration des neuen Jahrhunderts. Ein Selbstbild. Opladen: Lese + Budrich. Oberwittler/Naplava: Auswirkungen des Erhebungsverfahrens bei Jugendbefragungen..."
   ]
 }

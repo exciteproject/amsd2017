@@ -1,5 +1,7 @@
 {
   "truePositives": [
+    "I-REF\tZukunft: Das neue Reha-Modell. Rehavision. Chancen und Perspektive der",
+    "I-REF\tBeruflichen Rehabilitation.",
     "B-REF\tBadura, B., Schellschmidt, H., Vetter, C. (Hrsg.) (2004). Fehlzeiten-Report 2004.",
     "I-REF\tGesundheitsmanagement in Krankenhäusern und Pflegeeinrichtungen.",
     "B-REF\tBellwinkel, M., Chruscz, D., Schumann, J. (1998). Neue Wege der Prävention",
@@ -31,13 +33,6 @@
     "I-REF\tgruppen/02__arbeitgeber__steuerberater/dateianh_C3_A4nge/betriebliche__eingl",
     "I-REF\tiederung/abschlussbericht,templateId\u003draw,property\u003dpublicationFile.pdf/ab-",
     "I-REF\tschlussbericht.",
-    "B-REF\tEvers, M., Schaeffer Huber, D. (2000). Case Management in Theorie und Praxis.",
-    "I-REF\tBern: Huber.",
-    "B-REF\tEl Gamali, J., Selig, R. (2008). Förderung der Einführung eines betrieblichen",
-    "I-REF\tEingliederungsmanagements. Prämien und Boni durch Rehabilitationsträger",
-    "I-REF\tund Integrationsämter: Ergebnisse einer Umfrage. In Hahn, W., Baumeister,",
-    "I-REF\tP. (Hrsg.) Betriebliches Eingliederungsmanagement im Unternehmen (S. 113–",
-    "I-REF\t131). Berlin, Logos Verlag.",
     "B-REF\tFeldes, W. (2004). Rehabilitation vor Entlassung. Geänderte Kündigungs-",
     "I-REF\tprävention und neues betriebliches Eingliederungsmanagement im SGB IX –",
     "I-REF\tnicht nur für behindert Beschäftigte, auch für längerfristig Kranke. Soziale",
@@ -63,7 +58,6 @@
     "I-REF\tWicher, K., Borstel, B. von (Hrsg.): Betriebliches Eingliederungsmanagement –",
     "I-REF\tHandeln – aber wie? ISBN 978-3-88264-475-3.",
     "B-REF\tKohte, W. (2005). Das SGB IX als arbeits- und sozialrechtliche Grundlage der",
-    "I-REF\tTeilhabe am Arbeitsleben. Zeitschrift für Sozialreform (ZSR), Sonderheft 2005.",
     "B-REF\tLiedtke, St. (2007). Gesundheitsbezogene Maßnahmen und Möglichkeiten zum",
     "I-REF\tErhalt der Erwerbsfähigkeit älterer Arbeitnehmer. (Veröffentlichungsreihe des",
     "I-REF\tZentrums für Versorgungsforschung Fakultät für Gesundheitswissenschaften",
@@ -96,28 +90,34 @@
     "B-REF\tThönnes, F. (2007). Herausforderung demografischer Wandel – Chancen für",
     "I-REF\tbetriebliche Prävention nutzen und aktivieren, abrufbar unter",
     "I-REF\thttp://www.bmas.de/coremedia/generator/23424/2007__11__30__rede__",
-    "I-REF\tthoennes__job__fachtagung.html.",
-    "B-REF\tWolf, S. (2008). Die Mitwirkungspflicht des Arbeitnehmers bei Maßnahmen",
-    "I-REF\tdes Betrieblichen Eingliederungsmanagements nach § 84 Absatz 2 SGB IX,",
-    "I-REF\tabrufbar unter http://www.iqpr.de/iqpr/download/foren/B_12008.pdf."
+    "I-REF\tthoennes__job__fachtagung.html."
   ],
   "falseNegatives": [
     "B-REF\tAlles, T., Zelfel, R. (2008). Gesundheitsmanagement in kleinen und mittleren",
     "I-REF\tUnternehmen. Repräsentative Befragung im Rahmen des Projekts „Gesunde",
     "I-REF\tArbeit“. Unveröffentlichtes Manuskript.",
     "B-REF\tArbeitsgemeinschaft Deutscher Berufsförderungswerke (2008). Fit für die",
-    "I-REF\tZukunft: Das neue Reha-Modell. Rehavision. Chancen und Perspektive der",
-    "I-REF\tBeruflichen Rehabilitation.",
     "I-REF\tZahlen, Daten, Analysen aus allen Branchen der Wirtschaft. Berlin: Springer.",
     "B-REF\tDeutsche Gesetzliche Unfallversicherung (2008).",
     "I-REF\tLangzeitkranke Mitarbeiter kosten Arbeitgeber 400 Euro am Tag, abrufbar unter",
-    "I-REF\tAbschlussbericht 2007"
+    "B-REF\tEvers, M., Schaeffer Huber, D. (2000). Case Management in Theorie und Praxis.",
+    "I-REF\tBern: Huber.",
+    "B-REF\tEl Gamali, J., Selig, R. (2008). Förderung der Einführung eines betrieblichen",
+    "I-REF\tEingliederungsmanagements. Prämien und Boni durch Rehabilitationsträger",
+    "I-REF\tund Integrationsämter: Ergebnisse einer Umfrage. In Hahn, W., Baumeister,",
+    "I-REF\tP. (Hrsg.) Betriebliches Eingliederungsmanagement im Unternehmen (S. 113–",
+    "I-REF\t131). Berlin, Logos Verlag.",
+    "I-REF\tAbschlussbericht 2007",
+    "I-REF\tTeilhabe am Arbeitsleben. Zeitschrift für Sozialreform (ZSR), Sonderheft 2005.",
+    "B-REF\tWolf, S. (2008). Die Mitwirkungspflicht des Arbeitnehmers bei Maßnahmen",
+    "I-REF\tdes Betrieblichen Eingliederungsmanagements nach § 84 Absatz 2 SGB IX,",
+    "I-REF\tabrufbar unter http://www.iqpr.de/iqpr/download/foren/B_12008.pdf."
   ],
   "falsePositives": [
     "B-REF\tZahlen, Daten, Analysen aus allen Branchen der Wirtschaft. Berlin: Springer.",
     "I-REF\tDeutsche Gesetzliche Unfallversicherung (2008).",
     "B-REF\tLangzeitkranke Mitarbeiter kosten Arbeitgeber 400 Euro am Tag, abrufbar unter",
     "B-REF\tAbschlussbericht 2007",
-    "I-REF\tLiteratur"
+    "B-REF\tTeilhabe am Arbeitsleben. Zeitschrift für Sozialreform (ZSR), Sonderheft 2005."
   ]
 }

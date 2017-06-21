@@ -28,7 +28,6 @@
     "B-REF\tForsyth, D. R. \u0026 Pope, W. R. (1984). Ethical ideology and judgments of social psychological",
     "I-REF\tresearch: A multidimensional analysis. Journal of Personality and Social Psychology, 46,",
     "I-REF\t1365-1375.",
-    "B-REF\tFrankfurter Allgemeine Zeitung (2004a, 05. April). Kommentar. Die Konsequenz, S. 11.",
     "B-REF\tFrankfurter Allgemeine Zeitung (2004b, 14. September). Ethikrat für Moratorium",
     "I-REF\ttherapeutischen Klonens, S. 1.",
     "B-REF\tFranz, T. M. \u0026 Larson, J. R. Jr. (2002). The impact of experts on information sharing during",
@@ -158,22 +157,11 @@
     "I-REF\tdictionary of sociology (pp. 148-152). London: Routledge \u0026 Kegan Paul."
   ],
   "falseNegatives": [
-    "B-REF\t1000-Fragen-Projekt (n.d.). http://1000fragen.de Seite eingesehen am 18.06.2004."
+    "B-REF\t1000-Fragen-Projekt (n.d.). http://1000fragen.de Seite eingesehen am 18.06.2004.",
+    "B-REF\tFrankfurter Allgemeine Zeitung (2004a, 05. April). Kommentar. Die Konsequenz, S. 11."
   ],
   "falsePositives": [
-    "B-REF\tH1: Die vier ethischen Grundpositionen lassen sich bei der Rechtfertigung einer",
-    "I-REF\tEntscheidung über ethische Probleme in der Medizin und Wirtschaft wieder finden.",
-    "B-REF\tH2: Zwischen Medizin und Wirtschaft gibt es Unterschiede bei den Rechtfertigungen",
-    "I-REF\t(Wichtigkeitseinschätzung der ethischen Grundpositionen - Mittelwerte).",
-    "B-REF\tH3: Innerhalb des Kontextes, in denen gerechtfertigt wurde, gibt es einen Zusammenhang",
-    "I-REF\tzwischen Entscheidung, Rechtfertigung und Rolle (Streuung der individuellen",
-    "I-REF\tWichtigkeitseinschätzungen und multiple Korrelation bei der Vorhersage der",
-    "I-REF\tEntscheidungen – Varianzen und Kovarianzen).",
-    "B-REF\tH4: Innerhalb der Rollen gibt es einen Zusammenhang zwischen Entscheidung und",
-    "I-REF\tRechtfertigung (Varianzen und Kovarianzen innerhalb der Rollen bei der Vorhersage",
-    "I-REF\tder Entscheidung).",
-    "B-REF\tH5: Die Häufigkeitsverteilung der getroffenen Entscheidung ist in den Bereichen Medizin",
-    "I-REF\tund Wirtschaft abhängig von der Rolle.",
+    "I-REF\tVerheiratet ( )",
     "B-REF\tWitte, E.H.: The extended group situation theory (EGST), social",
     "I-REF\tdecision schemes, models of the structure of communication in small",
     "I-REF\tgroups, and specific effects of minority influences and",
@@ -291,6 +279,8 @@
     "B-REF\tScheffer, Julia \u0026 Witte, Erich H.: Der Einfluss von makrosozialer",
     "I-REF\twirtschaftlicher Bedrohung auf die Leistungsfähigkeit.",
     "B-REF\tWitte, Erich H. \u0026 Wolfram, Maren: Erwartungen und Vorstellungen über die",
-    "I-REF\tVorlesung Psychologie."
+    "I-REF\tVorlesung Psychologie.",
+    "B-REF\tDie Hamburger Forschungsberichte werden herausgegeben von",
+    "I-REF\tProf. Dr. Erich H. Witte"
   ]
 }

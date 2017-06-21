@@ -18,7 +18,7 @@
   "falseNegatives": [],
   "falsePositives": [
     "B-REF\tInternet-Quellen",
-    "I-REF\tConsejo Nacional de Televisión (CNTV):",
+    "B-REF\tConsejo Nacional de Televisión (CNTV):",
     "I-REF\twww.cntv.cl",
     "B-REF\tForo Asuntos Públicos:",
     "I-REF\twww.asuntospublicos.org",

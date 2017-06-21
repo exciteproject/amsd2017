@@ -47,6 +47,7 @@
     "I-REF\tDüsseldorf: VDI Verlag",
     "B-REF\tVanberg, V., 1975: Die zwei Soziologien. Individualismus und Kollektivismus in der",
     "I-REF\tSozialtheorie, Tübingen: J.C.B. Mohr",
+    "B-REF\tVasek, T., 2004: Rechner auf Rädern, in: Technology Review 7/2004: 20-41",
     "B-REF\tVernaleken, C., 2004: Forschen fürs Cockpit der nächsten Generation, in: Luft- und",
     "I-REF\tRaumfahrt 4/2004: 22-24",
     "B-REF\tWagner, T./Göhner, P./Urbano, P.G. de A., 2003/04: Softwareagenten - Einführung",
@@ -64,10 +65,8 @@
     "B-REF\tZiegler, Peter-Michael/Benz, Benjamn, 2005: Fliegendes Rechnernetz. IT-Technik",
     "I-REF\tan Bord des Airbus A380, in: c\u0027t 2005, H. 17: 84-91"
   ],
-  "falseNegatives": [
-    "B-REF\tVasek, T., 2004: Rechner auf Rädern, in: Technology Review 7/2004: 20-41"
-  ],
+  "falseNegatives": [],
   "falsePositives": [
-    "I-REF\tVasek, T., 2004: Rechner auf Rädern, in: Technology Review 7/2004: 20-41"
+    "I-REF\tBereits erschienene Soziologische Arbeitspapiere"
   ]
 }

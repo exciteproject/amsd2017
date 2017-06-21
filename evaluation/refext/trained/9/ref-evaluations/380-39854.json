@@ -1,5 +1,7 @@
 {
   "truePositives": [
+    "(1972): Mujo deluks. In: Svet, 09.06.1972.",
+    "(1977): Ustav SFRJ. In: Službeni list (19/77).",
     "(1977): Zwanglos und ganz ohne Programm. In: Mannheimer Morgen, 01.12. 1977.",
     "(1978): Ne možemo svi u kafedžije. In: Ilustrovana Politika, 22.03.1978.",
     "[Generalni konzulat Minhen] (1975): Generalni konzulat Minhen SSIP-u, 01.11.1975. DASMIP, PA, 1975, F-103, 451790.",
@@ -19,7 +21,9 @@
     "Grandits, Hannes; Brunnbauer, Ulf (2013): The Ambiguous Nation. Socialist and Post-Socialist Nation- Building in Southeastern Europe in Perspective (Introduction). In: Ulf Brunnbauer und Hannes Grandits (Hg.): The Ambiguous Nation. Case Studies from Southeastern Europe in the 20th Century. München: Oldenbourg Verlag (Südosteuropäische Arbeiten, 151), S. 9–39.",
     "Higman, Barry W. (2012): How food made history. Malden: Wiley-Blackwell.",
     "Hobsbawm, Eric (1992): The Invention of Tradition. Cambridge: Cambridge University Press.",
-    "Hobsbawm, Eric J. (1995): Age of extremes. The short twentieth century, 1914-1991. London: Michael Joseph.",
+    "Interview mit dem Besitzer des Restaurants „Split“. Berlin, 22.04.2013.",
+    "Interview mit dem Besitzer des Restaurants „Tijarica“. Split, 22.08.2013.",
+    "Interview mit dem Besitzer des Restaurants „Ziko grill“. Berlin, 29.04.2013.",
     "Ivanović, Vladimir (2012): Geburtstag pišeš normalno. Jugoslovenski gastarbajteri u Austriji i SR Nemačkoj (1965-1973). Beograd: Institut za savremenu istoriju.",
     "Karapandža, Stevo; Bogataj, Janez (Hg.) (2011): Ukusi regiona. Odabrana jela Jugoistočne Evrope i Balkana. Novi Sad: Studio Moderna.",
     "Köstlin, Konrad (1991): Heimat geht durch den Magen. Oder: Das Maultaschensyndrom – Soul food in der Moderne. In: Beiträge zur Volkskünde in Baden-Württemberg, S.147–164.",
@@ -41,12 +45,11 @@
     "Žaper, Ana (2004): Kulinarstvo – dio kulture življenja i duhovne baštine u hrvatskoj turističkoj ponudi. In: Naše more 51, S. 228–238."
   ],
   "falseNegatives": [
-    "(1972): Mujo deluks. In: Svet, 09.06.1972.",
     "(1973): Jugosloveni hrane Nemce. In: Ekspres politika, 13.05.1973.",
     "(1974): Ustav SFRJ 1974. In: Službeni list SFRJ 30 (9/74).",
-    "(1977): Ustav SFRJ. In: Službeni list (19/77).",
     "(1987): Vom Čimbur bis Gibanica. Rezepte aus Jugoslawien. Leipzig: Verlag für die Frau.",
     "[Berlin.de]: BerlinFinder. Jugoslawische Restaurants. Online verfügbar unter: http://www.berlin.de/adressen/jugoslawisches-restaurant/, letzter Zugriff am 29.06.2014.",
+    "Hobsbawm, Eric J. (1995): Age of extremes. The short twentieth century, 1914-1991. London: Michael Joseph.",
     "Interview mit dem Besitzer des Imbiss Restaurants „Balkan grill“. Berlin, 14.04.2013.",
     "Interview mit dem Besitzer des Restaurants „Adriatic“. Berlin, 30.04.2013.",
     "Interview mit dem Besitzer des Restaurants „Dalmacija Grill“, Potsdamer Straße. Berlin, 27.04.2013.",
@@ -54,21 +57,14 @@
     "Interview mit dem Besitzer des Restaurants „Emona“, Berlin, 28.04.2013.",
     "Interview mit dem Besitzer des Restaurants „Marko Schlemmerstube“. Berlin, 29.04.2013.",
     "Interview mit dem Besitzer des Restaurants „Split“ und mit dem Besitzer des Restaurants „Dalmacija“. Berlin, 22.04. und 27.04.2013.",
-    "Interview mit dem Besitzer des Restaurants „Split“. Berlin, 22.04.2013.",
-    "Interview mit dem Besitzer des Restaurants „Tijarica“. Split, 22.08.2013.",
-    "Interview mit dem Besitzer des Restaurants „Ziko grill“. Berlin, 29.04.2013.",
     "Marković, Spasenija Pata (Hg.) (1961): Jugoslovenska kuhinja – specijaliteti. Beograd: Mladost.",
     "Menu „Adriatic“ Berlin.",
     "Menu „Dalmacija grill“, Reinickendorf."
   ],
   "falsePositives": [
-    " .",
-    "5 Köstlin, Konrad (1991): Heimat geht durch den Magen. Oder: Das Maultaschensyndrom – Soul food in der Moderne. In: Beiträge zur Volkskünde in Baden-Württemberg, S.147–164.",
-    "6 Ahtakar, Salman (2007): Imagination und Identität. Psychosoziale Aspekte und kulturübergreifende Therapie. Gießen: Psychosozial-Verlag, S. 105.",
-    "7 Vgl. Köstlin (1991).",
-    "8 Möhring, Maren (2012): Fremdes Essen: Die Geschichte der ausländischen Gastronomie in der Bundesrepublik Deutschland. München: Oldenburg Verlag.",
-    "9 Dazu siehe: Barkan, Elliott Robert (Hg.) (2007): Immigration, incorporation \u0026 transnationalism. New Brunswick: Transaction Publishers; sowie: Budde, Gunilla-Friederike; Conrad, Sebastian; Janz, Oliver (Hg.) (2006): Transnationale Geschichte. Themen, Tendenzen und Theorien. Göttingen: Vandenhoeck \u0026 Ruprecht..",
+    "(1973): Jugosloveni hrane Nemce. In: Ekspres politika, 13.05.1973. (1974): Ustav SFRJ 1974. In: Službeni list SFRJ 30 (9/74).",
     "(1987): Vom Čimbur bis Gibanica. Rezepte aus Jugoslawien. Leipzig: Verlag für die Frau. [Berlin.de]: BerlinFinder. Jugoslawische Restaurants. Online verfügbar unter: http://www.berlin.de/adressen/jugoslawisches-restaurant/, letzter Zugriff am 29.06.2014.",
+    "Hobsbawm, Eric J. (1995): Age of extremes. The short twentieth century, 1914-1991. London: Michael Joseph. „Dalmacija“. Berlin, 22.04. und 27.04.2013.",
     "Marković, Spasenija Pata (Hg.) (1961): Jugoslovenska kuhinja – specijaliteti. Beograd: Mladost. Menu „Adriatic“ Berlin. Menu „Dalmacija grill“, Reinickendorf."
   ]
 }

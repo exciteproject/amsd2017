@@ -3,6 +3,7 @@
     "B-REF\tHaug, Frigga 2011: Die vier-in-einem-Perspektive als LeitfadeonlfiütriPk, in: Das Ar-",
     "I-REF\tgument 291: 241-250",
     "B-REF\tHaug, W. F. 2007: Zur Dialektik des Antikapitalismus, in: Das Argume:n1t1-32469",
+    "B-REF\tHirsch, Joachim 2011: Kapitalismus aufbrechen – aber wie, in: DanstA2r9g1u:m23e1-",
     "I-REF\t236",
     "B-REF\tHofmann, Jürgen 1996: Politisches Handeln und gesellschatluikcthure. SGtrrund-",
     "I-REF\tzüge deutscher Gesellschatsgeschichte. Münster",
@@ -16,10 +17,6 @@
     "B-REF\tRöttger, Bernd 2011: Der Schoß der alten Gesellschat. Zur Organiansattii-okapitalis-",
     "I-REF\ttischer Übergänge, in: Das Argument 291: 193-201"
   ],
-  "falseNegatives": [
-    "B-REF\tHirsch, Joachim 2011: Kapitalismus aufbrechen – aber wie, in: DanstA2r9g1u:m23e1-"
-  ],
-  "falsePositives": [
-    "I-REF\tHirsch, Joachim 2011: Kapitalismus aufbrechen – aber wie, in: DanstA2r9g1u:m23e1-"
-  ]
+  "falseNegatives": [],
+  "falsePositives": []
 }

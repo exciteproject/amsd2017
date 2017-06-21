@@ -120,5 +120,14 @@
     "I-REF\tUnternehmen und Gesellschaft, in: Birke u.a 1997, 163-188"
   ],
   "falseNegatives": [],
-  "falsePositives": []
+  "falsePositives": [
+    "I-REF\tartec), Walter Punke (KDA, Stade), Eva Senghaas-Knobloch (Universität Bremen,",
+    "I-REF\tartec), Gerhard Wegner (KDA, Hannover)",
+    "I-REF\tKai Schmudlach",
+    "I-REF\tTele-service. Abschlussbericht zum EU-Forschungsprojekt DERIVE, 50 S.",
+    "B-REF\tKhaled Abdelrahimsai-Pjau, Vahit Bilmez, Denis Böhme, Frank Euhus, Marcus",
+    "I-REF\tFährer, Torsten Fröhling, Thomas Gnewuch, Mathias Liebert, Daniel Mutis, Jörn",
+    "I-REF\tRaffel, Ersin Ürer, Oliver Weickmann",
+    "I-REF\tTheater der Maschinen: Ein studentisches Projekt, 140 S."
+  ]
 }

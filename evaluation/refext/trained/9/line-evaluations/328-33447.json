@@ -24,6 +24,11 @@
     "B-REF\tSchmidt-Lellek, C. J. (2004): Charisma, Macht und Narzissmus – Zur Diagnostik einer ambi-",
     "I-REF\tvalenten Führungseigenschaft. In: Zeitschrift Organisationsberatung, Supervision, Coa-",
     "I-REF\tching, 11, 1, S. 27-40.",
+    "B-REF\tHomepage der Berufsvereinigung der Medienpädagogische Fachkräfte (BV MPF) e.V.,",
+    "I-REF\twww.bv-mpf.de, abgerufen am 24.01.2008.",
+    "B-REF\twww.dksb-nrw.de, Stellungnahme des DKSB u. des DKSB NRW, Wuppertal/Hannover v.",
+    "I-REF\t07.10.2004",
+    "B-REF\tPositionspapier des DKSB LV NRW zu arbeitenden Kindern und Jugendlichen, Oktober 2001",
     "I-REF\tgendarbeitsschutzgesetz v. 12. April 1976); Stand: 31.10.2006.",
     "B-REF\tGesetz betreffend das Urheberrecht an Werken der bildenden Künste und der Photographie",
     "I-REF\t(KunstUrhG) v. 16. Februar 2001.",
@@ -36,12 +41,11 @@
     "I-REF\tv. 23. Juni 1998."
   ],
   "falseNegatives": [
-    "B-REF\tHomepage der Berufsvereinigung der Medienpädagogische Fachkräfte (BV MPF) e.V.,",
-    "I-REF\twww.bv-mpf.de, abgerufen am 24.01.2008.",
-    "B-REF\twww.dksb-nrw.de, Stellungnahme des DKSB u. des DKSB NRW, Wuppertal/Hannover v.",
-    "I-REF\t07.10.2004",
-    "B-REF\tPositionspapier des DKSB LV NRW zu arbeitenden Kindern und Jugendlichen, Oktober 2001",
     "B-REF\tGesetz zum Schutz der arbeitenden Jugend (Jugendarbeitsschutzgesetz – JarbSchG, Ju-"
   ],
-  "falsePositives": []
+  "falsePositives": [
+    "B-REF\tInternet",
+    "I-REF\tGesetze und Verordnungen",
+    "I-REF\tGesetz zum Schutz der arbeitenden Jugend (Jugendarbeitsschutzgesetz – JarbSchG, Ju-"
+  ]
 }

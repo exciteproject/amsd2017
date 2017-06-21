@@ -14,6 +14,7 @@
     "I-REF\tfurt/Main: Suhrkamp. (S. 20-50)",
     "B-REF\tResch, K.-L. (2009): Von Bedarfen und Bedürfnissen. In: Forschende Komplementärmedizin. Vol.",
     "I-REF\t16, No. 2, 2009. Basel (u.a.): Karger. (S. 72-74)",
+    "B-REF\tWiMi-Care: Förderung des Wissenstransfers für eine aktive Mitgestaltung des Pflegesektors durch",
     "I-REF\tMikrosystemtechnik (WiMi-Care). Website: http://www.wimi-care.de.",
     "B-REF\tWorking Brief 3: Diego Compagna / Stefan Derpmann / Kathrin Mauz / Karen Shire (2009): Förde-",
     "I-REF\trung des Wissenstransfers für eine aktive Mitgestaltung des Pflegesektors durch Mikrosystem-",
@@ -29,10 +30,6 @@
     "I-REF\ttechnik (WiMi-Care), Working Brief 15: Die Einstellung von Pflegekräften gegenüber technischen",
     "I-REF\tNeuerungen. In: http://www.wimi-care.de/outputs.html#Briefs (letzter Abruf: 02.12.2009)."
   ],
-  "falseNegatives": [
-    "B-REF\tWiMi-Care: Förderung des Wissenstransfers für eine aktive Mitgestaltung des Pflegesektors durch"
-  ],
-  "falsePositives": [
-    "I-REF\tWiMi-Care: Förderung des Wissenstransfers für eine aktive Mitgestaltung des Pflegesektors durch"
-  ]
+  "falseNegatives": [],
+  "falsePositives": []
 }

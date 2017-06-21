@@ -152,8 +152,7 @@
     "Voß, G.; Weihrich, M. (Hg) 2001: tagaus – tagein. Neue Beiträge zur Soziologie Alltäglicher Lebensführung, München",
     "Wasserman, W. 1999: Diener zweier Herren. Arbeitnehmer zwischen Arbeitgeber und Kunde, Münster",
     "Welsch, J. 2003: New Economy - Hoffnung des 21. Jahrhunderts oder Blütentraum? In: WSI Mitteilungen 6/2003",
-    "Wilke, H. 1998: Systemisches Wissensmanagement, Stuttgart",
-    "Witzel, A. 1985: Das problemzentrierte Interview. In Jüttermann, G. (Hg): Qualitative Forschung in der Psychologie. Grundfragen, Verfahrensweisen, Anwendungsfelder, Weinheim"
+    "Wilke, H. 1998: Systemisches Wissensmanagement, Stuttgart"
   ],
   "falseNegatives": [
     "BITKOM (Hg.) 2005: IT, Telekommunikation und neue Medien in Deutschland. www.bitkom.org",
@@ -170,7 +169,8 @@
     "Mückenberger, U. 1989: Der Wandel des Normalarbeitsverhältnisses unter Bedingungen einer „Krise der Normalität“. In: Gewerkschaftliche Monatshefte 4/89, S. 211 - 223",
     "Prognos AG (Hg.) 2003: Betriebswirtschaftliche Effekte familienfreundlicher Maßnahmen. Kosten-Nutzen-Analyse. Im Auftrag des Bundesministeriums für Familie, Senioren, Frauen und Jugend, Köln",
     "Schmidt, R.; Trinczek, R. 1993: Duales System: Tarifliche und betriebliche Interessenver- tretung. In: Müller-Jentsch (Hg.): Konfliktpartnerschaft. Akteure und Institutionen der in- dustriellen Beziehungen, München/Mering, S. 169 - 201",
-    "Streeck, W. 1988: Status und Vertrag als Grundkategorien einer soziologischen Theorie indus- trieller Beziehungen. WZB- Discussion papers FS I 88-3, Berlin"
+    "Streeck, W. 1988: Status und Vertrag als Grundkategorien einer soziologischen Theorie indus- trieller Beziehungen. WZB- Discussion papers FS I 88-3, Berlin",
+    "Witzel, A. 1985: Das problemzentrierte Interview. In Jüttermann, G. (Hg): Qualitative Forschung in der Psychologie. Grundfragen, Verfahrensweisen, Anwendungsfelder, Weinheim"
   ],
   "falsePositives": [
     "BITKOM (Hg.) 2005: IT, Telekommunikation und neue Medien in Deutschland. www.bitkom.org BITKOM 2006: Markt \u0026 Statistik: ITK-Kennzahlen. www.bitkom.org Blanke, T. 2003: Die Auflösung des Arbeitnehmerbegriffs. In: Kritische Justiz 1/2003 236",
@@ -183,6 +183,7 @@
     "Mückenberger, U. 1989: Der Wandel des Normalarbeitsverhältnisses unter Bedingungen einer „Krise der Normalität“. In: Gewerkschaftliche Monatshefte 4/89, S. 211 - 223 241",
     "Prognos AG (Hg.) 2003: Betriebswirtschaftliche Effekte familienfreundlicher Maßnahmen. Kosten-Nutzen-Analyse. Im Auftrag des Bundesministeriums für Familie, Senioren, Frauen und Jugend, Köln 242",
     "Schmidt, R.; Trinczek, R. 1993: Duales System: Tarifliche und betriebliche Interessenver- tretung. In: Müller-Jentsch (Hg.): Konfliktpartnerschaft. Akteure und Institutionen der in- dustriellen Beziehungen, München/Mering, S. 169 - 201 243",
-    "Streeck, W. 1988: Status und Vertrag als Grundkategorien einer soziologischen Theorie indus- trieller Beziehungen. WZB- Discussion papers FS I 88-3, Berlin 244"
+    "Streeck, W. 1988: Status und Vertrag als Grundkategorien einer soziologischen Theorie indus- trieller Beziehungen. WZB- Discussion papers FS I 88-3, Berlin 244",
+    "Witzel, A. 1985: Das problemzentrierte Interview. In Jüttermann, G. (Hg): Qualitative Forschung in der Psychologie. Grundfragen, Verfahrensweisen, Anwendungsfelder, Weinheim Zeitschriften / Journals"
   ]
 }

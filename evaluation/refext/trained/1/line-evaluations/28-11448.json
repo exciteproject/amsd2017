@@ -59,7 +59,6 @@
   ],
   "falseNegatives": [],
   "falsePositives": [
-    "B-REF\tHiermit bestelle ich folgende(s)Discussion Paper(s) z Please send me the following Discussion Paper(s)",
     "I-REF\tAutor(en) / Kurztitel z Author(s) / Title(s) in brief",
     "I-REF\tBestellnummer z Order no."
   ]

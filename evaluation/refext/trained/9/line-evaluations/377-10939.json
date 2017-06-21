@@ -116,12 +116,9 @@
     "B-REF\tGesetz über soziale Dienstleistungen (lov om social service) vom 26.08.2003."
   ],
   "falsePositives": [
-    "I-REF\t1990-2000...................................................................................................................................................................20",
-    "B-REF\tTabelle 5: Geschlechterspezifische Lohnunterschiede 1996-2002........................................................................26",
-    "I-REF\t1970-1990....................................................................................................................................................................11",
-    "B-REF\tAbbildung 2: Kompensationsniveaus von Sozialhilfeempfängern über 30 Jahre 2001.....................................18",
     "I-REF\tGesetz über aktive Sozialpolitik (lov om aktiv socialpolitik) vom 13.08.2003.",
     "I-REF\tGesetz über soziale Dienstleistungen (lov om social service) vom 26.08.2003.",
-    "I-REF\t31"
+    "I-REF\t31",
+    "I-REF\t32"
   ]
 }

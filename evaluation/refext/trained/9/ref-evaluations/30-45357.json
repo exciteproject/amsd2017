@@ -67,8 +67,9 @@
     "Smith, K. (2005). Measuring Innovation. In J. Fagerberg, D. C. Mowery \u0026 R. R. Nelson (Hrsg.), The Oxford Handbook of Innovation. (S. 148-177). Oxford: Oxford University Press.",
     "Stock, J. (2015). Alltagsmobilität und die Ideologisierung des Klimawandels. In C. Besio \u0026 G. Ro- mano (Hrsg.), Zum gesellschaftlichen Umgang mit dem Klimawandel. Kooperatione und Kolli- sionen (im Erscheinen). Berlin: Nomos.",
     "Stubbe, J. (2015). Comparative heuristics from an STS perspective: inquiring „novelty“ in material practice. Historical Social Research, 40(3), 109–129.",
-    "von Hippel, E. (1988). The Sources of Innovation. Oxford: Oxford University Press.",
-    "von Hippel, E. (2005). Democratizing Innovation. Cambridge: The MIT Press."
+    "von Schomberg, R. (2012). Prospects for technology assessment in a framework of responsible re- search and innovation. In M. Dusseldorp \u0026 R. Beecroft (Hrsg.), Technikfolgen abschätzen leh- ren (S. 39–61). Wiesbaden: VS Verlag für Sozialwissenschaften.",
+    "Voss, J.-P. (in diesem Band). Governance-Innovationen. Epistemische und politische Reflexivitäten in der Herstellung von „Bürgerpanelen“ als neue Form von Demokratie.",
+    "Wittgenstein, L. (1984). Wittgenstein. Tractatus logico-philosophicus. Tagebücher 1914-1916. Philo- sophische Untersuchungen. Frankfurt a.M.: Suhrkamp."
   ],
   "falseNegatives": [
     "Hutter, M. (1989). Die Produktion von Recht: eine selbstreferentielle Theorie der Wirtschaft, ange- wandt auf den Fall des Arzneimittelpatentrechts. Tübingen: Mohr Siebeck.",
@@ -78,16 +79,17 @@
     "Reckwitz, A. (in diesem Band). Das Kreativitätsdispositiv und die sozialen Regime des Neuen.",
     "Schimank, U., \u0026 Volkmann, U. (2008). Ökonomisierung der Gesellschaft. In A. Maurer (Hrsg.), Hand- buch der Wirtschaftssoziologie (S. 382–393). Wiesbaden: VS Verlag für Sozialwissenschaften.",
     "Schubert, C. (in diesem Band). Soziale Innovationen. Modus und Medium sozialen Wandels.",
-    "von Schomberg, R. (2012). Prospects for technology assessment in a framework of responsible re- search and innovation. In M. Dusseldorp \u0026 R. Beecroft (Hrsg.), Technikfolgen abschätzen leh- ren (S. 39–61). Wiesbaden: VS Verlag für Sozialwissenschaften.",
-    "Voss, J.-P. (in diesem Band). Governance-Innovationen. Epistemische und politische Reflexivitäten in der Herstellung von „Bürgerpanelen“ als neue Form von Demokratie.",
+    "von Hippel, E. (1988). The Sources of Innovation. Oxford: Oxford University Press.",
+    "von Hippel, E. (2005). Democratizing Innovation. Cambridge: The MIT Press.",
     "Wentland, A. (2014). The electric future re-imagined? Reshaping cars, infrastructures, and society through the electrification of transportation. Vortrag gehalten auf der Science Shaping the World of Tomorrow: Scientific Imagination and Development of Society, Antwerpen, NL.",
-    "Windeler, A. (in diesem Band). Reflexive Innovation. Zur Innovation in der radikalisierten Moderne.",
-    "Wittgenstein, L. (1984). Wittgenstein. Tractatus logico-philosophicus. Tagebücher 1914-1916. Philo- sophische Untersuchungen. Frankfurt a.M.: Suhrkamp."
+    "Windeler, A. (in diesem Band). Reflexive Innovation. Zur Innovation in der radikalisierten Moderne."
   ],
   "falsePositives": [
     "Hutter, M. (1989). Die Produktion von Recht: eine selbstreferentielle Theorie der Wirtschaft, ange- wandt auf den Fall des Arzneimittelpatentrechts. Tübingen: Mohr Siebeck. Hutter, M. (in diesem Band). Zur Rolle des Neuen in der Erlebnisgesellschaft und ihrer Wirtschaft.",
     "Mohr, H. (2013, November 29). »Stadt selbst machen« zwischen individueller Aneignung und politi- scher Verpflichtung. Zur zentralen Kontroverse des Symposiums MYCITY der Urbanen Künste Ruhr. Verfügbar unter: http://commonthejournal.com/journal/kunst-zum-leben-",
     "Reckwitz, A. (2012). Die Erfindung der Kreativität: Zum Prozess gesellschaftlicher Ästhetisierung.",
-    "Schimank, U., \u0026 Volkmann, U. (2008). Ökonomisierung der Gesellschaft. In A. Maurer (Hrsg.), Hand- buch der Wirtschaftssoziologie (S. 382–393). Wiesbaden: VS Verlag für Sozialwissenschaften. Schubert, C. (in diesem Band). Soziale Innovationen. Modus und Medium sozialen Wandels."
+    "Schimank, U., \u0026 Volkmann, U. (2008). Ökonomisierung der Gesellschaft. In A. Maurer (Hrsg.), Hand- buch der Wirtschaftssoziologie (S. 382–393). Wiesbaden: VS Verlag für Sozialwissenschaften. Schubert, C. (in diesem Band). Soziale Innovationen. Modus und Medium sozialen Wandels.",
+    "von Hippel, E. (1988). The Sources of Innovation. Oxford: Oxford University Press. von Hippel, E. (2005). Democratizing Innovation. Cambridge: The MIT Press.",
+    "Wentland, A. (2014). The electric future re-imagined? Reshaping cars, infrastructures, and society through the electrification of transportation. Vortrag gehalten auf der Science Shaping the World of Tomorrow: Scientific Imagination and Development of Society, Antwerpen, NL. Windeler, A. (in diesem Band). Reflexive Innovation. Zur Innovation in der radikalisierten Moderne."
   ]
 }

@@ -7,7 +7,6 @@
     "Braun, Frederike \u0026 Ursual Pasero (Hrsg.): Kommunikation von Geschlecht, Pfaffenweiler 1997.",
     "Brown, Penelope \u0026 Levinson, Stephen: Politeness, Cambridge 1987.",
     "Cockburn, Cynthia: Die Herrschaftsmaschine. Geschlechterverhältnisse und techniches Know-how, Berlin 1988.",
-    "Ders.: Principles of critical discourse anaylsis. Discourse and Society 4/2, 1993, S.249-285.",
     "Ders.: Ideology: a multidisciplinary approach, London 1998.",
     "Erb, Ulrike: Frauenperspektiven auf die Informatik. Informatikerinnen im Spannungsfeld zwischen Distanz und Nähe zur Technik, Münster 1996.",
     "Fairclough, Norman: Discourse and social change, Cambridge 1992.",
@@ -18,7 +17,6 @@
     "Dies.: Challenging the unspoken: exploiting the ideology in and of political interviews. In Verschueren, Jeff. ed. Language and ideology: selected papers from the the 6th international pragmatics conference. Vol. 1. International Pragamtics Association: Antwerp 1999",
     "Flader, Dieter (Hrsg.): Verbale Interaktion: Studien zur Empirie und Methodologie der Pragmatik, Stuttgart 1991.",
     "Fox Keller, Evelyn: Liebe, Macht und Erkenntnis. Männliche oder weibliche Wissenschaft?, München 1986.",
-    "Fraser, Bruce: Perspectives on politeness, in: JoP 14, 1990, S. 219-236.",
     "Garfinkel, Harold: Studies in ethnomethodology, Cambridge 1994.",
     "Givon, Talmy: English Grammar: a function-based introduction, Amsterdam 1993.",
     "Glöckner-Rist, Angelika/Mischau, Anina: Die Wahrnehmung und Akzeptanz von Frauenuniversitäten und Frauenstudiengängen, Düsseldorf 1999, im Druck.",
@@ -77,10 +75,12 @@
   "falseNegatives": [
     "Dijk, Teun van: Studies in the pragmatics of discourse, The Hague 1981",
     "Ders. (ed.): Handbook of discourse analysis. 4 Vol., London 1985.",
-    "Franck, Dorothea: Grammatik und Konversation, Königstein 1980."
+    "Ders.: Principles of critical discourse anaylsis. Discourse and Society 4/2, 1993, S.249-285.",
+    "Franck, Dorothea: Grammatik und Konversation, Königstein 1980.",
+    "Fraser, Bruce: Perspectives on politeness, in: JoP 14, 1990, S. 219-236."
   ],
   "falsePositives": [
-    "Dijk, Teun van: Studies in the pragmatics of discourse, The Hague 1981 Ders. (ed.): Handbook of discourse analysis. 4 Vol., London 1985.",
-    "Franck, Dorothea: Grammatik und Konversation, Königstein 1980. 20"
+    "Dijk, Teun van: Studies in the pragmatics of discourse, The Hague 1981 Ders. (ed.): Handbook of discourse analysis. 4 Vol., London 1985. Ders.: Principles of critical discourse anaylsis. Discourse and Society 4/2, 1993, S.249-285.",
+    "Franck, Dorothea: Grammatik und Konversation, Königstein 1980. 20 Fraser, Bruce: Perspectives on politeness, in: JoP 14, 1990, S. 219-236."
   ]
 }

@@ -1,9 +1,10 @@
 {
-  "truePositives": [],
+  "truePositives": [
+    "B-REF\tBenad, Matthias/Schmuhl, Hans-Walter/Stockhecke, Kerstin (Hg.): Endstation Freistatt."
+  ],
   "falseNegatives": [
     "B-REF\tAnhorn, Roland: Sozialstruktur und Disziplinarindividuum. Zu Johann Hinrich Wicherns",
     "I-REF\tFürsorge- und Erziehungskonzeption des Rauhen Hauses. Engelsbach, 1992",
-    "B-REF\tBenad, Matthias/Schmuhl, Hans-Walter/Stockhecke, Kerstin (Hg.): Endstation Freistatt.",
     "I-REF\tFürsorgeerziehung in den v. Bodelschwinghschen Anstalten Bethel bis in die 1970er Jahre.",
     "I-REF\tBielfeld, 2009",
     "B-REF\tBerger, Peter L. / Luckmann, Thomas: Die gesellschaftliche Konstruktion der Wirklichkeit.",

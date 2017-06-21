@@ -35,6 +35,7 @@
     "B-REF\tLövinson, Martin: Ohne Titel, New York Leo Baeck Institute (NYLBI) Memoir Collection, 63-",
     "I-REF\t64.",
     "B-REF\tMiron, Guy 2004: German Jews in Israel: Memories and Past Images (Hebräisch), Jerusalem",
+    "B-REF\tRömer, Nils 2002: The Historicizing of Judaism in 19th-Century Germany: Scholars, Disci-",
     "I-REF\tpline and Popular Historical Culture (Columbia University, Ms)",
     "B-REF\tRömer, Nils 2005: Jewish Scholarship and Culture in Nineteenth-Century Germany. Between",
     "I-REF\tHistory and Faith,, Madison/Wisconsin",
@@ -67,10 +68,6 @@
     "I-REF\tdächtnis zur Individualisierung der Erinnerung (\u003dStudien zur Geschichte des Alltags,",
     "I-REF\tBd. 18), Stuttgart, 9-23."
   ],
-  "falseNegatives": [
-    "B-REF\tRömer, Nils 2002: The Historicizing of Judaism in 19th-Century Germany: Scholars, Disci-"
-  ],
-  "falsePositives": [
-    "I-REF\tRömer, Nils 2002: The Historicizing of Judaism in 19th-Century Germany: Scholars, Disci-"
-  ]
+  "falseNegatives": [],
+  "falsePositives": []
 }

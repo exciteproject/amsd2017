@@ -93,6 +93,7 @@
     "I-REF\tIn: Raumforschung und Raumordnung (5), 415-428.",
     "B-REF\tHochegger, K. (1999): Naturnahe Kulturlandschaften – Ein Erster Blick. In: Hochegger, K.; Holzner, W.",
     "I-REF\t(Hrsg.): Kulturlandschaft – Natur in Menschenhand. Naturnahe Kulturlandschaften: Bedeutung,",
+    "I-REF\tJugend und Familie 11. Graz, 15-29.",
     "B-REF\tHöfer, W. (2004): Landschaft in Bewegung – Die Konfusion mit der Konversion In: Stadt + Grün (3), 28-33.",
     "I-REF\tIn: Raumforschung und Raumordnung (3), 239-249.",
     "B-REF\tHolzner, W. (1999): Die Landschaft als dynamisches Netzwerk. Zum naturnahen Umgang mit Kultur-",
@@ -234,7 +235,6 @@
   ],
   "falseNegatives": [
     "I-REF\tSchutz und Erhaltung bedrohter Lebensräume. \u003d Grüne Reihe des Bundesministeriums für Umwelt,",
-    "I-REF\tJugend und Familie 11. Graz, 15-29.",
     "B-REF\tHokema, D. (2009): Die Landschaft der Regionalentwicklung: Wie flexibel ist der Landschaftsbegriff."
   ],
   "falsePositives": [

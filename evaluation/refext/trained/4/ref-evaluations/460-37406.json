@@ -12,7 +12,6 @@
     "Forsyth, D. R. (1992). Judging the morality of business practices: The influence of personal moral philosophies. Journal of Business Ethics, 11, 461-470.",
     "Forsyth, D. R. \u0026 Nye, J. L. (1990). Personal moral philosophies and moral choice. Journal of Research in Personality, 24, 398-414.",
     "Forsyth, D. R. \u0026 Pope, W. R. (1984). Ethical ideology and judgments of social psychological research: A multidimensional analysis. Journal of Personality and Social Psychology, 46, 1365-1375.",
-    "Frankfurter Allgemeine Zeitung (2004a, 05. April). Kommentar. Die Konsequenz, S. 11.",
     "Frankfurter Allgemeine Zeitung (2004b, 14. September). Ethikrat für Moratorium therapeutischen Klonens, S. 1.",
     "Franz, T. M. \u0026 Larson, J. R. Jr. (2002). The impact of experts on information sharing during group discussions. Small Group Research, 33 (4), 383-411.",
     "Frey, D. \u0026 Schulz-Hardt, S. (2001). Confirmation bias in group information seeking and its implications for decision making in administration, business and politics. In F. Butera \u0026 G. Mugny (Eds.), Social influence in social reality: Promoting individiual and social change (pp. 53-73). Ashland, OH: Hogrefe \u0026 Huber.",
@@ -66,14 +65,10 @@
     "Woodland, D. J. A. (1968). Role; social role; role-taking; role conflict. In D. Mitchell (Ed.), A dictionary of sociology (pp. 148-152). London: Routledge \u0026 Kegan Paul."
   ],
   "falseNegatives": [
-    "1000-Fragen-Projekt (n.d.). http://1000fragen.de Seite eingesehen am 18.06.2004."
+    "1000-Fragen-Projekt (n.d.). http://1000fragen.de Seite eingesehen am 18.06.2004.",
+    "Frankfurter Allgemeine Zeitung (2004a, 05. April). Kommentar. Die Konsequenz, S. 11."
   ],
   "falsePositives": [
-    "H1: Die vier ethischen Grundpositionen lassen sich bei der Rechtfertigung einer Entscheidung über ethische Probleme in der Medizin und Wirtschaft wieder finden.",
-    "H2: Zwischen Medizin und Wirtschaft gibt es Unterschiede bei den Rechtfertigungen (Wichtigkeitseinschätzung der ethischen Grundpositionen - Mittelwerte).",
-    "H3: Innerhalb des Kontextes, in denen gerechtfertigt wurde, gibt es einen Zusammenhang zwischen Entscheidung, Rechtfertigung und Rolle (Streuung der individuellen Wichtigkeitseinschätzungen und multiple Korrelation bei der Vorhersage der Entscheidungen – Varianzen und Kovarianzen).",
-    "H4: Innerhalb der Rollen gibt es einen Zusammenhang zwischen Entscheidung und Rechtfertigung (Varianzen und Kovarianzen innerhalb der Rollen bei der Vorhersage der Entscheidung).",
-    "H5: Die Häufigkeitsverteilung der getroffenen Entscheidung ist in den Bereichen Medizin und Wirtschaft abhängig von der Rolle.",
     "Witte, E.H.: The extended group situation theory (EGST), social decision schemes, models of the structure of communication in small groups, and specific effects of minority influences and selfcategorization: An integration.",
     "Witte, E.H. \u0026 Scherm, M.: Technikfolgenabschätzung und Gentechnologie – Die exemplarische Prüfung eines Experten-berichts auf psychologische Konsistenz und Nachvollziehbarkeit.",
     "Witte, E.H.: Dynamic models of social influence in small group research.",
@@ -126,6 +121,7 @@
     "Witte, Erich H. \u0026 Janetzki, Evelyn: Fragebogenentwicklung zur Lebensgestaltung.",
     "Witte, Erich H. \u0026 Engelhardt, Gabriele: Towards a theoretically based Group Facilitation Technique for Project Teams",
     "Scheffer, Julia \u0026 Witte, Erich H.: Der Einfluss von makrosozialer wirtschaftlicher Bedrohung auf die Leistungsfähigkeit.",
-    "Witte, Erich H. \u0026 Wolfram, Maren: Erwartungen und Vorstellungen über die Vorlesung Psychologie."
+    "Witte, Erich H. \u0026 Wolfram, Maren: Erwartungen und Vorstellungen über die Vorlesung Psychologie.",
+    "Die Hamburger Forschungsberichte werden herausgegeben von Prof. Dr. Erich H. Witte"
   ]
 }

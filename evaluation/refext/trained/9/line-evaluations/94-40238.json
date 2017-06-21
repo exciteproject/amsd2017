@@ -66,6 +66,7 @@
     "I-REF\tan-Betongold-haelt-an/100032078.html, zuletzt zugegrifen am 06.05.2011)",
     "B-REF\tSmith, Neil 1979: Toward a heory of Gentriication: A Back to the City Movement by",
     "I-REF\tCapital, not by People. In: Journal of American PlannincgiAatssioon 45(4), 538-548",
+    "B-REF\t– 2002: New globalism, new urbanism: gentriication as global urban yst.Irnat:Aegn-",
     "I-REF\ttipode 34, 427-50",
     "B-REF\t– 2007: Die Produktion des Raumes. In: Belina, Bernd; Michel, Boris.)(:HRrasugm-",
     "I-REF\tproduktionen. Münster: Verlag Westfälisches Dampfboot,96814-7]6 [1",
@@ -76,11 +77,9 @@
   "falseNegatives": [
     "B-REF\t– 2009: Kosten der Unterkunt und die Wohnungsmärkte. In: Fhorsucngen, Het 142,",
     "I-REF\tinvestoren: Retter oder Raubritter? Neue Herausforderungen durch die internati-o",
-    "I-REF\tnalen Kapitalmärkte. Hambgurg: VSA, 10-50",
-    "B-REF\t– 2002: New globalism, new urbanism: gentriication as global urban yst.Irnat:Aegn-"
+    "I-REF\tnalen Kapitalmärkte. Hambgurg: VSA, 10-50"
   ],
   "falsePositives": [
-    "I-REF\t– 2009: Kosten der Unterkunt und die Wohnungsmärkte. In: Fhorsucngen, Het 142,",
-    "I-REF\t– 2002: New globalism, new urbanism: gentriication as global urban yst.Irnat:Aegn-"
+    "I-REF\t– 2009: Kosten der Unterkunt und die Wohnungsmärkte. In: Fhorsucngen, Het 142,"
   ]
 }

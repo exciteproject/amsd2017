@@ -28,7 +28,6 @@
     "I-REF\tpaper vs. computer-assisted self interview for school alcohol, tobacco, and other drug",
     "I-REF\tsurveys. Evaluation and Program Planning 23: 149-155.",
     "B-REF\tHeitmeyer, W./Collmann, B./Conrads, J./Matuschek, I./Kraul, D./Kühnel, W./Möller,",
-    "I-REF\tR./Ulbrich-Hermann, M., 1996: Gewalt: Schattenseiten der Individualisierung bei Ju-",
     "I-REF\tgendlichen aus unterschiedlichen Milieus. Weinheim/München: Juventa.",
     "B-REF\tHindelang, M./Hirschi, T./Weis, J., 1981: Measuring Delinquency. Beverly Hills: Sage.",
     "B-REF\tHirschi, T., 1969: Causes of Delinquency. Berkeley: University of California Press.",
@@ -98,11 +97,12 @@
     "I-REF\tJugendgeneration des neuen Jahrhunderts. Ein Selbstbild. Opladen: Lese + Budrich."
   ],
   "falseNegatives": [
-    "I-REF\tRossi, P. H./Wright, J. D./Anderson, A. B., Handbook of Survey Research. New York:"
+    "I-REF\tRossi, P. H./Wright, J. D./Anderson, A. B., Handbook of Survey Research. New York:",
+    "I-REF\tR./Ulbrich-Hermann, M., 1996: Gewalt: Schattenseiten der Individualisierung bei Ju-"
   ],
   "falsePositives": [
-    "I-REF\tOberwittler/Naplava: Auswirkungen des Erhebungsverfahrens bei Jugendbefragungen...",
     "B-REF\tRossi, P. H./Wright, J. D./Anderson, A. B., Handbook of Survey Research. New York:",
+    "B-REF\tR./Ulbrich-Hermann, M., 1996: Gewalt: Schattenseiten der Individualisierung bei Ju-",
     "I-REF\tOberwittler/Naplava: Auswirkungen des Erhebungsverfahrens bei Jugendbefragungen...",
     "I-REF\tOberwittler/Naplava: Auswirkungen des Erhebungsverfahrens bei Jugendbefragungen..."
   ]

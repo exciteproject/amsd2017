@@ -120,5 +120,7 @@
   "falseNegatives": [
     "I-REF\tBoulder: Westview Press."
   ],
-  "falsePositives": []
+  "falsePositives": [
+    "B-REF\tEmpfohlene Zitierung: Sell, S., \u0026 Berghofer, S. (2015). Netzwerte: Emergente"
+  ]
 }

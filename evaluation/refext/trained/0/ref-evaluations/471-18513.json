@@ -30,5 +30,7 @@
     "Dudenredaktion (Hrsg.) (2001), Herkunftswörterbuch – Etymologie der deutschen Sprache, Mannheim.",
     "Eisenstadt, Samuel N. (1998), Die Antinomien der Moderne, Frankfurt a.M."
   ],
-  "falsePositives": []
+  "falsePositives": [
+    "Dudenredaktion (Hrsg.) (2001), Herkunftswörterbuch – Etymologie der deutschen Sprache, Mannheim. Eisenstadt, Samuel N. (1998), Die Antinomien der Moderne, Frankfurt a.M."
+  ]
 }

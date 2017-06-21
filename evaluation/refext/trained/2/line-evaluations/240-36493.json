@@ -7,6 +7,7 @@
     "I-REF\tIdentity: A Critical Appraisal, in:",
     "I-REF\tInternational Politics, 38 (Juni 2001) 2,",
     "I-REF\tS. 229251",
+    "B-REF\tMartin Marcussen/Thomas Risse/Daniela",
     "I-REF\tEngelmann-Martin/Hans Joachim",
     "I-REF\tKnopf/Klaus Roscher, »Constructing",
     "I-REF\tEurope? The Evolution of French British",
@@ -20,10 +21,6 @@
     "I-REF\tNice?, in: Politique Etrangère, 66 (2001) 2,",
     "I-REF\tS. 289299"
   ],
-  "falseNegatives": [
-    "B-REF\tMartin Marcussen/Thomas Risse/Daniela"
-  ],
-  "falsePositives": [
-    "I-REF\tMartin Marcussen/Thomas Risse/Daniela"
-  ]
+  "falseNegatives": [],
+  "falsePositives": []
 }

@@ -77,7 +77,6 @@
     "I-REF\t28.9.2000.",
     "B-REF\tSeifert, Franz (2003). Demokratietheoretische Überle-",
     "I-REF\tgungen zum österreichischen Gentechnik-Konflikt,",
-    "I-REF\tin: SWS-Rundschau, 43(1), 106–128.",
     "B-REF\tTaupitz, Jochen (2003). Rechtliche Regelung der",
     "I-REF\tEmbryonenforschung im internationalen Vergleich,",
     "I-REF\tBerlin.",
@@ -91,8 +90,24 @@
     "I-REF\tGrabner/Sigrid Lehner (1998). Austria, in: John",
     "I-REF\tDurant/Martin W. Bauer/George Gaskell (Hg.):",
     "I-REF\tBiotechnology in the Public Sphere. A European",
-    "I-REF\tSourcebook, London, 15–28."
+    "I-REF\tSourcebook, London, 15–28.",
+    "I-REF\tin: SWS-Rundschau, 43(1), 106–128."
   ],
   "falseNegatives": [],
-  "falsePositives": []
+  "falsePositives": [
+    "I-REF\tin: SWS-Rundschau, 43(1), 106–128.",
+    "B-REF\tAUTORIN",
+    "I-REF\tPetra Grabner, geb. 1968, Assistentin am Institut für",
+    "I-REF\tPolitikwissenschaft der Universität Salzburg.",
+    "I-REF\tForschungsschwerpunkte: Biotechnologiepolitik, Po-",
+    "I-REF\tlitik der EU, Europäisierungsprozesse.",
+    "B-REF\tNeuere Publikationen: Grabner, Petra et al. (2001).",
+    "B-REF\tBiopolitical diversity: the challenge of multilevel policy-",
+    "I-REF\tmaking, in: George Gaskell/Martin W. Bauer (Hg.):",
+    "I-REF\tBiotechnology 1996–2000. The Years of Controversy,",
+    "I-REF\tLondon, 15–34; Grabner, Petra/Nicole Kronberger",
+    "B-REF\t(2003): „… aber ich sage: ,das was ich esse, das bin",
+    "I-REF\tich‘, nicht?” – Widerstand gegen gentechnisch verän-",
+    "I-REF\tderte Nahrungsmittel im Kontext von Identitätsfragen“,"
+  ]
 }

@@ -14,6 +14,7 @@
     "Lang-Hümer, A. (2005): Säuglingspflege, -ernährung und -ausstattung. In: Das Online-Familienhandbuch. URL: http://www.familienhandbuch.de/cmain/f_Aktuelles/a_ Gesundheit/s_898.html [27.10.09]",
     "Lönneker, J. (2009): Befragung zum Ernährungs- und Bewegungsverhalten in jungen Familien: Ausgewählte Ergebnisse. Beitrag zum Expertenforum der Plattform Ernährung und Bewegung e.V. in Osnabrück. URL: http://www.ernaehrung-und-bewegung.de/fileadmin/media/Junge_Eltern/Junge_Eltern_rheingold_MV.pdf [13.01.11]",
     "Lösel, F. (2006): Bestandsaufnahme und Evaluation von Angeboten im Elternbildungsbereich. URL: http://www.bmfsfj.de/doku/elternbildungsbereich/ [13.01.11]",
+    "Masters, E. L. (1957): Parenthood as a crisis. In: Marriage and Family Living, 19, S. 352-355.",
     "Mühling, T./Smolka, A. (2007): Wie informieren sich bayerische Eltern über erziehungs- und familienbezo- gene Themen? Ergebnisse der ifb-Elternbefragung zur Familienbildung 2006, Bamberg: ifb-Materialien 5/2007.",
     "Neuscheler, V. (1991): Beruf und Berufsorganisation der Hebamme. Professionalisierung oder Deprofessio- nalisierung eines Gesundheitsberufs? Konstanz: Hartung-Gorre Verlag.",
     "Pädagogischer Fachbeirat des BDH [Bundes Deutscher Hebammen] (2005): Kompetenzprofildefinition. URL: http://www.hebammenverband.de/index.php?id\u003d859 [30.03.11]",
@@ -30,28 +31,14 @@
   ],
   "falseNegatives": [
     "JMK [Jugendministerkonferenz] (2003): Stellenwert der Eltern- und Familienbildung. Stärkung der Erziehungskompetenz der Eltern. Beschluss. URL: http://www.familienbildung.de/download/pdf/Jugendministerkonferenz%202003.pdf [13.01.10]",
-    "Masters, E. L. (1957): Parenthood as a crisis. In: Marriage and Family Living, 19, S. 352-355.",
     "Meysen, T./Schönecker, L. (2009): Kooperation für einen guten Start ins Kinderleben – der rechtliche Rahmen. In: Meysen, T.; Schönecker, L./Kindler, H. (Hrsg.): Frühe Hilfen im Kinderschutz. Rechtliche Rahmenbedin- gungen und Risikodiagnostik in der Kooperation von Gesundheits- und Jugendhilfe. Weinheim und Mün- chen: Juventa, S. 25-169.",
     "Zierau, J./Gonzales-Campanini, I.-M. (2005): Modellprojekt Aufsuchende Familienhilfe für junge Mütter – Netzwerk Familienhebammen. Ergebnisse der Evaluation. Hannover: Institut für Entwicklungsplanung und Strukturforschung GmbH an der Universität Hannover. Bericht 104.05. URL: http://www.ies.uni-hannover.de/fileadmin/download/NEFA_Bericht_01.pdf [03.03.11]"
   ],
   "falsePositives": [
-    "II: Neue Rollen für Väter und Mütter",
-    "III: Grundlagen der Kommunikation",
-    "IV: Veränderungen in der Sexualität",
-    "V: Gesprächsführung mit Paaren",
-    "VI: Zeit, Geld, soziale Netze (Ressourcen)",
-    "VII: Vernetzung, Prävention, Hilfen VIII:Umsetzung in die Praxis Sofern gewünscht: IX: Frühkindliche Bindung X: Praxisberatung Kommunikation Block 1 Block 2 Block 3 Block 4 I: Frühe Eltern- und Familienbildung",
-    "II: Neue Rollen für Väter und Mütter",
-    "III: Grundlagen der Kommunikation",
-    "IV: Veränderungen in der Sexualität",
-    "V: Gesprächsführung mit Paaren",
-    "VI: Zeit, Geld, soziale Netze (Ressourcen)",
-    "IX: Frühkindliche Bindung X: Praxisberatung Kommunikation",
-    "VII: Vernetzung, Prävention, Hilfen",
     "JMK [Jugendministerkonferenz] (2003): Stellenwert der Eltern- und Familienbildung. Stärkung der Erziehungskompetenz der Eltern. Beschluss.",
     "URL: http://www.familienbildung.de/download/pdf/Jugendministerkonferenz%202003.pdf [13.01.10]",
-    "Masters, E. L. (1957): Parenthood as a crisis. In: Marriage and Family Living, 19, S. 352-355. Meysen, T./Schönecker, L. (2009): Kooperation für einen guten Start ins Kinderleben – der rechtliche Rahmen.",
+    "Meysen, T./Schönecker, L. (2009): Kooperation für einen guten Start ins Kinderleben – der rechtliche Rahmen.",
     "In: Meysen, T.; Schönecker, L./Kindler, H. (Hrsg.): Frühe Hilfen im Kinderschutz. Rechtliche Rahmenbedin- gungen und Risikodiagnostik in der Kooperation von Gesundheits- und Jugendhilfe. Weinheim und Mün- chen: Juventa, S. 25-169.",
-    "Zierau, J./Gonzales-Campanini, I.-M. (2005): Modellprojekt Aufsuchende Familienhilfe für junge Mütter – Netzwerk Familienhebammen. Ergebnisse der Evaluation. Hannover: Institut für Entwicklungsplanung und Strukturforschung GmbH an der Universität Hannover. Bericht 104.05."
+    "Zierau, J./Gonzales-Campanini, I.-M. (2005): Modellprojekt Aufsuchende Familienhilfe für junge Mütter – Netzwerk Familienhebammen. Ergebnisse der Evaluation. Hannover: Institut für Entwicklungsplanung und Strukturforschung GmbH an der Universität Hannover. Bericht 104.05. Modul II: Rollen Modul III: Kommunikation Modul IV: Sexualität Modul V: Paarkommunikation Modul VI: Ressourcen Modul VII: Vernetzung, Hilfen Modul VIII: Umsetzung Praxis Integriertes Modul IX: Bindung"
   ]
 }

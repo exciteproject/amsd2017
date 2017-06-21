@@ -78,5 +78,9 @@
     "B-REF\tWegener, B. (1991). Job mobility and social ties. American Sociological Review, 56 No. 1, pp. 59-71."
   ],
   "falseNegatives": [],
-  "falsePositives": []
+  "falsePositives": [
+    "I-REF\tZeitschrift für Familienforschung, 21. Jahrg., Heft 3/2009, S. 310-335",
+    "I-REF\tEingereicht am/Submitted on: 17.11.2008",
+    "I-REF\tAngenommen am/Accepted on: 09.08.2009"
+  ]
 }

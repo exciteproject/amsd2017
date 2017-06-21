@@ -81,6 +81,9 @@
     "I-REF\tBerlin, 479501.",
     "B-REF\tEichener, Volker/Helmut Voelzkow (1995). Die",
     "I-REF\tentwicklungsbegleitende Normung als Schnittstel-",
+    "I-REF\tRenate Martinsen/Georg Simonis (Hg.): Para-",
+    "I-REF\tdigmenwechsel in der Technologiepolitik?, Opladen,",
+    "I-REF\t253280.",
     "B-REF\tErickson, John S. (2003). Fair use, DRM, and trusted",
     "I-REF\tcomputing, in: Communications of the ACM. Spe-",
     "I-REF\tcial Issue: Digital rights management and fair use",
@@ -304,12 +307,17 @@
   "falseNegatives": [
     "I-REF\tle zwischen Forschung und Entwicklung, Technik-",
     "I-REF\tfolgenabschätzung und technischer Regulierung, in:",
-    "I-REF\tRenate Martinsen/Georg Simonis (Hg.): Para-",
-    "I-REF\tdigmenwechsel in der Technologiepolitik?, Opladen,",
-    "I-REF\t253280.",
     "I-REF\tPrivacy Conference 2002, San Francisco, eigene"
   ],
   "falsePositives": [
+    "B-REF\tAusführlicher bei Becker et al. 2003. Eine umfas-",
+    "I-REF\tsende Darstellung folgt in Günnewig 2004, 211ff.",
+    "B-REF\tVgl. auch Burk/Cohen 2001; Mulligan/Burstein",
+    "I-REF\t2002; Cohen 2003; Erickson 2003; Fox/LaMacchia",
+    "I-REF\t2003.",
+    "B-REF\tVgl. auch Reidenberg 1998, 589f.",
+    "I-REF\tVgl. auch Bechtold 2001; Felten 2003, 58.",
+    "B-REF\tLITERATUR",
     "B-REF\tPrivacy Conference 2002, San Francisco, eigene"
   ]
 }

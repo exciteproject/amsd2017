@@ -127,5 +127,8 @@
     "I-REF\tbauten. In: Der Landkreis, Heft 8-9, S.",
     "I-REF\t329-331."
   ],
-  "falsePositives": []
+  "falsePositives": [
+    "B-REF\tKERSTIN MANZ, M.A.,",
+    "I-REF\tInstitut für Länderkunde,"
+  ]
 }

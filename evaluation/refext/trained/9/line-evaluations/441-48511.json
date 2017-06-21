@@ -56,5 +56,10 @@
     "I-REF\tschaftspartner. Ljubljana."
   ],
   "falseNegatives": [],
-  "falsePositives": []
+  "falsePositives": [
+    "B-REF\tAutor:",
+    "I-REF\tDr. EVELIN MÜLLER,",
+    "I-REF\tInstitut für Länderkunde,",
+    "I-REF\tBereich Regionale Geographie Europas,"
+  ]
 }

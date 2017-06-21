@@ -161,7 +161,16 @@
     "B-REF\tStubbe, J. (2015). Comparative heuristics from an STS perspective: inquiring „novelty“ in material",
     "I-REF\tpractice. Historical Social Research, 40(3), 109–129.",
     "B-REF\tvon Hippel, E. (1988). The Sources of Innovation. Oxford: Oxford University Press.",
-    "B-REF\tvon Hippel, E. (2005). Democratizing Innovation. Cambridge: The MIT Press."
+    "B-REF\tvon Schomberg, R. (2012). Prospects for technology assessment in a framework of responsible re-",
+    "I-REF\tsearch and innovation. In M. Dusseldorp \u0026 R. Beecroft (Hrsg.), Technikfolgen abschätzen leh-",
+    "I-REF\tren (S. 39–61). Wiesbaden: VS Verlag für Sozialwissenschaften.",
+    "B-REF\tVoss, J.-P. (in diesem Band). Governance-Innovationen. Epistemische und politische Reflexivitäten in",
+    "I-REF\tder Herstellung von „Bürgerpanelen“ als neue Form von Demokratie.",
+    "B-REF\tWentland, A. (2014). The electric future re-imagined? Reshaping cars, infrastructures, and society",
+    "I-REF\tthrough the electrification of transportation. Vortrag gehalten auf der Science Shaping the",
+    "I-REF\tWorld of Tomorrow: Scientific Imagination and Development of Society, Antwerpen, NL.",
+    "B-REF\tWittgenstein, L. (1984). Wittgenstein. Tractatus logico-philosophicus. Tagebücher 1914-1916. Philo-",
+    "I-REF\tsophische Untersuchungen. Frankfurt a.M.: Suhrkamp."
   ],
   "falseNegatives": [
     "B-REF\tHutter, M. (in diesem Band). Zur Rolle des Neuen in der Erlebnisgesellschaft und ihrer Wirtschaft.",
@@ -171,20 +180,13 @@
     "I-REF\tFrankfurt a. M.: Suhrkamp.",
     "B-REF\tReckwitz, A. (in diesem Band). Das Kreativitätsdispositiv und die sozialen Regime des Neuen.",
     "B-REF\tSchubert, C. (in diesem Band). Soziale Innovationen. Modus und Medium sozialen Wandels.",
-    "B-REF\tvon Schomberg, R. (2012). Prospects for technology assessment in a framework of responsible re-",
-    "I-REF\tsearch and innovation. In M. Dusseldorp \u0026 R. Beecroft (Hrsg.), Technikfolgen abschätzen leh-",
-    "I-REF\tren (S. 39–61). Wiesbaden: VS Verlag für Sozialwissenschaften.",
-    "B-REF\tVoss, J.-P. (in diesem Band). Governance-Innovationen. Epistemische und politische Reflexivitäten in",
-    "I-REF\tder Herstellung von „Bürgerpanelen“ als neue Form von Demokratie.",
-    "B-REF\tWentland, A. (2014). The electric future re-imagined? Reshaping cars, infrastructures, and society",
-    "I-REF\tthrough the electrification of transportation. Vortrag gehalten auf der Science Shaping the",
-    "I-REF\tWorld of Tomorrow: Scientific Imagination and Development of Society, Antwerpen, NL.",
-    "B-REF\tWindeler, A. (in diesem Band). Reflexive Innovation. Zur Innovation in der radikalisierten Moderne.",
-    "B-REF\tWittgenstein, L. (1984). Wittgenstein. Tractatus logico-philosophicus. Tagebücher 1914-1916. Philo-",
-    "I-REF\tsophische Untersuchungen. Frankfurt a.M.: Suhrkamp."
+    "B-REF\tvon Hippel, E. (2005). Democratizing Innovation. Cambridge: The MIT Press.",
+    "B-REF\tWindeler, A. (in diesem Band). Reflexive Innovation. Zur Innovation in der radikalisierten Moderne."
   ],
   "falsePositives": [
     "I-REF\tHutter, M. (in diesem Band). Zur Rolle des Neuen in der Erlebnisgesellschaft und ihrer Wirtschaft.",
-    "I-REF\tSchubert, C. (in diesem Band). Soziale Innovationen. Modus und Medium sozialen Wandels."
+    "I-REF\tSchubert, C. (in diesem Band). Soziale Innovationen. Modus und Medium sozialen Wandels.",
+    "I-REF\tvon Hippel, E. (2005). Democratizing Innovation. Cambridge: The MIT Press.",
+    "I-REF\tWindeler, A. (in diesem Band). Reflexive Innovation. Zur Innovation in der radikalisierten Moderne."
   ]
 }

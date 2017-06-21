@@ -17,6 +17,7 @@
     "Jungbauer-Gans, Monika/Gross, Christiane (2013): Determinants of Success in Scientific Careers: Findings from the German Academic Labour Market. Zeitschrift für Soziologie/42(1): S. 74-92",
     "Könekamp; Bärbel (2007): Chancengleichheit in akademischen Berufen: Beruf und Lebensführung in Naturwissenschaft und Technik. Wiesbaden",
     "Koschorke, Albrecht (2012): Wahrheit und Erfindung: Grundzüge einer Allgemeinen Erzähltheorie. Frankfurt am Main",
+    "Krais, Beate (2000): Das soziale Feld Wissenschaft und die Geschlechterverhältnisse. Theoretische Sondierungen, in: dies. (Hg.): Wissenschaftskultur und Geschlechterordnung. Über die verborgenen Mechanismen männlicher Dominanz in der akademischen Welt. Frankfurt/New York, S. 31-54",
     "Lind, Inken (2004): Aufstieg oder Ausstieg? Karrierewege von Wissenschaftlerinnen. Ein Forschungsüberblick. Bielefeld",
     "Möller, Christina (2013): Wie offen ist die Universitätsprofessur für soziale Aufsteigerinnen und Aufsteiger? Explorative Analysen über die soziale Herkunft von Professorinnen und Professoren an den nordrhein-westfälischen Universitäten, in: Soziale Welt 64 (4), S. 341- 359.",
     "Rastetter, Daniela (2013): Sexualität und Herrschaft in Organisationen, in: Müller, Ursula/ Riegraf, Birgit/ Wilz, Sylvia (Hrsg.): Geschlecht und Organisation. Wiesbaden, S. 355-387",
@@ -28,14 +29,11 @@
   ],
   "falseNegatives": [
     "Hess, Johanna/Rusconi, Alessandra/ Solga, Heike (2011): „Wir haben dieselben Ziele ...\" - Zur Bedeutung von Paarkonstellationen und Disziplinenzugehörigkeit für Karrieren von Frauen in der Wissenschaft, in: Cornelißen, Waltraud/ Rusconi, Alessandra/ Becker, Ruth (Hrsg.): Berufliche Karrieren von Frauen. Hürdenläufe in Partnerschaft und Arbeitswelt. Wiesbaden, S. 65-104",
-    "Krais, Beate (2000): Das soziale Feld Wissenschaft und die Geschlechterverhältnisse. Theoretische Sondierungen, in: dies. (Hg.): Wissenschaftskultur und Geschlechterordnung. Über die verborgenen Mechanismen männlicher Dominanz in der akademischen Welt. Frankfurt/New York, S. 31-54",
     "Voß, Günter G. (1995): Große Sicherheiten, kleine Karrieren: zur alltäglichen Lebensführung von FacharbeiterInnen und Angestellten eines Großkonzerns, in: Projektgruppe „Alltägliche Lebensführung\" (Hrsg.): Alltägliche Lebensführung. Arrangements zwischen Traditionalität und Modernisierung. Opladen"
   ],
   "falsePositives": [
     "Hess, Johanna/Rusconi, Alessandra/ Solga, Heike (2011): „Wir haben dieselben Ziele ...\" - Zur Bedeutung von Paarkonstellationen und Disziplinenzugehörigkeit für Karrieren von 15",
     "Frauen in der Wissenschaft, in: Cornelißen, Waltraud/ Rusconi, Alessandra/ Becker, Ruth (Hrsg.): Berufliche Karrieren von Frauen. Hürdenläufe in Partnerschaft und Arbeitswelt. Wiesbaden, S. 65-104",
-    "Krais, Beate (2000): Das soziale Feld Wissenschaft und die Geschlechterverhältnisse.",
-    "Theoretische Sondierungen, in: dies. (Hg.): Wissenschaftskultur und Geschlechterordnung. Über die verborgenen Mechanismen männlicher Dominanz in der akademischen Welt. Frankfurt/New York, S. 31-54",
     "Voß, Günter G. (1995): Große Sicherheiten, kleine Karrieren: zur alltäglichen Lebensführung von FacharbeiterInnen und Angestellten eines Großkonzerns, in: Projektgruppe „Alltägliche Lebensführung\" (Hrsg.): Alltägliche Lebensführung. Arrangements zwischen Traditionalität und Modernisierung. Opladen 16"
   ]
 }

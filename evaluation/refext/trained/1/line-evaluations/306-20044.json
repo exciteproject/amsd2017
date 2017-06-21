@@ -11,7 +11,6 @@
     "B-REF\tCockburn, Cynthia: Die Herrschaftsmaschine. Geschlechterverhältnisse und techniches Know-how,",
     "I-REF\tBerlin 1988.",
     "B-REF\tDijk, Teun van: Studies in the pragmatics of discourse, The Hague 1981",
-    "B-REF\tDers.: Principles of critical discourse anaylsis. Discourse and Society 4/2, 1993, S.249-285.",
     "B-REF\tDers.: Ideology: a multidisciplinary approach, London 1998.",
     "B-REF\tErb, Ulrike: Frauenperspektiven auf die Informatik. Informatikerinnen im Spannungsfeld zwischen",
     "I-REF\tDistanz und Nähe zur Technik, Münster 1996.",
@@ -31,7 +30,6 @@
     "B-REF\tFox Keller, Evelyn: Liebe, Macht und Erkenntnis. Männliche oder weibliche Wissenschaft?,",
     "I-REF\tMünchen 1986.",
     "B-REF\tFranck, Dorothea: Grammatik und Konversation, Königstein 1980.",
-    "B-REF\tFraser, Bruce: Perspectives on politeness, in: JoP 14, 1990, S. 219-236.",
     "B-REF\tGarfinkel, Harold: Studies in ethnomethodology, Cambridge 1994.",
     "B-REF\tGivon, Talmy: English Grammar: a function-based introduction, Amsterdam 1993.",
     "B-REF\tGlöckner-Rist, Angelika/Mischau, Anina: Die Wahrnehmung und Akzeptanz von Frauenuniversitäten",
@@ -121,10 +119,14 @@
     "B-REF\tWodak, Ruth: Disorders of discourse, London 1996."
   ],
   "falseNegatives": [
-    "B-REF\tDers. (ed.): Handbook of discourse analysis. 4 Vol., London 1985."
+    "B-REF\tDers. (ed.): Handbook of discourse analysis. 4 Vol., London 1985.",
+    "B-REF\tDers.: Principles of critical discourse anaylsis. Discourse and Society 4/2, 1993, S.249-285.",
+    "B-REF\tFraser, Bruce: Perspectives on politeness, in: JoP 14, 1990, S. 219-236."
   ],
   "falsePositives": [
     "I-REF\tDers. (ed.): Handbook of discourse analysis. 4 Vol., London 1985.",
-    "I-REF\t20"
+    "I-REF\tDers.: Principles of critical discourse anaylsis. Discourse and Society 4/2, 1993, S.249-285.",
+    "I-REF\t20",
+    "I-REF\tFraser, Bruce: Perspectives on politeness, in: JoP 14, 1990, S. 219-236."
   ]
 }

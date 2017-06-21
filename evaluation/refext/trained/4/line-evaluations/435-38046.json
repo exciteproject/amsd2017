@@ -1,7 +1,6 @@
 {
   "truePositives": [
     "B-REF\tAllmendinger, Jutta; Leibfried, Stephan, 2002: „Bildungsarmut im",
-    "I-REF\tSozialstaat“, in: Günter Burkart; Jürgen Wolf (Hg.), Lebenszeiten.",
     "I-REF\tErkundungen zur Soziologie der Generationen. Martin Kohli",
     "I-REF\tzum 60. Geburtstag. Opladen: Leske+Budrich, 287-315.",
     "B-REF\tBurckhart, Jacob, 1905/1982: Über das Studium der Geschich-",
@@ -68,7 +67,6 @@
     "I-REF\tfassungen der Teilprojekte, 184 S.; Bd. II: Anhang, 427 S. Bre-",
     "I-REF\tmen: Universität.",
     "B-REF\tSonderforschungsbereich (Sfb) 2002: Sonderforschungsbereich",
-    "I-REF\t1953 (inzwischen Sfb 597). Staatlichkeit im Wandel, Bd.1: All-",
     "I-REF\tgemeine Angaben und Projektbereiche A und B, Bd. 2: Projekt-",
     "I-REF\tbereiche C und D sowie Teilprojekt Z, Bremen: Universität Bre-",
     "I-REF\tmen, 944 S.",
@@ -86,9 +84,15 @@
     "I-REF\tland“, in: ders., Gesammelte politische Schriften. Tübingen: Mohr,",
     "I-REF\t245-291.",
     "B-REF\tZeS (Zentrum für Sozialpolitik), 2002: Tätigkeitsbericht Januar",
-    "I-REF\t1999 bis Dezember 2001. Bremen: Zentrum für Sozialpolitik,",
+    "I-REF\t1999 bis Dezember 2001. Bremen: Zentrum für Sozialpolitik,"
+  ],
+  "falseNegatives": [
+    "I-REF\tSozialstaat“, in: Günter Burkart; Jürgen Wolf (Hg.), Lebenszeiten.",
+    "I-REF\t1953 (inzwischen Sfb 597). Staatlichkeit im Wandel, Bd.1: All-",
     "I-REF\tUniversität Bremen."
   ],
-  "falseNegatives": [],
-  "falsePositives": []
+  "falsePositives": [
+    "B-REF\tSozialstaat“, in: Günter Burkart; Jürgen Wolf (Hg.), Lebenszeiten.",
+    "B-REF\t1953 (inzwischen Sfb 597). Staatlichkeit im Wandel, Bd.1: All-"
+  ]
 }

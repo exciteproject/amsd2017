@@ -80,7 +80,6 @@
     "B-REF\tEnzmann, Dirk/Brettfeld, Katrin/Wetzels, Peter, 2003: Männlichkeitsnormen und die Kultur der",
     "I-REF\tEhre. Empirische Prüfung eines theoretischen Modells zur Erklärung erhöhter Delinquenzraten",
     "I-REF\tjugendlicher Migranten. S. 264-287 in: Oberwittler, D./Karstedt, S. (Hrsg.), Soziologie der",
-    "I-REF\tKriminalität. (Sonderheft 43 der Kölner Zeitschrift für Soziologie und Sozialpsychologie).",
     "I-REF\tWiesbaden: VS Verlag für Sozialwissenschaften.",
     "B-REF\tEsser, Hartmut, 1996: Ethnische Konflikte als Auseinandersetzung um den Wert von kulturellem",
     "I-REF\tKapital. S. 64-99 in: Heitmeyer, W./Dollase, R. (Hrsg.), Die bedrängte Toleranz. Ethnisch-",
@@ -273,15 +272,12 @@
     "I-REF\tNineteenth Century Germany and France. London: Groom Helm Rowman \u0026 Littlefield."
   ],
   "falseNegatives": [
+    "I-REF\tKriminalität. (Sonderheft 43 der Kölner Zeitschrift für Soziologie und Sozialpsychologie).",
     "B-REF\tGurr, Ted R., 1970: Why Men Rebel. Princeton: Princeton University Press.",
     "B-REF\tTittle, Charles R./Villemez, W. J., 1977: Social Class and Criminology. Social Forces 56: 474-502."
   ],
   "falsePositives": [
-    "I-REF\t36",
-    "I-REF\tSoziale Probleme, 16. Jg., 2005",
     "I-REF\tGurr, Ted R., 1970: Why Men Rebel. Princeton: Princeton University Press.",
-    "B-REF\tGroenemeyer: Ordnungen der Exklusion – Ordnungen der Gewalt",
-    "I-REF\t37",
     "I-REF\tTittle, Charles R./Villemez, W. J., 1977: Social Class and Criminology. Social Forces 56: 474-502."
   ]
 }

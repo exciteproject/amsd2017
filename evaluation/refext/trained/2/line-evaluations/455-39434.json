@@ -41,5 +41,18 @@
     "I-REF\tMering: Reiner Hampp Verlag"
   ],
   "falseNegatives": [],
-  "falsePositives": []
+  "falsePositives": [
+    "I-REF\tZur Person",
+    "I-REF\tCarmen Leicht­Scholten, Dr. phil, Leitung des „Integration Team – Human Resources, Gender",
+    "I-REF\tand Diversity Management“ (IGaD), RWTH Aachen. Arbeits- und Forschungsschwerpunkte:",
+    "I-REF\tGender und Diversity in Wissenschaft und Hochschule, Gender and Diversity Management, Gen-",
+    "I-REF\tder und Diversity in MINT-Fächern",
+    "I-REF\tKontakt: RWTH Aachen, IGaD, Templergraben 55, 52056 Aachen",
+    "I-REF\tE-Mail: carmen.leicht-scholten@igad.rwth-aachen.de",
+    "B-REF\tAndrea Wolffram, Dr. phil., stellvertretende Leiterin des „Integration Team – Human Resources,",
+    "I-REF\tGender and Diversity Management“ (IGaD), RWTH Aachen. Arbeits- und Forschungsschwer-",
+    "I-REF\tpunkte: Gender in Wissenschaft und Hochschule, Gender and Diversity Management, Arbeits-",
+    "I-REF\tund Organisationssoziologie, Gender Technology Studies",
+    "I-REF\tKontakt: RWTH Aachen, IGaD, Templergraben 55, 52056 Aachen"
+  ]
 }

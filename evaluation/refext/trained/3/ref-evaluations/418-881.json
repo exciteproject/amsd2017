@@ -61,6 +61,7 @@
     "Mumford, L. (1963): Technics and Civilization, New York.",
     "Mumford, L. (1977): Der Mythos der Maschine. Kultur, Technik und Macht, Frankfurt/M.",
     "Nelson, R.R./Winter, S. (1982): An Evolutionary Theory of Economic Change, Cambridge.",
+    "Noble, D.F. (1984): Social Forces of Production, Oxford.",
     "Ogburn, W.F. (1936): Technological Trends and National Policy, Washington.",
     "Ogburn, W.F. (1922): Social Change: With Respect to Culture and Original Nature, New York.",
     "Ong, W.J. (1987): Oralität und Literalität. Die Technologisierung des Wortes, Opladen.",
@@ -90,8 +91,6 @@
     "Tushman, M./Rosenkopf, L. (1992): Organizational Determinants of Technological Change. In: Research in Organization Behaviour 14.",
     "Ullrich, O. (1977): Technik und Herrschaft, Frankfurt/M.",
     "Virilio, P. (1989): Der negative Horizont. Bewegung/Geschwindigkeit/Beschleunigung, München.",
-    "Wajcman, J. (1994): Technik und Geschlecht, Die feministische Technikdebatte, Frankfurt/M.",
-    "Werle, R. (1990): Telekommunikation in der Bundesrepublik, Frankfurt/M.",
     "Weyer, J. u.a. (1997): Technik, die Gesellschaft schafft, Berlin.",
     "White, L. (1962): Medieval Technology and Social Change, Oxford.",
     "White, L. (1968): Deus ex Machina, Cambridge.",
@@ -105,14 +104,15 @@
     "Luhmann, N. (1975, Macht, Stuttgart.",
     "MacKenzie, D./Wajcman, J. (Hg.), 1985, The Social Shaping of Technology, London.",
     "Marcuse, H. (1967, Der eindimensionale Mensch, Neuwied.",
-    "Noble, D.F. (1984): Social Forces of Production, Oxford.",
-    "Rammert, W. (1998a): Die kulturelle Orientierung der technischen Entwicklung. [Eine technikgenetische Perspektive.] In: P. Eulenhöfer u.a. (Hg.): Sozialgeschichte der Informatik. Soziale Praktiken und Orientierungen, Wiesbaden."
+    "Rammert, W. (1998a): Die kulturelle Orientierung der technischen Entwicklung. [Eine technikgenetische Perspektive.] In: P. Eulenhöfer u.a. (Hg.): Sozialgeschichte der Informatik. Soziale Praktiken und Orientierungen, Wiesbaden.",
+    "Wajcman, J. (1994): Technik und Geschlecht, Die feministische Technikdebatte, Frankfurt/M.",
+    "Werle, R. (1990): Telekommunikation in der Bundesrepublik, Frankfurt/M."
   ],
   "falsePositives": [
     "Leroi-Gourhan, A. (1980): Hand und Wort. Die Evolution von Technik, Sprache und Kunst, Frankfurt/M. Luhmann, N. (1975, Macht, Stuttgart.",
     "MacKenzie, D./Wajcman, J. (Hg.), 1985, The Social Shaping of Technology, London. Marcuse, H. (1967, Der eindimensionale Mensch, Neuwied.",
-    "Noble, D.F. (1984): Social Forces of Production, Oxford. 19",
     "Rammert, W. (1998a): Die kulturelle Orientierung der technischen Entwicklung.",
-    "[Eine technikgenetische Perspektive.] In: P. Eulenhöfer u.a. (Hg.): Sozialgeschichte der Informatik. Soziale Praktiken und Orientierungen, Wiesbaden."
+    "[Eine technikgenetische Perspektive.] In: P. Eulenhöfer u.a. (Hg.): Sozialgeschichte der Informatik. Soziale Praktiken und Orientierungen, Wiesbaden.",
+    "Wajcman, J. (1994): Technik und Geschlecht, Die feministische Technikdebatte, Frankfurt/M. Werle, R. (1990): Telekommunikation in der Bundesrepublik, Frankfurt/M."
   ]
 }

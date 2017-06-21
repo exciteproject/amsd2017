@@ -14,6 +14,8 @@
     "Groppe, Carola 2004: Der Geist des Unternehmertums. Eine Bildungs- und Sozialgeschichte. Die Seidenfabrikantenfamilie Colsman (1649-1840), Köln Weimar Wien.",
     "Halbwachs, Maurice 1966: Das Gedächtnis und seine sozialen Rahmenbedingungen, Soziologi- sche Texte Bd. 34, Berlin",
     "Lövinson, Martin: Ohne Titel, New York Leo Baeck Institute (NYLBI) Memoir Collection, 63- 64.",
+    "Miron, Guy 2004: German Jews in Israel: Memories and Past Images (Hebräisch), Jerusalem",
+    "Römer, Nils 2002: The Historicizing of Judaism in 19th-Century Germany: Scholars, Disci- pline and Popular Historical Culture (Columbia University, Ms)",
     "Römer, Nils 2005: Jewish Scholarship and Culture in Nineteenth-Century Germany. Between History and Faith,, Madison/Wisconsin",
     "Roseman, Mark 2002: In einem unbewachten Augenblick. Eine Frau überlebt im Untergrund, Berlin",
     "Schorsch, Ismar 1994: From Text to Context. The Turn to History in Modern Judaism, Hanover and London",
@@ -27,11 +29,6 @@
     "Wischermann, Clemens 1996: Geschichte als Wissen, Gedächtnis oder Erinnerung? Bedeut- samkeit und Sinnlosigkeit in Vergangenheitskonzeptionen der Wissenschaften vom Menschen, in: Ders. (Hg.): Die Legitimität der Erinnerung und die Geschichtswissen- schaft (\u003dStudien zur Geschichte des Alltags Bd. 15), Stuttgart, S. 55-85.",
     "Ders, 2002: Kollektive, Generationen oder das Individuum als Grundlage von Sinnkonstruktio- nen durch Geschichte: Einleitende Überlegungen, in: Ders. (Hg.): Vom kollektiven Ge- dächtnis zur Individualisierung der Erinnerung (\u003dStudien zur Geschichte des Alltags, Bd. 18), Stuttgart, 9-23."
   ],
-  "falseNegatives": [
-    "Miron, Guy 2004: German Jews in Israel: Memories and Past Images (Hebräisch), Jerusalem",
-    "Römer, Nils 2002: The Historicizing of Judaism in 19th-Century Germany: Scholars, Disci- pline and Popular Historical Culture (Columbia University, Ms)"
-  ],
-  "falsePositives": [
-    "Miron, Guy 2004: German Jews in Israel: Memories and Past Images (Hebräisch), Jerusalem Römer, Nils 2002: The Historicizing of Judaism in 19th-Century Germany: Scholars, Disci- pline and Popular Historical Culture (Columbia University, Ms)"
-  ]
+  "falseNegatives": [],
+  "falsePositives": []
 }

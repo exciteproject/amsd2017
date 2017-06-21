@@ -118,7 +118,6 @@
     "B-REF\tUllrich, O. (1977): Technik und Herrschaft, Frankfurt/M.",
     "B-REF\tVirilio, P. (1989): Der negative Horizont. Bewegung/Geschwindigkeit/Beschleunigung, München.",
     "B-REF\tWajcman, J. (1994): Technik und Geschlecht, Die feministische Technikdebatte, Frankfurt/M.",
-    "B-REF\tWerle, R. (1990): Telekommunikation in der Bundesrepublik, Frankfurt/M.",
     "B-REF\tWeyer, J. u.a. (1997): Technik, die Gesellschaft schafft, Berlin.",
     "B-REF\tWhite, L. (1962): Medieval Technology and Social Change, Oxford.",
     "B-REF\tWhite, L. (1968): Deus ex Machina, Cambridge.",
@@ -132,12 +131,13 @@
   "falseNegatives": [
     "B-REF\tLuhmann, N. (1975, Macht, Stuttgart.",
     "B-REF\tMarcuse, H. (1967, Der eindimensionale Mensch, Neuwied.",
-    "I-REF\t[Eine technikgenetische Perspektive.] In: P. Eulenhöfer u.a. (Hg.): Sozialgeschichte der Informatik. Soziale"
+    "I-REF\t[Eine technikgenetische Perspektive.] In: P. Eulenhöfer u.a. (Hg.): Sozialgeschichte der Informatik. Soziale",
+    "B-REF\tWerle, R. (1990): Telekommunikation in der Bundesrepublik, Frankfurt/M."
   ],
   "falsePositives": [
     "I-REF\tLuhmann, N. (1975, Macht, Stuttgart.",
     "I-REF\tMarcuse, H. (1967, Der eindimensionale Mensch, Neuwied.",
-    "I-REF\t19",
-    "B-REF\t[Eine technikgenetische Perspektive.] In: P. Eulenhöfer u.a. (Hg.): Sozialgeschichte der Informatik. Soziale"
+    "B-REF\t[Eine technikgenetische Perspektive.] In: P. Eulenhöfer u.a. (Hg.): Sozialgeschichte der Informatik. Soziale",
+    "I-REF\tWerle, R. (1990): Telekommunikation in der Bundesrepublik, Frankfurt/M."
   ]
 }

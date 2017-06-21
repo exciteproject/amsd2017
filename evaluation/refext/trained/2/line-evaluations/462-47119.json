@@ -1,6 +1,5 @@
 {
-  "truePositives": [],
-  "falseNegatives": [
+  "truePositives": [
     "B-REF\tFegert, Jörg M.; Ulrike Hoffmann;",
     "I-REF\tNina Spröber \u0026 Hubert Liebhardt",
     "I-REF\t(2013): „Child sexual abuse. Epide-",
@@ -23,6 +22,15 @@
     "I-REF\tKatharina Urbann \u0026 Pia Bienstein",
     "I-REF\t(2015): „Prävention von sexuellem",
     "I-REF\tMissbrauch an Kindern und Ju-",
+    "I-REF\tMonitoring 2012–2013. UBSKM:",
+    "I-REF\tBerlin.",
+    "B-REF\tUrbann, Katharina; Karla Verlinden",
+    "I-REF\t\u0026 Pia Bienstein (2015): „Sexuel-",
+    "I-REF\tler Missbrauch an Kindern und Ju-",
+    "I-REF\tgendlichen mit Hörbehinderung.",
+    "I-REF\tchen 99, 36–46."
+  ],
+  "falseNegatives": [
     "I-REF\tgendlichen mit Behinderung. Ers-",
     "I-REF\tte Ergebnisse der bundesweiten",
     "I-REF\tSeMB-online-Befragung von Mitar-",
@@ -37,14 +45,11 @@
     "I-REF\tder Empfehlungen des Runden Ti-",
     "I-REF\tsches „Sexueller Kindesmissbrauch“",
     "I-REF\t– Bericht mit Praxisbeispielen zum",
-    "I-REF\tMonitoring 2012–2013. UBSKM:",
-    "I-REF\tBerlin.",
-    "B-REF\tUrbann, Katharina; Karla Verlinden",
-    "I-REF\t\u0026 Pia Bienstein (2015): „Sexuel-",
-    "I-REF\tler Missbrauch an Kindern und Ju-",
-    "I-REF\tgendlichen mit Hörbehinderung.",
-    "I-REF\tTeil I: Eine Einführung“. In: Das Zei-",
-    "I-REF\tchen 99, 36–46."
+    "I-REF\tTeil I: Eine Einführung“. In: Das Zei-"
   ],
-  "falsePositives": []
+  "falsePositives": [
+    "I-REF\tkoeln.de) geleitet wird.",
+    "B-REF\tBeitrag aus: DAS ZEICHEN 103/2016 • Zeitschrift für Sprache und Kultur Gehörloser",
+    "I-REF\t(http://www.idgs.uni-hamburg.de/de/forschung/publikationen/daszeichen.html)"
+  ]
 }

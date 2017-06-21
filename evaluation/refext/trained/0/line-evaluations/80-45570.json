@@ -9,5 +9,8 @@
     "I-REF\tsche Lehrerzeitung, 11, S. 22-23."
   ],
   "falseNegatives": [],
-  "falsePositives": []
+  "falsePositives": [
+    "I-REF\tfahren zurückgreifen, legt vielmehr den Schluss nahe, dass auch diesbezüglich Aus- und Fortbil-",
+    "I-REF\tdungsbedarf besteht (vgl. z.B. Walker 2014)."
+  ]
 }

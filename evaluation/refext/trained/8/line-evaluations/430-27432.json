@@ -25,10 +25,10 @@
     "I-REF\tLearning from a Decade of Reform, Washington",
     "I-REF\tD.C.",
     "B-REF\tYeaple, S. (2003): The complex integration strat-",
-    "I-REF\tegies of multinationals and cross country depend"
+    "I-REF\tegies of multinationals and cross country depend",
+    "I-REF\tencies in the structure of foreign direct invest­"
   ],
   "falseNegatives": [
-    "I-REF\tencies in the structure of foreign direct invest­",
     "I-REF\tment, in: Journal of International Development,",
     "I-REF\tJg. 60, S. 293-314."
   ],

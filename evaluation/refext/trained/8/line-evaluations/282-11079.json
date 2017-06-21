@@ -151,7 +151,6 @@
     "I-REF\tanalytische Kategorie für die entwicklungspolitische Arbeit in gewaltsamen Koniflkten? , Bonn: EED.",
     "B-REF\tMünkler, Herfried (2002): Die neuen Kriege, Hamburg: Rowohlt.",
     "B-REF\tOspina, Sofi (2006): A Review and Evaluation of Gender-Related Activities of UN Peacekeeping Operations on Gender Relations",
-    "I-REF\tin Timor Leste, New York: DPKO HG.",
     "B-REF\tRaven-Roberts, Angela (2005): “Gender Mainstreaming in United Nations Peacekeeping Operations: Talking the Talk, Trip-",
     "I-REF\tping over the Walk”, in: Mazurana, Dyan/Raven-Roberts, Angela/Parpart, Jane (Hg.): Gender, Coniflct and Peacekeep -",
     "I-REF\ting, Lanham, Boulder, New York: Rowman \u0026 Littleefild: 43-63.",
@@ -218,16 +217,18 @@
     "I-REF\tPeacekeeping. Bosnia and the Netherlands, London: Lawrence \u0026 Wishart: 183-203."
   ],
   "falseNegatives": [
+    "I-REF\tin Timor Leste, New York: DPKO HG.",
     "B-REF\tWhitworth, Sandra (1998): “Gender, Race and the Politics of Peacekeeping”, in: Moxon-Browne, Edward (Hg.): A Future for"
   ],
   "falsePositives": [
     "I-REF\tSeite 22",
-    "B-REF\tdI t tmer: Ge Nder, Ko Nfl IK t, Ko Nfl IK tbearbe Itu NG",
+    "I-REF\tdI t tmer: Ge Nder, Ko Nfl IK t, Ko Nfl IK tbearbe Itu NG",
     "I-REF\tSeite 23",
     "I-REF\tCCS working papers",
     "I-REF\tNo. 6",
+    "B-REF\tin Timor Leste, New York: DPKO HG.",
     "B-REF\tSeite 24",
-    "B-REF\tdI t tmer: Ge Nder, Ko Nfl IKt, Ko Nfl IKtbearbe Itu NG",
+    "I-REF\tdI t tmer: Ge Nder, Ko Nfl IKt, Ko Nfl IKtbearbe Itu NG",
     "I-REF\tWhitworth, Sandra (1998): “Gender, Race and the Politics of Peacekeeping”, in: Moxon-Browne, Edward (Hg.): A Future for"
   ]
 }

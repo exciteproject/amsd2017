@@ -50,6 +50,7 @@
     "B-REF\tLittle, T. D./Jones, S. M./Henrich, C. C./Hawley, P. H. (2003): Disentangling the “whys” from the “whats”",
     "I-REF\tof aggressive behaviour. International Journal of Behavioral Development, 27, 2, pp. 122-133.",
     "B-REF\tMenesini, E./Nocentini, A./Palladino, B. E./Frisen, A./Berne, S./Ortega, R./Calmaestra, J./Scheithauer,",
+    "I-REF\tH./Schultze-Krumbholz, A./Luik, P./Naruskov, K./Blaya, C./Berthaud, J./Smith, P. K. (2012): Cyber-",
     "I-REF\tbullying definition among adolescents: A comparison across six European countries. Cyberpsycho-",
     "I-REF\tlogy, Behavior, and Social Networking, 15, 9, pp. 455-463.",
     "B-REF\tMishna, F./Khoury-Kassabri, M./Gadalla, T./Daciuk, J. (2012): Risk factors for involvement in cyber",
@@ -137,14 +138,13 @@
   ],
   "falseNegatives": [
     "B-REF\tField, A. (2009): Discovering statistics using SPSS. – London, UK.",
-    "I-REF\tL./Dennis, K. D./Bird, H./Jensen, P. S. (2000): Age and gender differences in oppositional behavior",
-    "I-REF\tH./Schultze-Krumbholz, A./Luik, P./Naruskov, K./Blaya, C./Berthaud, J./Smith, P. K. (2012): Cyber-"
+    "I-REF\tL./Dennis, K. D./Bird, H./Jensen, P. S. (2000): Age and gender differences in oppositional behavior"
   ],
   "falsePositives": [
     "I-REF\tDiskurs Kindheits- und Jugendforschung Heft 1-2014, S. 61-79 77",
     "I-REF\tField, A. (2009): Discovering statistics using SPSS. – London, UK.",
     "B-REF\tL./Dennis, K. D./Bird, H./Jensen, P. S. (2000): Age and gender differences in oppositional behavior",
-    "B-REF\tH./Schultze-Krumbholz, A./Luik, P./Naruskov, K./Blaya, C./Berthaud, J./Smith, P. K. (2012): Cyber-",
-    "B-REF\tDiskurs Kindheits- und Jugendforschung Heft 1-2014, S. 61-79 79"
+    "I-REF\t78 A. Schultze-Krumbholz u.a.: Prävention von Cybermobbing durch das Programm Medienhelden",
+    "I-REF\tDiskurs Kindheits- und Jugendforschung Heft 1-2014, S. 61-79 79"
   ]
 }
